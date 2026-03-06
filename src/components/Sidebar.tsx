@@ -95,7 +95,7 @@ export function Sidebar({ categories }: { categories: SidebarCategory[] }) {
           >
             {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </button>
-          <span className="ml-2 font-bold text-lg text-slate-900 dark:text-slate-100">Weekly Master</span>
+          <span className="ml-2 font-bold text-lg text-slate-900 dark:text-slate-100">蒙鼓上单</span>
         </div>
         <ThemeToggle />
       </div>
@@ -113,7 +113,7 @@ export function Sidebar({ categories }: { categories: SidebarCategory[] }) {
             <div className="bg-blue-600 p-1.5 rounded-lg text-white">
               <BookOpen className="h-5 w-5" />
             </div>
-            <span>Weekly Master</span>
+            <span>蒙鼓上单</span>
           </Link>
           <ThemeToggle />
         </div>

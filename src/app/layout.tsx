@@ -7,7 +7,7 @@ import { getAllCategories } from "@/lib/data";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "科技爱好者周刊 - Weekly Master",
+  title: "蒙鼓上单",
   description: "阮一峰的科技爱好者周刊静态归档",
 };
 

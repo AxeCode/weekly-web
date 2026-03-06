@@ -1,0 +1,12 @@
+{
+  "name": "示意图利器 D2",
+  "slug": "-d2",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 329,
+      "issueTitle": "科技爱好者周刊（第 329 期）：示意图利器 D2",
+      "content": "\n制作示意图的工具有很多。\n\n我喜欢使用基于文本代码的作图工具，来绘制线框图，比如 Mermaid、Plantuml、Graphviz。\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121201.webp)\n\n它们都能根据代码，生成图片，非常适合放入代码仓库，进行版本管理。\n\n最近，我发现了一个更易用的同类工具 [D2](https://d2lang.com)，简单直观，功能强大，下面介绍给大家。\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120613.webp)\n\nD2 可以命令行使用，也可以浏览器使用。假定你有一个图片代码文件`example.d2`，那么生成图片的命令如下。\n\n> $ d2 example.d2\n\n大部分时候，我都通过浏览器使用它。它有一个线上生成器 [play.d2lang.com](https://play.d2lang.com/)（下图），把代码贴进去，按下“compile”按钮，马上生成图片。\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121202.webp)\n\n想要 A 节点（节点的名称为 A），直接输入 A 就可以了。\n\n> A\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120601.webp)\n\nA 只是节点名称，如果要定制节点的内容，就像下面这样写。\n\n> A: 甲\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120602.webp)\n\n接着，添加一个节点。\n\n> A: 甲   \n> B: 乙\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120603.webp)\n\n把它们连起来。\n\n> A: 甲  \n> B: 乙  \n> A -> B\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120604.webp)\n\n连接可以用正箭头（`->`）、也可以用反箭头（`<-`），甚至双向箭头（`<->`）。如果不需要箭头，就直接连线（`--`）。\n\n箭头上还能添加文字。\n\n> A: 甲  \n> B: 乙  \n> A -> B: 连接\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120606.webp)\n\n节点之间可以有多根连线。\n\n> A: 甲  \n> B: 乙  \n> A -> B: 请求  \n> A <- B: 响应\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120609.webp)\n\n节点的连接也可以写在一行。\n\n> 甲 -> 丙 <- 乙: 连接\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120610.webp)\n\n> 阶段一 -> 阶段二 -> 阶段三 -> 阶段四  \n> 阶段四 -> 阶段一: 反馈\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120611.webp)\n\n这些语法就够画出基本的线框图了，是不是挺简单。\n\nD2 可以绘制非常复杂的图，更多语法参考[文档](https://d2lang.com/tour/intro)。\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120614.webp)\n\n最后提一下，如果想修改节点形状，方框改成圆形，就像下面这样写。\n\n> A: 甲  \n> A.shape: circle\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120607.webp)\n\n形状甚至可以改成一朵云，表示云服务。\n\n> A: 甲  \n> A.shape: cloud\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120608.webp)\n\n线条颜色也可以改。\n\n> A: 甲  \n> A.style.stroke: red\n\n![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120612.webp)\n"
+    }
+  ]
+}

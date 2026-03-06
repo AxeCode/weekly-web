@@ -1,0 +1,12 @@
+{
+  "name": "飞连",
+  "slug": "fei-lian",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 190,
+      "issueTitle": "科技爱好者周刊（第 190 期）：产品化思维",
+      "content": "\r\n这两天，有一篇文章很火——[《字节跳动不需要总部大楼》](https://mp.weixin.qq.com/s/nPChaKQcotEzttnSysom5w)。字节跳动现在有11万员工，分布在150个国家和地区，却没有一个物理意义上的总部，如此大规模的远程办公，是怎么做到的？\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122906.webp)\r\n\r\n（上图：单单在北京，字节就有近20个办公场所。）\r\n\r\n这背后，协同办公平台“飞书”，是支撑起11万人高效办公的效率工具。同时，大家可以想象，办公安全也成为字节这种混合办公的巨大考验。支撑起11万人办公安全的，则是另一款产品——[“飞连”](https://www.volcengine.com/products/feilian/?utm_source=outsidemedia&utm_medium=ruanyifeng&utm_term=wx_readmore&utm_campaign=20211231&utm_content=feilian)。\r\n\r\n简单来说，**“飞连”是字节的数字化安全办公平台，为字节11万人的办公安全保驾护航。** 它本身是一个网关服务，集员工身份统一管理、网络与应用权限管理、办公终端管理、安全检测等功能于一体。今年6月，它通过字节跳动旗下的企业级技术服务平台[“火山引擎”](https://www.volcengine.com/)对外开放。\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202112/bg2021123009.webp)\r\n\r\n飞连的具体功能有：\r\n\r\n**（1）身份权限管理。** 将分散在不同系统的身份信息，以可视化的组织架构进行集中管理，按照员工角色、部门、甚至生命周期自动调整权限，同时支持单点登录，实现常用应用的便捷登录。\r\n\r\n**（2）办公网络（Wi-Fi、有线网络）与虚拟专用网络（VPN）的准入系统。** 飞连不仅支持 PC 端、移动端，还能管理物联网办公设备、员工自携带设备（BYOD）、打印机、摄像头等，并支持使用者的追溯。\r\n\r\n**（3）终端安全平台。** 飞连提供完整的代码防泄漏、杀毒、应用及进程风险检测、全终端基线检查等能力；更能够梳理员工数据画像，提高软硬件使用率，节省 IT 建设成本。\r\n\r\n**（4）智慧 IT 管理工具。** 支持网络诊断与自助修复、在线帮助中心、Oncall 一键拉起、自动获取客户端故障日志等功能。\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202112/bg2021123011.webp)\r\n\r\n以上这些功能，全是字节同款，经过字节内部实践验证。所以，它的可靠性、性能、安全完全有保障。\r\n\r\n如果你们公司也有内网接入的需求，不妨考虑一下飞连，可到[火山引擎官网](https://www.volcengine.com/products/feilian/?utm_source=outsidemedia&utm_medium=ruanyifeng&utm_term=wx_readmore&utm_campaign=20211231&utm_content=feilian)详细了解，并申请试用，也可以扫描下面的二维码申请试用。\r\n\r\n<a href=\"https://cdn.beekka.com/blogimg/asset/202112/bg2021123016.webp\" target=\"_blank\"><img src=\"https://cdn.beekka.com/blogimg/asset/202112/bg2021123016.webp\" width=\"800\"></a>\r\n\r"
+    }
+  ]
+}

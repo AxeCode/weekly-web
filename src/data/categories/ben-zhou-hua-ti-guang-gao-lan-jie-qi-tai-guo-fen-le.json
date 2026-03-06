@@ -1,0 +1,12 @@
+{
+  "name": "本周话题：广告拦截器太过分了",
+  "slug": "ben-zhou-hua-ti-guang-gao-lan-jie-qi-tai-guo-fen-le",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 167,
+      "issueTitle": "科技爱好者周刊（第 167 期）：广告拦截器太过分了",
+      "content": "\n上月的一期周刊，发生了怪事。我的个人网站有读者[留言](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html#comment-427536)：“怎么少了两段内容，你是不是遗漏了？”他的浏览器里，有两段文字消失了。\n\n后来找到原因，原来是广告拦截器把那两段隐藏了。本周，我想谈谈这件事。\n\n![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071411.jpg)\n\n有些读者可能不知道，什么是广告拦截器，我先科普一下。它是一种浏览器插件，用来拦截网页广告，使其不显示。\n\n它有一套内置的过滤规则，只要符合规则，就会认定内容是广告，从而拦截或隐藏。比如，它会自动拦截脚本文件`ad.js`，因为脚本名称里面含有“ad”（广告）这个词。\n\n内置的过滤规则，主要来自网上几个著名的[规则集](https://github.com/hl2guide/All-in-One-Customized-Adblock-List/blob/master/adfilters_urls.txt)（filter lists），拦截器会每天定时下载。下图就是规则集的配置界面。\n\n![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071412.jpg)\n\n[Easylist](https://easylist.to/) 是最著名的一个规则集，所有拦截器基本都会装。它还有不同国家的国别版，中国用户会装[中国版](https://github.com/easylist/easylistchina)。\n\n中国版[点进去](https://easylist-downloads.adblockplus.org/easylistchina.txt)，就是一个文本文件，搜索“ruanyifeng.com”。就能看到，大概有十几条规则是针对我的。\n\n![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071413.jpg)\n\n第一次看到时，我挺震惊的。一个单纯的个人博客网站，有人居然写了这么多规则，重兵围剿。下面，我选几条，让大家看看它到底拦截了什么东西。\n\n```\n! 拦截脚本 checker.js\nruanyifeng.com/blog/checker.js\n\n! 隐藏指向 t.cn 的链接\nruanyifeng.com##a[href^=\"http://t.cn/\"]\n\n! 隐藏含有“培训”的段落\nruanyifeng.com##p:-abp-contains(培训)\n```\n\n上面最后一条规则，就是不允许我写“培训”两个字，只要写了，该段落就会自动隐藏。这就是为什么开头的那个读者看不到两段文字的原因，因为里面正好有这个词。\n\n最厉害的还是下面这条[规则](https://adblockplus.org/development-builds/added-support-for-the-csp-filter-option)，曾经出现在其他规则集里面。\n```\nruanyifeng.com^$csp=script-src 'none'\n```\n\n它可以禁掉所有 JS 脚本，包括内联的和外链的，防止你使用反拦截措施。有了这条规则，你的页面就运行不了 JS 了，就是这么霸道。如果想进一步了解过滤语法，可以阅读[官方文档](https://help.eyeo.com/adblockplus/how-to-write-filters)和[速查表](https://adblockplus.org/filter-cheatsheet)。\n\n我能理解，大家不喜欢看广告，但它现在的这种做法，简直就是霸凌。完全凌驾于站长之上，任意篡改他人页面，隐藏段落，禁掉脚本，为所欲为，让读者误以为原来就是这样，怀疑网站是不是出错了，还有没有一点点对于原始作者的尊重！\n\n由于插件的优先级高于网页作者，等于让后者任人宰割，毫无还手能力。浏览器难道不应该限制一下插件的权限吗，能不能给予站长反插件的能力？\n\n没错，如果没有广告，页面可以更清爽、加载更快。但是，现实世界中广告到处都是，每时每刻都是铺天盖地的促销和宣传，随便打开一个 App，里面肯定有广告。这是世界运作的方式，也是生活的一部分。你能够接受这个有缺陷的世界，选择对生活中其它广告视若无睹，却要拿小网站开刀，不许它们的页面上出现广告，这是不是太矫情和可笑了？广告拦截器的初衷也许是好的，但现状就是维护者黑箱操作，任意制定规则，幼稚又自大，无法改变这个充满广告的世界，只会拿小网站开刀。\n"
+    }
+  ]
+}

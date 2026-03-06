@@ -1,0 +1,12 @@
+{
+  "name": "Bug 追踪系统的正确样子",
+  "slug": "b-u-g-zhui-zong-xi-tong-de-zheng-que-yang-zi",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 352,
+      "issueTitle": "科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子",
+      "content": "\n上周的话题是 [GitHub Issues](https://github.com/features/issues)，把它当作笔记工具，很强悍。\n\n但是，有些话来不及说。**它的本职工作——Bug 追踪系统——并不好用**。\n\n![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060805.webp)\n\n你用它来管理 Bug，就会发现有设计缺陷，用起来不顺手。\n\n![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060806.webp)\n\n现在还活着的、历史最悠久的 Bug 追踪系统是 [Bugzilla](https://www.bugzilla.org/)。\n\n它的一个早期工程师，前不久写了[一篇文章](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/)，介绍 Bugzilla 的四条设计原则。\n\n他说，只有满足这四点，才是一个好的 Bug 追踪系统（bug tracking system），我感到很有启发。\n\n**（1）所有任务都要列入 Bug 追踪**。不仅包括代码 Bug，还包括待开发的新功能、缺失的文档、令人困惑的用户体验、糟糕的性能等等。\n\n换言之，Bug 追踪系统本质是任务管理，应该当作项目管理系统来用。\n\n**（2）Bug 的状态有多种，不只“打开”和“关闭”两种。**\n\n大公司的 Bug 处理流程，可能很复杂，下面是一张从 [Bugzilla 文档](https://www.bugzilla.org/docs/3.6/en/html/lifecycle.html)拷贝的流程图。\n\n![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060807.webp)\n\nBug 追踪系统应该足够灵活，可以自定义优先级、严重程度、是否已分配、是否有依赖等等，以便适配各种流程。\n\n**（3）每个 Bug 只能由一人负责。** \n\n这样才能明确责任，方便查看每个人正在做什么、接下来要做什么、以及最近做了什么。这也有利于培养开发者的归属感和成就感。\n\n**（4）支持自定义视图。**\n\n由于 Bug 有多种状态，追踪系统必须支持自定义视图查看，拥有强大的查询功能。\n\n系统的默认视图：按照优先级，列出当前版本的所有没有关闭的 Bug。\n\n开发者的个人视图：列出分配给他们的所有 Bug，同样按优先级排序。另外，用户可以保存自己的自定义视图。\n\n以上四条，就是好的 Bug 追踪系统的标准。问题是 GitHub Issues 一条都没做到。\n\n> 1. 项目管理功能太弱。\n> 1. 状态只能靠标签。\n> 1. 任务可以分配给多个人。\n> 1. 视图默认按创建时间排序，且只能切换成标签视图。\n\n在这方面，GitHub 甚至不如 Gitea。\n\n举例来说，GitHub 没有办法让最重要的 Bug（P0 级别），自动出现在第一位（下图），除非手动置顶。\n\n![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060809.webp)\n\n相比之下，Gitea（包括分叉的 Forgejo）提供了“[标签集](https://docs.gitea.com/administration/customizing-gitea#labels)”（label set），允许一个标签有多个值，并可以按同一个标签的值排序。\n\n![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060810.webp)\n\n上图中，标签“Priority”（优先级）有多个值，然后系统允许按照 Priority 的值排序。\n"
+    }
+  ]
+}

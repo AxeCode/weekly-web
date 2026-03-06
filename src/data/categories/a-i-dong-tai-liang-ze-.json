@@ -1,0 +1,12 @@
+{
+  "name": "AI 动态（两则）",
+  "slug": "a-i-dong-tai-liang-ze-",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 338,
+      "issueTitle": "科技爱好者周刊（第 338 期）：重新思考 6G",
+      "content": "\n### AI 的研究模式 \n\n2025年，AI 大模型的进展是什么？\n\n**答案肯定是研究模式**。早期一问一答的对话，已经进化到了思考和推理。\n\n遇到需要深入思考的问题，AI 会先思考框架、拆解步骤，再查找大量文献资料，分析整合出最后的结果，思考步骤还是很全面的。\n\n国外，Google、OpenAI、Perplexity 等公司都已经纷纷上线了 Deep Research。国内，对标 Perplexity 的“[秘塔 AI](https://metaso.cn/)”也上线了新的研究模式。\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022004.webp)\n\n它的背后是“双模型架构”：需要深度推理的部分，由满血版 DeepSeek R1 完成，需要快速响应的信息搜索、资料整合部分，由秘塔自研的模型完成。\n\n下面是[一个例子](https://metaso.cn/s/tfrWtdF)，你要写一篇论文《基于区块链的碳信用交易系统》，研究模式就会给出思考步骤，最终生成研究框架。\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022003.webp)\n\n再加上秘塔 AI 自己的学术数据库，保证了参考资料的真实性，使用下来发现有些回答会好于 DS 官网。\n\n体验到这些是**完全免费**的，而且操作零难度。大家有需要研究和分析的问题，可以去[试试看](https://metaso.cn/)。\n\n### VS Code 使用 DeepSeek 的方法\n\n在 VS Code 编辑器，怎么使用 DeepSeek 模型？\n\n国内用户的最简单方法，大概就是 [MarsCode 编程助手](https://zjsms.com/iPg5wXhX/)。\n\n它最新的 VSCode 插件（1.1.62版本）和 JetBrains 插件（1.2.1.15版本），都支持 DeepSeek。已经安装的朋友，IDE 内直接更新，新安装可以去[官网下载](https://zjsms.com/iPg5wXhX/)。\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021906.webp)\n\n使用时，在 AI 对话框下方，点击模型按钮，目前有三个模型：doubao-1.5-pro、DeepSeek R1/V3（满血版）。不需要任何配置，**全部免费使用**。\n\n这三个模型的能力都很强，插件效果（代码解释、注释、修复、优化、上下文问答）都表现更好了，大家可以自己比较。其中，DeepSeek R1 模型在后台由火山方舟部署，TPS（每秒 Token 生成速度）、TTFT（首 token 出现等待时间）等指标，[第三方测评结果](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247514264&idx=1&sn=d3ffa53fce70b6dc148c4a6e9df3537a&scene=58&subscene=0)称，其 DS 方案性能排名表现优异。\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021907.webp)\n\n这一次，MarsCode 官方正在举办“体验有礼”活动，<u>在社交平台（小红书、CSDN、掘金开发者社区）分享自己的使用截图和不少于30字的使用心得</u>，艾特他们的官方账号“@豆包MarsCode”，就可以在他们的官方微信账号参与抽奖，中奖率高。\n\n另外，MarsCode 团队上个月发布了一款 AI 原生的 IDE ———— [Trae](https://sourl.cn/6P5AGW)，注重提升整体的 AI 体验，大家也可以试试。\n"
+    }
+  ]
+}

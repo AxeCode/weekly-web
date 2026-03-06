@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript 视频教程",
+  "slug": "t-y-p-e-s-c-r-i-p-t-shi-pin-jiao-cheng",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 117,
+      "issueTitle": "科技爱好者周刊（第 117 期）：我不想让你记住我的脸",
+      "content": "\n前端现在有一个趋势，越来越多的项目选择使用 TypeScript（简称 TS）。\n\n简单说，TypeScript 就是在 JavaScript 的基础上，强制变量必须注明类型，使得前端脚本由动态类型变成静态类型。\n\n![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072304.jpg)\n\n静态类型语言的最大特点就是强化了编码纪律，很多错误在编译阶段就能发现，减少了线上报错，特别适合长期维护和多人合作的项目，可以提高工程质量和（长期的）工作效率。正是因为这一点，大厂和大项目往往更愿意采用它，Vue 3.0 的代码 98% 由 TypeScript 编写。\n\n但是，由于多了一层类型规则，TypeScript 的学习成本要高于 JavaScript。很多同学觉得不适应，不容易掌握。\n\n本周的课程资料，就是由 开课吧 提供的 0 元资料 **《TypeScript视频教程》**，180分钟的讲座，帮助初学者学会 TypeScript。\n\n这套教程共分10节课，每节课10-20分钟，总长180分钟。不论是睡前、上下班还是午休，只要有一点时间，就能学完一节课。\n\n长按或扫描下方二维码，就可以免费领取！\n\n![](https://cdn.beekka.com/blogimg/asset/202007/bg2020072303.jpg)\n"
+    }
+  ]
+}

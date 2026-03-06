@@ -1,0 +1,12 @@
+{
+  "name": "金斯伯格法官模型",
+  "slug": "jin-si-bo-ge-fa-guan-mo-xing",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 223,
+      "issueTitle": "科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？",
+      "content": "\n金斯伯格是美国最高法院的一位著名女法官，2020年逝世了，享年87岁。\n\n![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091508.webp)\n\n最近，网上出现了一个很有趣的网站 [ask-rbg.ai](https://ask-rbg.ai/)，名字叫做“金斯伯格法官会怎么说？”。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071402.webp)\n\n它将金斯伯格的各种判决输入了 AI 模型，用户可以输入自己的问题，模型就会告诉你，金斯博格可能会怎么判决。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071403.webp)\n\n出了运行速度的考虑，这个模型目前有两个限制。一是，用户的问题描述不能超过150个（英文）字符，二是问题必须可以 Yes/No 来回答。\n\n我出于好奇，就提了一个问题：\n\n> “特朗普让美国再次伟大了吗？”（Did Donald Trump make America great again?）\n\n模型回答：\n\n> “（笑）我不这么认为。\n> \n> 我认为他是一个有趣的人，但仅此而已。我认为他说话太大声了，说了太多虚假陈述，我希望他最终明白他不能表现出傲慢，他需要冷静下来。”\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071404.webp)\n\n哈哈，计算机生成的这个回答，很像真的啊。\n"
+    }
+  ]
+}

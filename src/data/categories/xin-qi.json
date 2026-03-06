@@ -1,0 +1,147 @@
+{
+  "name": "新奇",
+  "slug": "xin-qi",
+  "count": 28,
+  "items": [
+    {
+      "issueId": 1,
+      "issueTitle": "每周分享第 1 期",
+      "content": "\n1、[Braille Neue](http://brailleneue.com/)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042305.jpg)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042306.png)\n\nBraille Neue 是布里叶盲文系统与正常字母的结合，无障碍设计的典范，为什么没有人早点想到这个点子呢。\n\n2、[MacBook 一美元改成触摸屏](https://github.com/bijection/sistine)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042307.jpg)\n\n一个非常牛的项目，作者在 MacBook 的摄像头上面，架了一块镜子。然后，自动捕捉并识别手指的坐标。\n\n3、[Jelly Mario Bros](http://jellymar.io/)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042308.png)\n\n水母版的《超级马里奥》网页游戏，所有东西都会像水母一样升缩。\n\n__4、小狗 USB__\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042309.jpg)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042310.jpg)\n"
+    },
+    {
+      "issueId": 10,
+      "issueTitle": "每周分享第 10 期",
+      "content": "\n1、[完全安静的电脑](https://tp69.blog/2018/04/17/completely-silent-computer/)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062224.jpg)\n\n外国网友自制了一台\"完全安静的电脑\"，运行时毫无声音，可以达到 0db。全机没有任何风扇，为了替 CPU 散热，采用巨大的铜管散热。\n\n2、[Radio Garden](http://radio.garden/live/)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062225.jpg)\n\n世界地图上每一个绿点，就代表一个当地的电台。光标移上去，就可以听到该电台的现场直播。\n"
+    },
+    {
+      "issueId": 13,
+      "issueTitle": "每周分享（第 13 期）：周刊为什么只谈技术？",
+      "content": "\n1、[大吃一惊的逻辑题](https://en.wikipedia.org/wiki/Unexpected_hanging_paradox)\n\n国王对一个犯人说，下周一到周五的某一天，你会被绞死，但我不告诉你到底是哪一天，到时你肯定大吃一惊。\n\n犯人分析后，认为自己不会死。首先不会在周五死，因为周四晚上能推断出次日的绞刑，所以不会大吃一惊。如果已知周五不会执行死刑，那么同理也可以推断出不会在周四死。以此类推，哪一天都不会死。\n\n犯人因此觉得不用担心。但是就在星期三中午，士兵进来把他押到刑场执行死刑。犯人因此大吃一惊：\"我明明不应该在今天死啊！\"由于他认定自己不会死，所以实际上他任何一天都可能死，因为到时肯定大吃一惊。\n\n2、[ExcelUnusual.com](http://www.excelunusual.com/)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018071323.jpg)\n\nExcel 不仅可以用来制作表格，还可以生成图形和动画。这个网站就收集各种奇特的 Excel 用法。\n\n3、[Google Reader 怀旧版](http://readerisdead.com/reader/view/)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018071324.jpg)\n\nGoogle Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。\n"
+    },
+    {
+      "issueId": 14,
+      "issueTitle": "每周分享第 14 期",
+      "content": "\n1、[GitHub 的复古 GUI 风格](https://github.com/Athari/CssGitHubWindows)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072018.jpg)\n\n\n有人写了一个 CSS 风格，将 GitHub 改成 Windows 98 时代的桌面 GUI 软件的风格。说实话，现在的 Web 应用比当年的桌面应用体验好多了。\n\n2、[一段奇特的 CSS 代码](https://codepen.io/MartijnCuppens/pen/MXojmw)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072019.jpg)\n\n一个空的 div 元素，所有浏览器的渲染结果都不一样。\n"
+    },
+    {
+      "issueId": 15,
+      "issueTitle": "每周分享第 15 期",
+      "content": "\n1、[Timeqube](https://timeqube.com/)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072719.jpg)\n\n\n你是不是经常为会议超时烦恼？国外一家创业公司推出了一个小装置，可以通过颜色，提醒大家会议的进度。正常情况下是绿色，表示时间充分。\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072720.jpg)\n\n一旦时间快到了，就会变成红色。等到预定结束时，就开始不停闪烁。\n"
+    },
+    {
+      "issueId": 19,
+      "issueTitle": "每周分享第 19 期",
+      "content": "\n1、[月球视频](https://aeon.co/videos/soar-around-the-moon-carried-by-the-music-of-debussy-in-this-breathtaking-space-flight)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018082427.jpg)\n\n美国国家航空航天局 NASA 为了庆祝成立60周年，将德彪西的名曲《月光》配上月球勘测器拍摄的图像，制作了一段视频，描绘了太阳光在月球表面的流动，\"通过光，地表和音乐的相互作用，提供了科学和艺术的迷人融合\"。\n"
+    },
+    {
+      "issueId": 20,
+      "issueTitle": "每周分享第 20 期",
+      "content": "\n1、 [可穿戴键盘](https://www.tapwithus.com/)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018083125.jpg)\n\n\n美国一家创业公司发明了戴在手上的键盘，可以在任何表面使用，根据手指的移动，结合手机上面的提示输入字符，代替传统键盘和鼠标。\n"
+    },
+    {
+      "issueId": 21,
+      "issueTitle": "每周分享第 21 期",
+      "content": "\n1、[Predator Thronos](https://www.theverge.com/circuitbreaker/2018/8/29/17795164/acer-predator-thronos-gaming-chair-ifa-2018)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090722.jpg)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090723.jpg)\n\n宏碁公司新推出了一款 Predator Thronos 游戏椅，自带三个27寸显示器，可以让你躺着（140度后仰）打游戏，还会随着游戏一起震动。\n\n这个产品有前途，如果能解决睡眠问题就好了，打累了睡一会，醒了接着打。以后网吧可能都是这种椅子。\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090724.jpg)\n\n2、[卷起来的触摸屏](https://techcrunch.com/2018/08/31/scientists-make-a-prototype-touch-tablet-that-rolls-and-scrolls/)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090725.jpg)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090726.jpg)\n\n加拿大科学家做出来了一个原型设备，可以把触摸屏卷起来。\n"
+    },
+    {
+      "issueId": 22,
+      "issueTitle": "每周分享第 22 期",
+      "content": "\n1、[联想 Yoga Book C930](https://www.ithome.com/html/win10/380281.htm)\n\n联想新发布的10.8寸笔记本 Yoga Book C930 ，键盘是一块 E-ink 电子墨水屏，可以当作第二块屏幕。\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091431.jpg)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091432.jpg)\n\n使用手写笔的时候，副屏就是一个手写输入板；当作键盘使用的时候，则会有触觉反应。\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091433.jpg)\n"
+    },
+    {
+      "issueId": 25,
+      "issueTitle": "每周分享第 25 期",
+      "content": "\n1、[自动魔方](https://media.dmm-make.com/item/4462/)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100533.jpg)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100534.jpg)\n\n日本开发出了自动旋转的魔方。里面安装了电机和芯片，会自动复原。\n"
+    },
+    {
+      "issueId": 26,
+      "issueTitle": "每周分享第 26 期",
+      "content": "\n1、[便携打字机](https://techcrunch.com/2018/10/02/the-freewrite-traveler-offers-distraction-free-writing-for-the-road/)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101231.jpg)\n\n美国一家公司推出一台便携式设备，只能用于打字，这是为了防止使用者分心。它包括一个全尺寸键盘和一个电子墨水屏，可以打开多个文档，系统会自动保存并同步到Dropbox等服务。该设备的众筹价是279美元。\n"
+    },
+    {
+      "issueId": 27,
+      "issueTitle": "每周分享第 27 期",
+      "content": "\n1、[穷人的降噪耳机](http://e1z.ca/code/clog/?p=225)\n\n开放式办公环境，为了避免打扰，通常我们需要一副降噪耳机。但是，好的降噪耳机很贵，有时做工也不令人满意，很容易坏。国外就有开发者想出 DIY 降噪耳机。\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101930.jpg)\n\n只要找一副隔音效果较好的有线耳机，然后外接一个蓝牙接收器即可，总成本在300元人民币以下，效果完全不输那些名牌产品。\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101931.jpg)\n"
+    },
+    {
+      "issueId": 29,
+      "issueTitle": "每周分享第 29 期",
+      "content": "\n1、[Sol LeWitt](http://solvingsol.com/)\n\nSol LeWitt 是一个美国画家，但是他根本不作画，而是用语言描述自己的画，让别人画出来。\n\n现在，有人做了一个 [JS 库](http://github.com/wholepixel/solving-sol)，专门用来根据他的描述，生成画作。\n\n比如，第17号作品（1969）。\n\n> 四部分的绘画，每个部分具有不同的线条方向。\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110226.jpg)\n\n第46号作品（1970）。\n\n> 垂直线条，不直，不接触，均匀覆盖墙壁。\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110227.jpg)\n\n第 56 号作品（1970）。\n\n> 在水平和垂直方向上分成四个相等的正方形，每个正方形在四个方向上逐行叠加。\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110228.jpg)\n"
+    },
+    {
+      "issueId": 30,
+      "issueTitle": "每周分享第 30 期",
+      "content": "\n1、[人工智能音乐](https://www.aiva.ai/)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110935.jpg)\n\n一家创业公司正在开发 AI 音乐引擎。该引擎学习了无数旋律以后，已经能够自己生成音乐，主要用来为电影和游戏生成音轨。\n\n大家可以去该公司的网站，收听机器生成的音乐，那些音乐非常动听。\n"
+    },
+    {
+      "issueId": 31,
+      "issueTitle": "每周分享第 31 期",
+      "content": "\n1、 [OpenCat](https://www.raspberrypi.org/magpi/nybble-open-source-kitten/)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111630.jpg)\n\n中国物理博士、机器人专家李荣仲使用树莓派，开发的 OpenCat AI 项目正在众筹。该项目是一只会走路的机器猫，名叫 Nybble。\n\n用户可以编程，改进它的走路技巧，帮助它思考！国内读者可以观看[优酷视频](https://v.youku.com/v_show/id_XMzQxMzA1NjM0OA==.html)。\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111631.jpg)\n\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111632.jpg)\n"
+    },
+    {
+      "issueId": 32,
+      "issueTitle": "每周分享第 32 期",
+      "content": "\n1、[磁铁炸鸡蛋](https://www.instructables.com/id/DIY-Induction-Stove/)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018112327.jpg)\n\n我们知道，运行的磁场会产生感应电流。有人就用旋转的磁铁，在电锅里炸鸡蛋。他把10块磁铁装在一个圆盘上，然后使用跑步机的马达，让这个圆盘不断旋转。这时，上面放一个导电煎锅就会产生涡流，把鸡蛋烤熟。\n"
+    },
+    {
+      "issueId": 34,
+      "issueTitle": "每周分享第 34 期",
+      "content": "\n1、[世界最小的计算机](https://www.eecs.umich.edu/eecs/about/articles/2015/Worlds-Smallest-Computer-Michigan-Micro-Mote.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018120719.jpg)\n\n2015年，密西根大学的科学家制造了世界最小计算机，只有2毫米。\n\n计算机系统必须具有数据输入输出的能力，以及处理和存储数据的能力。对于这个最小计算机来说，传感器是输入，无线电是输出。它包含太阳能电池，可利用环境光为电池供电。\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018120720.jpg)\n\n上图为该计算机与一美分硬币的比较。\n\n目前，它的主要用途是监视房间的气压和温度的异常，同时将这些数据传送到基站。它的传输距离是2米。另一个用途是植入病人体内，监视青光眼患者的眼内压和脑部受伤者的颅内压，取代目前将导线插入头骨的方法，现有方法使得患者易受感染。\n"
+    },
+    {
+      "issueId": 35,
+      "issueTitle": "每周分享第 35 期",
+      "content": "\n1、[Squatty Potty](https://www.theguardian.com/news/2018/nov/30/bowel-movement-change-the-way-you-poo-squatty-potty-toilet)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121435.jpg)\n\n2011年，Squatty Potty 作为新发明，进入美国市场。它是一款7英寸高的塑料凳子，让你坐在马桶上大便的时候，双脚踩在上面，使得你的膝盖高于臀部，更接近人类原始的排泄姿势。\n\n据说，这种姿势可以展开你的结肠，加快排便过程，减轻腹胀，减少便秘和痔疮的发病。这款产品的美国销售量已经超过了500万个。\n"
+    },
+    {
+      "issueId": 38,
+      "issueTitle": "每周分享第 38 期",
+      "content": "\n1、[鬼屋](http://crookedhouse.org/grym-home/)\n\n我们常常看到鬼屋的影视作品。2015年，有一群英国人做了鬼屋的真实版。他们写好了剧本，租了一间乡间的老房子，精心布置好，然后用各种高技术，制造幽灵的效果。\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010427.jpg)\n\n鬼魂是投影机播放的影像，那是事先请演员扮演，录制下来的。同时，还有配套的音频和气味。\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010428.jpg)\n\n他们在网上发布消息，招募愿意亲身体验鬼屋的人。报名者先在网上填写资料，经过筛选以后，再付费来体验。体验过程需要两天，主要是要在鬼屋度过一晚。\n\n项目完成以后，团队将所有准备过程和幕后工作，都写成文档，做成一个[网站](http://crookedhouse.org/grym-home/)，把它永久记录下来。\n"
+    },
+    {
+      "issueId": 39,
+      "issueTitle": "每周分享第 39 期",
+      "content": "\n1、[智能狗屋](https://www.nytimes.com/2019/01/01/us/kansas-city-smart-technology.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011126.jpg)\n\n美国创业公司 Dogspot 推出了一款智能狗屋，配备了摄像头和温度控制装置，可以用手机查看，遥控开门和关门。它可以方便人们逛商场或者上瑜伽课的时候，把宠物放在里面。\n"
+    },
+    {
+      "issueId": 4,
+      "issueTitle": "每周分享第 4 期",
+      "content": "\n1、[摄像头挂钟](https://defplex.wordpress.com/2018/04/24/playing-with-a-covert-clock-camera/)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051119.jpg)\n\n这是一款深圳出产的挂钟。表面上平淡无奇，但是实际上里面藏了一个摄像头，可以监控屋里的情况。\n\n这样的摄像头是很难发现的。可以想象，以后无论何时何地，我们的一举一动一定都处在监控之下。\n\n2、[魔法少女](https://magical-girl.site/)\n\n![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018051120.jpg)\n\n日本漫画风格的网站，很炫的开场动画。\n"
+    },
+    {
+      "issueId": 41,
+      "issueTitle": "每周分享第 41 期",
+      "content": "\n1、[文字钟](https://www.finewordclocks.com/)\n\n美国一家公司推出了一种奇特的实体钟，所有时间都是用文字表示。比如，10:45 显示为“quarter to eleven”。\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019012530.jpg)\n\n“5:20”显示为“Twenty past Five”。\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019012531.jpg)\n\n这种钟无法精确到分秒，每5分钟刷新一次。\n"
+    },
+    {
+      "issueId": 42,
+      "issueTitle": "每周分享第 42 期（20190201）",
+      "content": "\n1、[自行车包装](https://www.bicycling.com/news/a20027122/vanmoof-tv-on-box-damaged-bikes/)\n\n荷兰一家公司运输自行车时，总是发生很大的损耗。该公司忍无可忍，在包装纸箱上印上了电视机。初看之下都会以为，箱子里面是一台平板电视，运输耗损率因此降低了80%。\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020121.jpg)\n"
+    },
+    {
+      "issueId": 45,
+      "issueTitle": "每周分享第 45 期",
+      "content": "\n1、[此人不存在](https://thispersondoesnotexist.com/)\n\n访问该网站会随机显示一张人像照片。这些人像都是 AI 生成的，并不是真实的人。\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030131.jpg)\n"
+    },
+    {
+      "issueId": 46,
+      "issueTitle": "每周分享第 46 期",
+      "content": "\n1、[芬兰语没有拼写检查](https://linustechtips.com/main/topic/72936-english-swedish-german-and-finnish-decline-dog/)\n\n从来没有软件提供芬兰语的拼写检查。因为芬兰语单词的拼写变化实在太多，下面这些都是“狗”的正确拼写：\n\n> koirasi, koirani, koiransa, koiramme, koiranne, koiraani, koiraasi, koiraansa, koiraamme, koiraanne, koirassani, koirassasi, koirassansa, koirassamme, koirassanne, koirastani, koirastasi, koirastansa, koirastamme, koirastanne, koirallani, koirallasi, koirallansa, koirallamme, koirallanne, koiranani, koiranasi, koiranansa, koiranamme, koirananne, koirakseni, koiraksesi, koiraksensa, koiraksemme, koiraksenne, koirattani, koirattasi, koirattansa, koirattamme, koirattanne, koirineni, koirinesi, koirinensa, koirinemme, koirinenne, koirakaan, koirankaan, koiraakaan, koirassakaan, koirastakaan, koiraankaan, koirallakaan, koiraltakaan, koirallekaan, koiranakaan, koiraksikaan, koirattakaan, koirineenkaan, koirinkaan, koirako, koiranko, koiraako, koirassako, koirastako, koiraanko, koirallako, koiraltako, koiralleko, koiranako, koiraksiko, koirattako, koirineenko, koirinko, koirasikaan, koiranikaan, koiransakaan, koirammekaan, koirannekaan, koiraanikaan, koiraasikaan, koiraansakaan, koiraammekaan, koiraannekaan, koirassanikaan, koirassasikaan, koirassansakaan, koirassammekaan, koirassannekaan, koirastanikaan, koirastasikaan, koirastansakaan, koirastammekaan, koirastannekaan, koirallanikaan, koirallasikaan, koirallansakaan, koirallammekaan, koirallannekaan, koirananikaan, koiranasikaan, koiranansakaan, koiranammekaan, koiranannekaan, koiraksenikaan, koiraksesikaan, koiraksensakaan, koiraksemmekaan, koiraksennekaan, koirattanikaan, koirattasikaan, koirattansakaan, koirattammekaan, koirattannekaan, koirinenikaan, koirinesikaan, koirinensakaan, koirinemmekaan, koirinennekaan, koirasiko, koiraniko, koiransako, koirammeko, koiranneko, koiraaniko, koiraasiko, koiraansako, koiraammeko, koiraanneko, koirassaniko, koirassasiko, koirassansako, koirassammeko, koirassanneko, koirastaniko, koirastasiko, koirastansako, koirastammeko, koirastanneko, koirallaniko, koirallasiko, koirallansako, koirallammeko, koirallanneko, koirananiko, koiranasiko, koiranansako, koiranammeko, koirananneko, koirakseniko, koiraksesiko, koiraksensako, koiraksemmeko, koiraksenneko, koirattaniko, koirattasiko, koirattansako, koirattammeko, koirattanneko, koirineniko, koirinesiko, koirinensako, koirinemmeko, koirinenneko, koirasikaanko, koiranikaanko, koiransakaanko, koirammekaanko, koirannekaanko, koiraanikaanko, koiraasikaanko, koiraansakaanko, koiraammekaanko, koiraannekaanko, koirassanikaanko, koirassasikaanko, koirassansakaanko, koirassammekaanko, koirassannekaanko, koirastanikaanko, koirastasikaanko, koirastansakaanko, koirastammekaanko, koirastannekaanko, koirallanikaanko, koirallasikaanko, koirallansakaanko, koirallammekaanko, koirallannekaanko, koirananikaanko, koiranasikaanko, koiranansakaanko, koiranammekaanko, koiranannekaanko, koiraksenikaanko, koiraksesikaanko, koiraksensakaanko, koiraksemmekaanko, koiraksennekaanko, koirattanikaanko, koirattasikaanko, koirattansakaanko, koirattammekaanko, koirattannekaanko, koirinenikaanko, koirinesikaanko, koirinensakaanko, koirinemmekaanko, koirinennekaanko, koirasikokaan, koiranikokaan, koiransakokaan, koirammekokaan, koirannekokaan, koiraanikokaan, koiraasikokaan, koiraansakokaan, koiraammekokaan, koiraannekokaan, koirassanikokaan, koirassasikokaan, koirassansakokaan, koirassammekokaan, koirassannekokaan, koirastanikokaan, koirastasikokaan, koirastansakokaan, koirastammekokaan, koirastannekokaan, koirallanikokaan, koirallasikokaan, koirallansakokaan, koirallammekokaan, koirallannekokaan, koirananikokaan, koiranasikokaan, koiranansakokaan, koiranammekokaan, koiranannekokaan, koiraksenikokaan, koiraksesikokaan, koiraksensakokaan, koiraksemmekokaan, koiraksennekokaan, koirattanikokaan, koirattasikokaan, koirattansakokaan, koirattammekokaan, koirattannekokaan, koirinenikokaan, koirinesikokaan, koirinensakokaan, koirinemmekokaan, koirinennekokaan\n"
+    },
+    {
+      "issueId": 47,
+      "issueTitle": "每周分享第 47 期",
+      "content": "\n1、[带轮子的行李箱](https://www.nytimes.com/2010/10/05/business/05road.html?mtrref=www.google.com&gwh=0ED29CD852F80CE30897D4BDB58A3EA0&gwt=pay)\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019031529.jpg)\n\n很难相信，行李箱上带有四个轮子，上个世纪60年代才发明出来，1972年才有人申请专利。带有两个轮子的行李箱，发明得更晚，1991年才申请专利。\n"
+    },
+    {
+      "issueId": 7,
+      "issueTitle": "每周分享第 7 期",
+      "content": "\n1、[伦敦心跳](http://tubeheartbeat.com/london/)\n\n![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053014.jpg)\n\n![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053015.jpg)\n\n《伦敦心跳》是一个很有意思的数据可视化作品。伦敦地铁的客流量用粗细表示，人流越多，线就越粗。\n\n第一张图是凌晨，第二张是上班高峰。默认自动播放，就像城市的心跳一样。\n"
+    },
+    {
+      "issueId": 9,
+      "issueTitle": "每周分享第 9 期",
+      "content": "\n1、[触摸屏笔记本](https://www.theverge.com/platform/amp/2018/6/5/17424770/asus-zenbook-pro-screenpad-specs-release-date-price-computex-2018)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018061422.jpg)\n\n华硕最新笔记本的触摸板，是一块触摸屏。为什么没有人早点想到这个点子？\n"
+    }
+  ]
+}

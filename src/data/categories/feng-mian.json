@@ -1,0 +1,17 @@
+{
+  "name": "封面",
+  "slug": "feng-mian",
+  "count": 2,
+  "items": [
+    {
+      "issueId": 102,
+      "issueTitle": "科技爱好者周刊：第 102 期",
+      "content": "\n![](https://cdn.beekka.com/blogimg/asset/202004/bg2020040505.jpg)\n\n3月26日，位于武汉的东风日产汽车厂复工，员工午餐保持距离。（法新社）\n"
+    },
+    {
+      "issueId": 112,
+      "issueTitle": "科技爱好者周刊（第 112 期）：如何培养领导力",
+      "content": "\n![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060512.jpg)\n\n喷气式客机“空中客车”在法国图卢兹组装，零件来自世界各地。有些零件太大，只能海运，上图是 Airbus 专用零件船。（[出处](https://edition.cnn.com/travel/article/airbus-a380-parts-together/index.html)）\n"
+    }
+  ]
+}

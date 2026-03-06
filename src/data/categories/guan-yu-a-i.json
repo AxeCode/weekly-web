@@ -1,0 +1,12 @@
+{
+  "name": "关于 AI",
+  "slug": "guan-yu-a-i",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 308,
+      "issueTitle": "科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？",
+      "content": "\n1、[MemFree](https://www.memfree.me/)\n\n![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070906.webp)\n\n一个混合 AI 搜索引擎，代码[开源](https://github.com/memfreeme/memfree)，可以自托管。（[@ahaapple](https://github.com/ruanyf/weekly/issues/4787) 投稿）\n\n2、[VoiceChanger.im](https://voicechanger.im/)\n\n![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070502.webp)\n\n该网站可以克隆语音，以及文本转语音，免费使用。（[@dddm25896](https://github.com/ruanyf/weekly/issues/4775) 投稿）\n\n3、[共享 ChatGPT](https://www.apifaucet.com/)\n\n![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070501.webp)\n\n这个网站让你登入共享账号，免费使用 ChatGPT。（[@740400019](https://github.com/ruanyf/weekly/issues/4773) 投稿）\n\n4、[诗境](https://photo2poem.top/)\n\n![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070907.webp)\n\n根据上传的照片匹配诗句，生成分享卡片。（[@gui66497](https://github.com/ruanyf/weekly/issues/4744) 投稿）\n"
+    }
+  ]
+}

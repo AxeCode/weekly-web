@@ -1,0 +1,12 @@
+{
+  "name": "Big Sur",
+  "slug": "b-i-g-s-u-r",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 134,
+      "issueTitle": "科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍",
+      "content": "\n本周，苹果公司发布了 macOS 的新版本 Big Sur，值得关注的新闻真不少。\n\n1、 [UI 比较](https://www.andrewdenty.com/blog/2020/07/01/a-visual-comparison-of-macos-catalina-and-big-sur.html)\n\n与 上一个版本 Catalina 相比，Big Sur 明显更平面化，减少了对比度和阴影，颜色也更活泼。\n\n![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111406.jpg)\n\n![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111405.jpg)\n\n2、[OCSP 服务器超载](https://blog.cryptohack.org/macos-ocsp-disaster)\n\n许多用户升级后发现，只要不是从应用商店下载的应用，就无法打开，会失去响应。原因是苹果的 OCSP 服务器超载了，因为升级的人太多，都向 OCSP 服务器发出请求。\n\nOCSP 请求的作用是，验证应用的开发者证书是否有效。\n\n![](https://cdn.beekka.com/blogimg/asset/202011/bg2020111608.jpg)\n\n3、[苹果是否知道太多用户隐私？](https://sneak.berlin/20201112/your-computer-isnt-yours/)\n\nOCSP 请求意味着，用户每打开一个应用，苹果公司都会得到通知，这是否暴露太多用户信息了？\n\n4、[VPN 对苹果自家应用无效](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)\n\n更糟糕的是，Big sur 允许苹果自家的应用（比如应用商店）绕过防火墙和 VPN，与苹果服务器通信。因此，苹果公司总是可以拿到你的真实 IP 地址。\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "JavaScript 全栈框架",
+  "slug": "j-a-v-a-s-c-r-i-p-t-quan-zhan-kuang-jia",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 235,
+      "issueTitle": "科技爱好者周刊（第 235 期）：青年失业率与选择创业",
+      "content": "\n新一代的 JavaScript 框架都是全栈框架，前后端一体，后端的主要功能就是服务器渲染。\n\n我总结了一个不完全列表。\n\n- [Next.js](https://nextjs.org/)\n- [Gatsby](https://www.gatsbyjs.com/)\n- [Nuxt](https://nuxtjs.org/)\n- [SvelteKit](https://kit.svelte.dev/)\n- [Remix](https://remix.run/)\n- [Astro](https://astro.build/)\n- [SolidStart](https://start.solidjs.com/getting-started/what-is-solidstart)\n- [Fresh](https://fresh.deno.dev/)\n- [Aleph.js](https://alephjs.org/)\n"
+    }
+  ]
+}

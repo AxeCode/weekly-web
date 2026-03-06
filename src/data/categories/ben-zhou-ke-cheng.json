@@ -1,0 +1,12 @@
+{
+  "name": "本周课程",
+  "slug": "ben-zhou-ke-cheng",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 195,
+      "issueTitle": "科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？",
+      "content": "\n1、[大数据工程师训练营](https://mp.weixin.qq.com/s?__biz=MzIwMDYwNjg5Ng==&mid=100105821&idx=1&sn=8fcfa9449550a8f43eb92110225d2749&chksm=16f94b82218ec2942cb045d2154318205295760c301dc8b1c7d48e9468d647b9bed8f6895dc0#rd)\n\n![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021605.webp)\n\n大数据核心技术的免费课程，都是当前热点内容，包括大数据分析工具、数据仓库、数据大屏实战。目标是让大家熟悉和掌握大数据工具和开发，最后自己动手，实现一个基于阿里云 QuickBI 和 DataV 的数据看板和实时大屏。\n\n主讲老师侯圣文（贝壳找房前大数据总监、阿里云 MVP、腾讯云 TVP、Oracle ACE），讲解通俗，零基础的同学也可以听。3天直播课，周刊读者报名仅需1元。\n"
+    }
+  ]
+}

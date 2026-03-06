@@ -1,0 +1,617 @@
+{
+  "name": "历史上的本周",
+  "slug": "li-shi-shang-de-ben-zhou",
+  "count": 122,
+  "items": [
+    {
+      "issueId": 148,
+      "issueTitle": "科技爱好者周刊（第 148 期）：微增长时代",
+      "content": "\n- 2020年（第 97 期）：[那些为了考试拼搏的年轻人](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)\n- 2019年（第 45 期）：[阿西莫夫回忆录《人生舞台》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)\n"
+    },
+    {
+      "issueId": 149,
+      "issueTitle": "科技爱好者周刊（第 149 期）：新能源汽车，谁会是赢家？",
+      "content": "\n- 2020年（第 98 期）：[怎样清晰地表达自己的观点？](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)\n- 2019年（第 46 期）：[推荐算法的副作用](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)\n"
+    },
+    {
+      "issueId": 150,
+      "issueTitle": "科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候",
+      "content": "\n2020年（第 99 期）：[疫情导致的研究生扩招](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)\n\n2019年（第 47 期）：[吃播算不算正式工作？](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)\n"
+    },
+    {
+      "issueId": 151,
+      "issueTitle": "科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱",
+      "content": "\n2020年（第 100 期）：[零利率时代](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)\n\n2019年（第 48 期）：[著名程序员 Bill Joy 的人生启示](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)\n"
+    },
+    {
+      "issueId": 152,
+      "issueTitle": "科技爱好者周刊（第 152 期）：从北大到技校",
+      "content": "\n2020年（第 101 期）：[互联网不再稀缺](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)\n\n2019年（第 49 期）：[学会有所不为](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)\n"
+    },
+    {
+      "issueId": 153,
+      "issueTitle": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
+      "content": "\n2020年（第 102 期）：[工作热情从何而来？](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)\n\n2019年（第 50 期）：[\"时间换收入\"是一个陷阱](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)\n"
+    },
+    {
+      "issueId": 154,
+      "issueTitle": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
+      "content": "\n2020年（第 103 期）：[信息的半衰期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)\n\n2019年（第 51 期）：[为什么过去10年，笔记本硬件发展缓慢？](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)\n"
+    },
+    {
+      "issueId": 155,
+      "issueTitle": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
+      "content": "\n2020年（第 104 期）：[语音合成的用途](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)\n\n2019年（第 52 期）：[人脸识别与课堂监控](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html)\n\n2018年（第 1 期）：[创刊号](http://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html)\n"
+    },
+    {
+      "issueId": 156,
+      "issueTitle": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
+      "content": "\n2020年（第 105 期）：[线上行业会赢](https://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)\n\n2019年（第 53 期）：[DNA 相亲会](https://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html)\n\n2018年（第 2 期）：[为什么写周刊？](https://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html)\n"
+    },
+    {
+      "issueId": 157,
+      "issueTitle": "科技爱好者周刊（第 157 期）：KK 给年轻人的建议",
+      "content": "\n2020年（第 106 期）：[数字游民](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)\n\n2019年（第 54 期）：[可扩展性最好的活动](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)\n\n2018年（第 3 期）：[周刊的风格](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)\n"
+    },
+    {
+      "issueId": 158,
+      "issueTitle": "科技爱好者周刊（第 158 期）：内容渠道的贬值",
+      "content": "\n2020年（第 107 期）：[致富与杠杆](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)\n\n2019年（第 55 期）：[不是反对 996，而要提倡远程办公](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)\n\n2018年（第 4 期）：[马克思研究的问题](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)\n"
+    },
+    {
+      "issueId": 159,
+      "issueTitle": "科技爱好者周刊（第 159 期）：游戏开发者的年薪",
+      "content": "\n2020年（第 108 期）：[阵地战与奇袭战](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)\n\n2019年（第 56 期）：[文科生为什么不容易就业？](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)\n\n2018年（第 5 期）：[互联网时代，做一个好人是划算的](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html)\n"
+    },
+    {
+      "issueId": 160,
+      "issueTitle": "科技爱好者周刊（第 160 期）：中年码农的困境",
+      "content": "\n2020年（第 109 期）：[播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)\n\n2019年（第 57 期）：[分享知识是否违反人性？](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)\n\n2018年（第 6 期）：[未来还需要苦学外语吗？](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)\n"
+    },
+    {
+      "issueId": 161,
+      "issueTitle": "科技爱好者周刊（第 161 期）：再见了，学术硕士",
+      "content": "\n2020年（第 110 期）：[如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)\n\n2019年（第 58 期）：[软件推广可以像化妆品那样吗？](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)\n\n2018年（第 7 期）：[垃圾填埋不是解决办法](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)\n"
+    },
+    {
+      "issueId": 162,
+      "issueTitle": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏",
+      "content": "\n2020年（第 111 期）：[智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)\n\n2019年（第 59 期）：[互联网时代很难交朋友](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)\n\n2018年（第 8 期）：[实验室会生产人吗？](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)\n"
+    },
+    {
+      "issueId": 163,
+      "issueTitle": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？",
+      "content": "\n2020年（第 112 期）：[如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)\n\n2019年（第 60 期）：[一本介绍人类起源的学术自传](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)\n\n2018年（第 9 期）：[身份证可以植入人体](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)\n"
+    },
+    {
+      "issueId": 164,
+      "issueTitle": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较",
+      "content": "\n2020年（第 113 期）：[暴力犯罪为什么越来越少？](https://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)\n\n2019年（第 61 期）：[转行前端越来越难](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)\n\n2018年（第 10 期）：[30岁以后谨慎转行前端](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-10.html)\n"
+    },
+    {
+      "issueId": 165,
+      "issueTitle": "科技爱好者周刊（第 165 期）：全端 App 的时代",
+      "content": "\n2020年（第 114 期）：[U 盘化生存和 Uber-job](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)\n\n2019年（第 62 期）：[日本电影《编舟记》](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)\n\n2018年（第 11 期）：[编程语言越发复杂](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)\n"
+    },
+    {
+      "issueId": 166,
+      "issueTitle": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？",
+      "content": "\n2020年（第 115 期）：[保护你的 DNA，不要泄漏](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)\n\n2019年（第 63 期）：[互联网市场的集中化趋势](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)\n\n2018年（第 12 期）：[人口老龄化，养老金不够](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)\n"
+    },
+    {
+      "issueId": 167,
+      "issueTitle": "科技爱好者周刊（第 167 期）：广告拦截器太过分了",
+      "content": "\n2020年（第 116 期）：[世界的未来是一个火药桶](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html)\n\n2019年（第 64 期）：[新人如何进入互联网行业？](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)\n\n2018年（第 13 期）：[周刊为什么只谈技术？](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)\n"
+    },
+    {
+      "issueId": 168,
+      "issueTitle": "科技爱好者周刊（第 168 期）：游戏《底特律：变人》",
+      "content": "\n2020年（第 117 期）：[我不想让你记住我的脸](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)\n\n2019年（第 65 期）：[周刊开设\"谁在招人\"的招聘服务](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)\n\n2018年（第 14 期）：[马斯克的人生才是梦想家的人生](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)\n"
+    },
+    {
+      "issueId": 169,
+      "issueTitle": "科技爱好者周刊（第 169 期）：五菱汽车的产品设计",
+      "content": "\n2020年（第 118 期）：[高考志愿怎么填](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html)\n\n2019年（第 66 期）：[创业不是零和游戏](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)\n\n2018年（第 15 期）：[周刊的内容从何而来？](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)\n"
+    },
+    {
+      "issueId": 170,
+      "issueTitle": "科技爱好者周刊（第 170 期）：软件订阅制的胜利",
+      "content": "\n2020年（第 119 期）：[降雨量和保险博弈](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html)\n\n2019年（第 67 期）：[复杂系统无法维护，侏罗纪公园必定失败](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)\n\n2018年（第 16 期）：[科技改变死亡的模式](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html)\n"
+    },
+    {
+      "issueId": 171,
+      "issueTitle": "科技爱好者周刊（第 171 期）：云服务流量有多贵？",
+      "content": "\n2020年（第 120 期）：[只有开放才能打败封锁](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)\n\n2019年（第 68 期）：[关注能力的成长，胜于关注待遇](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)\n\n2018年（第 17 期）：[全球变暖，在劫难逃](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)\n"
+    },
+    {
+      "issueId": 172,
+      "issueTitle": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？",
+      "content": "\n2020年（第 121 期）：[为什么人类没有越来越闲？](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)\n\n2019年（第 69 期）：[做得好 vs 做得快](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)\n\n2018年（第 18 期）：[无人机攻击，难以防范](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)\n"
+    },
+    {
+      "issueId": 173,
+      "issueTitle": "科技爱好者周刊（第 173 期）：网络收音机的设计",
+      "content": "\n2020年（第 122 期）：[谈谈互联网公司的高估值](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html)\n\n2019年（第 70 期）：[世界进入负利率时代，这意味什么](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)\n\n2018年（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)\n"
+    },
+    {
+      "issueId": 174,
+      "issueTitle": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员",
+      "content": "\n2020年（第 123 期）：[互联网公司与湘军的军制](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html)\n\n2019年（第 71 期）：[名校毕业，不容易创业](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)\n\n2018年（第 20 期）：[不读大学的替代方案](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)\n"
+    },
+    {
+      "issueId": 175,
+      "issueTitle": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度",
+      "content": "\n2020年（第 124 期）：[华为如何考核员工](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html)\n\n2019年（第 72 期）：[当代人不再有手稿](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)\n\n2018年（第 21 期）：[人生的水平运动和垂直运动](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)\n"
+    },
+    {
+      "issueId": 176,
+      "issueTitle": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？",
+      "content": "\n2020年（第 125 期）：[数字人民币要取代谁](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html)\n\n2019年（第 73 期）：[数据统计的威力](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)\n\n2018年（第 22 期）：[猴子自拍，版权归谁](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html)\n"
+    },
+    {
+      "issueId": 177,
+      "issueTitle": "科技爱好者周刊（第 177 期）：iPad 的真正用途",
+      "content": "\r\n2020年（第 126 期）：[内卷化是什么？](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)\r\n\r\n2019年（第 74 期）：[信息的商业模式为什么不是收费](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)\r\n\r\n2018年（第 23 期）：[统计学上的人生最大决定因素](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)\r\n\r"
+    },
+    {
+      "issueId": 178,
+      "issueTitle": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天",
+      "content": "\r\n2020年（第 127 期）：[未来人人开发软件，几乎没人编码](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)\r\n\r\n2019年（第 75 期）：[电子取代机械，对就业有何影响？](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)\r\n\r\n2018年（第 24 期）：[新人进入软件行业的建议](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)\r\n\r"
+    },
+    {
+      "issueId": 179,
+      "issueTitle": "科技爱好者周刊（第 179 期）：AR 技术的打开方式",
+      "content": "\n2020年（第 128 期）：[这个社会是否正在变成\"赛博朋克\"？](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)\n\n2019年（第 76 期）：[任何爱好都能变成职业，只要你会拍视频](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)\n\n2018年（第 25 期）：[安卓手机十周年的感想](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)\n"
+    },
+    {
+      "issueId": 180,
+      "issueTitle": "科技爱好者周刊（第 180 期）：你想住在中国哪里？",
+      "content": "\n2020年（第 129 期）：[创业的凸函数和凹函数](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)\n\n2019年（第 77 期）：[韩剧《阿尔布拉罕宫的回忆》](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)\n\n2018年（第 26 期）：[DHH 的新书《工作何必疯狂》](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)\n"
+    },
+    {
+      "issueId": 181,
+      "issueTitle": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？",
+      "content": "\n2020年（第 130 期）：[低龄化的互联网](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)\n\n2019年（第 78 期）：[下一个风口是什么行业？](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)\n\n2018年（第 27 期）：[乔布斯的“热情假设”对不对？](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)\n"
+    },
+    {
+      "issueId": 182,
+      "issueTitle": "科技爱好者周刊（第 182 期）：新人优惠的风险",
+      "content": "\n2020年（第 131 期）：[你的头脑是二值逻辑，还是三值逻辑？](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)\n\n2019年（第 79 期）：[我们的生活越来越依赖机器](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)\n\n2018年（第 28 期）：[软件开发是真正的知识吗？](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)\n"
+    },
+    {
+      "issueId": 183,
+      "issueTitle": "科技爱好者周刊（第 183 期）：腾讯的员工退休福利",
+      "content": "\r\n2020年（第 132 期）：[快能力和慢能力](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html)\r\n\r\n2019年（第 80 期）：[企业软件创业，为什么在中国不容易成功？](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)\r\n\r\n2018年（第 29 期）：[公司的组织架构，决定了软件的复杂性](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)\r\n\r"
+    },
+    {
+      "issueId": 184,
+      "issueTitle": "科技爱好者周刊（第 184 期）：政府的存储需求有多大？",
+      "content": "\r\n2020年（第 133 期）：[贵州变瑞士，有没有可能](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html)\r\n\r\n2019年（第 81 期）：[子辈能大幅超越父辈吗？](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)\r\n\r\n2018年（第 30 期）：[为什么谷歌做不好社交软件？](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)\r\n\r"
+    },
+    {
+      "issueId": 185,
+      "issueTitle": "科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例",
+      "content": "\r\n2020年（第 134 期）：[未来的游戏业比现在大100倍](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)\r\n\r\n2019年（第 82 期）：[就业要选发展最快的行业](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)\r\n\r\n2018年（第 31 期）：[程序员的退休信号](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)\r\n\r"
+    },
+    {
+      "issueId": 186,
+      "issueTitle": "科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势",
+      "content": "\r\n2020年（第 135 期）：[什么行业适合创业？](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html)\r\n\r\n2019年（第 83 期）：[技术解决不了人类的对立](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)\r\n\r\n2018年（第 32 期）：[砌砖头的三种角度](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)\r\n\r"
+    },
+    {
+      "issueId": 187,
+      "issueTitle": "科技爱好者周刊（第 187 期）：元宇宙会成功吗",
+      "content": "\r\n2020年（第 136 期）：[利特伍德奇迹定律](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html)\r\n\r\n2019年（第 84 期）：[一次性工作招聘，用完你就丢](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)\r\n\r\n2018年（第 33 期）：[现场投票不如网络投票](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)\r\n\r"
+    },
+    {
+      "issueId": 188,
+      "issueTitle": "科技爱好者周刊（第 188 期）：音乐是反社交",
+      "content": "\r\n2020年（第 137 期）：[Slack 被收购，以及企业的技术选型](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)\r\n\r\n2019年（第 85 期）：[美国为什么不是乱哄哄？](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html)\r\n\r\n2018年（第 34 期）：[身份证的最终解决方案：人体植入芯片](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)\r\n\r"
+    },
+    {
+      "issueId": 189,
+      "issueTitle": "科技爱好者周刊（第 189 期）：下一个内卷的行业",
+      "content": "\r\n2020年（第 138 期）：[失业难以避免，重构人生规划](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)\r\n\r\n2019年（第 86 期）：[千万不要当完美主义者](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)\r\n\r\n2018年（第 35 期）：[“一人份”的服务越来越多](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)\r\n\r"
+    },
+    {
+      "issueId": 190,
+      "issueTitle": "科技爱好者周刊（第 190 期）：产品化思维",
+      "content": "\r\n2020年（第 139 期）：[生物学的可怕进展](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)\r\n\r\n2019年（第 87 期）：[新人要为团队写文档](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)\r\n\r\n2018年（第 36 期）：[程序员将来会不会过剩？](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)\r\n\r"
+    },
+    {
+      "issueId": 191,
+      "issueTitle": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路",
+      "content": "\r\n2020年（第 140 期）：[印度人的工资是多少？](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)\r\n\r\n2019年（第 88 期）：[如果你遇到一条蛇](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html)\r\n\r\n2018年（第 37 期）：[小说家的时代，永远地过去了](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)\r\n\r"
+    },
+    {
+      "issueId": 192,
+      "issueTitle": "科技爱好者周刊（第 192 期）：最大的机会来自新技术",
+      "content": "\r\n2021年（第 141 期）：[封闭系统的胜利](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)\r\n\r\n2020年（第 89 期）：[不下雨的地方，不要去卖伞](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)\r\n\r\n2019年（第 38 期）：[使用越方便，技术实现越复杂](https://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)\r\n\r"
+    },
+    {
+      "issueId": 193,
+      "issueTitle": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？",
+      "content": "\r\n2021年（第 142 期）：[2020年才是21世纪元年](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)\r\n\r\n2020年（第 90 期）：[管人和技术是两种不同的能力](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)\r\n\r\n2019年（第 39 期）：[苹果公司的两封公开信](https://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)\r\n\r"
+    },
+    {
+      "issueId": 194,
+      "issueTitle": "科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功",
+      "content": "\n2021年（第 143 期）：[世界尽头与冷酷仙境](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)\n\n2020年（第 91 期）：[印度孟买的房价，为什么跟北京一样高？](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)\n\n2019年（第 40 期）：[手动咖啡不属于电子时代](https://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)\n"
+    },
+    {
+      "issueId": 195,
+      "issueTitle": "科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？",
+      "content": "\n2021年（第 144 期）：[提高收入的根本途径](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)\n\n2020年（第 92 期）：[听觉暂留](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)\n\n2019年（第 41 期）：[如何看待互联网公司裁员？](https://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)\n"
+    },
+    {
+      "issueId": 196,
+      "issueTitle": "科技爱好者周刊（第 196 期）：掌机的未来",
+      "content": "\n2021年（第 145 期）：[大家不出门，经济怎么办？](https://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html)\n\n2020年（第 93 期）：[漫游类的游戏，将会越来越多](https://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)\n\n2019年（第 42 期）：[什么领域，你可以做到出类拔萃？](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)\n"
+    },
+    {
+      "issueId": 197,
+      "issueTitle": "科技爱好者周刊（第 197 期）：如果这个世界有快乐机",
+      "content": "\n2021年（第 146 期）：[网课应该怎么上？](https://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html)\n\n2020年（第 94 期）：[既懂得制造，又懂得销售](https://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html)\n\n2019年（第 43 期）：[一篇好玩的论文](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)\n"
+    },
+    {
+      "issueId": 198,
+      "issueTitle": "科技爱好者周刊（第 198 期）：美国制造是否可能",
+      "content": "\n2021年（第 147 期）：[寻找你愿意忍受的痛苦](https://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html)\n\n2020年（第 95 期）：[远程办公暴露冗余岗位](https://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)\n\n2019年（第 44 期）：[高校“唯论文”导向的后果](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)\n"
+    },
+    {
+      "issueId": 199,
+      "issueTitle": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
+      "content": "\r\n2021年（第 148 期）：[微增长时代](https://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html)\r\n\r\n2020年（第 96 期）：[在线教育不等于录制视频](https://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)\r\n\r\n2019年（第 45 期）：[阿西莫夫回忆录《人生舞台》](https://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)\r\n\r"
+    },
+    {
+      "issueId": 200,
+      "issueTitle": "科技爱好者周刊（第 200 期）：低期望，多尝试",
+      "content": "\n2021年（第 149 期）：[新能源汽车，谁会是赢家？](https://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)\n\n2020年（第 97 期）：[那些为了考试拼搏的年轻人](https://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)\n\n2019年（第 46 期）：[推荐算法的副作用](https://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)\n"
+    },
+    {
+      "issueId": 201,
+      "issueTitle": "科技爱好者周刊（第 201 期）：中国需要成立半导体部",
+      "content": "\n2021年（第 150 期）：[当音乐还是稀缺的时候](https://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)\n\n2020年（第 98 期）：[怎样清晰地表达自己的观点？](https://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)\n\n2019年（第 47 期）：[吃播算不算正式工作？](https://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)\n"
+    },
+    {
+      "issueId": 202,
+      "issueTitle": "科技爱好者周刊（第 202 期）：三个有启发的学习方法",
+      "content": "\n2021年（第 151 期）：[NFT 是什么，听说能赚钱](https://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)\n\n2020年（第 99 期）：[疫情导致的研究生扩招](https://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)\n\n2019年（第 48 期）：[著名程序员 Bill Joy 的人生启示](https://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)\n"
+    },
+    {
+      "issueId": 203,
+      "issueTitle": "科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育",
+      "content": "\n2021年（第 152 期）：[从北大到技校](https://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)\n\n2020年（第 100 期）：[零利率时代](https://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)\n\n2019年（第 49 期）：[学会有所不为](https://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)\n"
+    },
+    {
+      "issueId": 204,
+      "issueTitle": "科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争",
+      "content": "\n2021年（第 153 期）：[机器翻译是对译者的侮辱吗？](https://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)\n\n2020年（第 101 期）：[互联网不再稀缺](https://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)\n\n2019年（第 50 期）：[\"时间换收入\"是一个陷阱](https://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)\n"
+    },
+    {
+      "issueId": 205,
+      "issueTitle": "科技爱好者周刊（第 205 期）：互联网风口过去了吗？",
+      "content": "\n2021年（第 157 期）：[KK 给年轻人的建议](https://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html)\n\n2020年（第 106 期）：[数字游民](https://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)\n\n2019年（第 54 期）：[可扩展性最好的活动](https://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)\n\n2018年（第 3 期）：[周刊的风格](https://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)\n"
+    },
+    {
+      "issueId": 206,
+      "issueTitle": "科技爱好者周刊（第 206 期）：如何走出失望和怀疑",
+      "content": "\n2021年（第 158 期）：[内容渠道的贬值](https://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)\n\n2020年（第 107 期）：[致富与杠杆](https://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)\n\n2019年（第 55 期）：[不是反对 996，而要提倡远程办公](https://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)\n\n2018年（第 4 期）：[马克思研究的问题](https://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)\n"
+    },
+    {
+      "issueId": 207,
+      "issueTitle": "科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了",
+      "content": "\n2021年（第 159 期）：[游戏开发者的年薪](https://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)\n\n2020年（第 108 期）：[阵地战与奇袭战](https://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)\n\n2019年（第 56 期）：[文科生为什么不容易就业？](https://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)\n\n2018年（第 5 期）：[互联网时代，做一个好人是划算的](https://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html)\n"
+    },
+    {
+      "issueId": 208,
+      "issueTitle": "科技爱好者周刊（第 208 期）：晋升制度的问题",
+      "content": "\n2021年（第 160 期）：[中年码农的危机](https://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)\n\n2020年（第 109 期）：[播客的价值](https://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)\n\n2019年（第 57 期）：[分享知识是否违反人性？](https://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)\n\n2018年（第 6 期）：[未来还需要苦学外语吗？](https://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)\n"
+    },
+    {
+      "issueId": 209,
+      "issueTitle": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
+      "content": "\n2021年（第 161 期）：[再见了，学术硕士](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)\n\n2020年（第 110 期）：[如果不能去美国上市](https://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)\n\n2019年（第 59 期）：[互联网时代很难交朋友](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)\n\n2018年（第 8 期）：[实验室会生产人吗？](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)\n"
+    },
+    {
+      "issueId": 210,
+      "issueTitle": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
+      "content": "\n2021年（第 162 期）：[生活就像《吃豆人》游戏](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)\n\n2020年（第 111 期）：[智能电视的误区](https://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)\n\n2019年（第 60 期）：[一本介绍人类起源的学术自传](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)\n\n2018年（第 9 期）：[身份证可以植入人体](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)\n"
+    },
+    {
+      "issueId": 211,
+      "issueTitle": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
+      "content": "\n2021年（第 163 期）：[你的城市有多少张病床？](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)\n\n2020年（第 112 期）：[如何培养领导力](https://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)\n\n2019年（第 61 期）：[转行前端越来越难](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)\n\n2018年（第 10 期）：[30岁以后谨慎转行前端](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-10.html)\n"
+    },
+    {
+      "issueId": 212,
+      "issueTitle": "科技爱好者周刊（第 212 期）：人生不短",
+      "content": "\n2021年（第 164 期）：[培训班 vs 大学，求职成功率比较](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html)\n\n2020年（第 113 期）：[暴力犯罪为什么越来越少？](https://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)\n\n2019年（第 62 期）：[日本电影《编舟记》](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)\n\n2018年（第 11 期）：[编程语言越发复杂](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)\n"
+    },
+    {
+      "issueId": 213,
+      "issueTitle": "科技爱好者周刊（第 213 期）：知识孤岛，知识软件",
+      "content": "\n2021年（第 165 期）：[全端 App 的时代](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html)\n\n2020年（第 114 期）：[U 盘化生存和 Uber-job](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)\n\n2019年（第 63 期）：[互联网市场的集中化趋势](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)\n\n2018年（第 12 期）：[人口老龄化，养老金不够](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)\n"
+    },
+    {
+      "issueId": 214,
+      "issueTitle": "科技爱好者周刊（第 214 期）：你的地图是错的",
+      "content": "\n2021年（第 166 期）：[视频学习胜过读书吗？](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html)\n\n2020年（第 115 期）：[保护你的 DNA，不要泄漏](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)\n\n2019年（第 64 期）：[新人如何进入互联网行业？](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)\n\n2018年（第 13 期）：[周刊为什么只谈技术？](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)\n"
+    },
+    {
+      "issueId": 215,
+      "issueTitle": "科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式",
+      "content": "\n2021年（第 167 期）：[广告拦截器太过分了](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html)\n\n2020年（第 116 期）：[世界的未来就是一个火药桶](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html)\n\n2019年（第 65 期）：[周刊开设\"谁在招人\"的招聘服务](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)\n\n2018年（第 14 期）：[马斯克的人生才是梦想家的人生](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)\n"
+    },
+    {
+      "issueId": 216,
+      "issueTitle": "科技爱好者周刊（第 216 期）：极简主义的胜利",
+      "content": "\n2021年（第 168 期）：[游戏《底特律：变人》](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)\n\n2020年（第 117 期）：[我不想让你记住我的脸](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)\n\n2019年（第 66 期）：[创业不是零和游戏](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)\n\n2018年（第 15 期）：[周刊的内容从何而来？](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)\n"
+    },
+    {
+      "issueId": 217,
+      "issueTitle": "科技爱好者周刊（第 217 期）：沙特的新未来城",
+      "content": "\n2021年（第 169 期）：[五菱汽车的产品设计](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html)\n\n2020年（第 118 期）：[高考志愿怎么填](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html)\n\n2019年（第 67 期）：[复杂系统无法维护，侏罗纪公园必定失败](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)\n\n2018年（第 16 期）：[科技改变死亡的模式](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html)\n"
+    },
+    {
+      "issueId": 218,
+      "issueTitle": "科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖",
+      "content": "\n2021年（第 170 期）：[软件订阅制的胜利](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html)\n\n2020年（第 119 期）：[降雨量和保险博弈](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html)\n\n2019年（第 68 期）：[关注能力的成长，胜于关注待遇](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)\n\n2018年（第 17 期）：[全球变暖，在劫难逃](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)\n"
+    },
+    {
+      "issueId": 219,
+      "issueTitle": "科技爱好者周刊（第 219 期）：如何防止帐号被黑",
+      "content": "\n2021年（第 171 期）：[云服务流量有多贵？](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html)\n\n2020年（第 120 期）：[只有开放才能打败封锁](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)\n\n2019年（第 69 期）：[做得好 vs 做得快](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)\n\n2018年（第 18 期）：[无人机攻击，难以防范](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)\n"
+    },
+    {
+      "issueId": 220,
+      "issueTitle": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
+      "content": "\n2021年（第 172 期）：[我们会死于气候灾难吗？](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)\n\n2020年（第 121 期）：[为什么人类没有越来越闲？](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)\n\n2019年（第 70 期）：[世界进入负利率时代，这意味什么](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)\n\n2018年（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)\n"
+    },
+    {
+      "issueId": 221,
+      "issueTitle": "科技爱好者周刊（第 221 期）：全世界最繁荣的行业",
+      "content": "\n2021年（第 173 期）：[网络收音机的设计](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html)\n\n2020年（第 122 期）：[谈谈互联网公司的高估值](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html)\n\n2019年（第 71 期）：[名校毕业，不容易创业](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)\n\n2018年（第 20 期）：[不读大学的替代方案](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)\n"
+    },
+    {
+      "issueId": 222,
+      "issueTitle": "科技爱好者周刊（第 222 期）：四十年编程感想",
+      "content": "\n2021年（第 174 期）：[全能程序员 vs 特长程序员](https://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html)\n\n2020年（第 123 期）：[互联网公司与湘军的军制](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html)\n\n2019年（第 72 期）：[当代人不再有手稿](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)\n\n2018年（第 21 期）：[人生的水平运动和垂直运动](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)\n"
+    },
+    {
+      "issueId": 223,
+      "issueTitle": "科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？",
+      "content": "\n2021年（第 175 期）：[知识广度 vs 知识深度](https://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html)\n\n2020年（第 124 期）：[华为如何考核员工](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html)\n\n2019年（第 73 期）：[数据统计的威力](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)\n\n2018年（第 22 期）：[猴子自拍，版权归谁](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html)\n"
+    },
+    {
+      "issueId": 224,
+      "issueTitle": "科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch",
+      "content": "\n2021年（第 176 期）：[中国法院承认 GPL 吗？](https://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html)\n\n2020年（第 125 期）：[数字人民币要取代谁](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html)\n\n2019年（第 74 期）：[信息的商业模式为什么不是收费](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)\n\n2018年（第 23 期）：[统计学上的人生最大决定因素](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)\n"
+    },
+    {
+      "issueId": 225,
+      "issueTitle": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
+      "content": "\n2021年（第 177 期）：[iPad 的真正用途](https://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html)\n\n2020年（第 126 期）：[内卷化是什么？](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)\n\n2019年（第 75 期）：[电子取代机械，对就业有何影响？](https://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)\n\n2018年（第 24 期）：[新人进入软件行业的建议](https://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)\n"
+    },
+    {
+      "issueId": 226,
+      "issueTitle": "科技爱好者周刊（第 226 期）：谷歌出了什么问题？",
+      "content": "\n2021年10月8日：[家庭太阳能发电的春天](https://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)\n\n2020年10月9日：[这个社会是否正在变成“赛博朋克”？](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)\n\n2019年10月4日：[任何爱好都能变成职业，只要你会拍视频](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)\n\n2018年10月5日：[安卓手机十周年的感想](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)\n"
+    },
+    {
+      "issueId": 227,
+      "issueTitle": "科技爱好者周刊（第 227 期）：脸书的公司入职教育",
+      "content": "\n2021年10月15日：[AR 技术的打开方式](https://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)\n\n2020年10月16日：[创业的凸函数和凹函数](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)\n\n2019年10月11日：[韩剧《阿尔布拉罕宫的回忆》](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)\n\n2018年10月12日：[DHH 的新书《工作何必疯狂》](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)\n"
+    },
+    {
+      "issueId": 228,
+      "issueTitle": "科技爱好者周刊（第 228 期）：人类和人生的意义",
+      "content": "\n2021年（第180期）：[你想住在中国哪里？](https://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)\n\n2020年（第130期）：[低龄化的互联网](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)\n\n2019年（第78期）：[下一个风口是什么行业？](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)\n\n2018年（第27期）：[乔布斯的“热情假设”对不对？](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)\n"
+    },
+    {
+      "issueId": 229,
+      "issueTitle": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
+      "content": "\n2021年（第181期）：[移动支付应该怎么设计？](https://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)\n\n2020年（第131期）：[你的头脑是二值逻辑，还是三值逻辑？](https://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)\n\n2019年（第79期）：[我们的生活越来越依赖机器](https://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)\n\n2018年（第28期）：[软件开发是真正的知识吗？](https://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)\n"
+    },
+    {
+      "issueId": 230,
+      "issueTitle": "科技爱好者周刊（第 230 期）：电子产品的用电量",
+      "content": "\n2021年（第182期）：[新人优惠的风险](https://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html)\n\n2020年（第132期）：[快能力和慢能力](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html)\n\n2019年（第80期）：[企业软件创业，为什么在中国不容易成功？](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)\n\n2018年（第29期）：[公司的组织架构，决定了软件的复杂性](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)\n"
+    },
+    {
+      "issueId": 231,
+      "issueTitle": "科技爱好者周刊（第 231 期）：互联网公司需要多少员工？",
+      "content": "\n2021年（第183期）：[腾讯的员工退休福利](https://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html)\n\n2020年（第133期）：[贵州变瑞士，有没有可能？](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html)\n\n2019年（第81期）：[子辈能大幅超越父辈吗？](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)\n\n2018年（第30期）：[为什么谷歌做不好社交软件？](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)\n"
+    },
+    {
+      "issueId": 232,
+      "issueTitle": "科技爱好者周刊（第 232 期）：好用的平面设计软件",
+      "content": "\n2021年（第184期）：[政府的存储需求有多大？](https://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)\n\n2020年（第134期）：[未来的游戏业比现在大100倍](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)\n\n2019年（第82期）：[就业要选发展最快的行业](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)\n\n2018年（第31期）：[程序员的退休信号](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)\n"
+    },
+    {
+      "issueId": 233,
+      "issueTitle": "科技爱好者周刊（第 233 期）：生活就像一个鱼缸",
+      "content": "\n2021年（第185期）：[美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html)\n\n2020年（第135期）：[什么行业适合创业？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html)\n\n2019年（第83期）：[技术解决不了人类的对立](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)\n\n2018年（第32期）：[砌砖头的三种角度](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)\n"
+    },
+    {
+      "issueId": 234,
+      "issueTitle": "科技爱好者周刊（第 234 期）：AI 聊天有多强？",
+      "content": "\n2021年（第186期）：[低纬度，高海拔，气候优势](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)\n\n2020年（第136期）：[利特伍德奇轨迹定律](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html)\n\n2019年（第84期）：[一次性工作招聘，用完你就丢](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)\n\n2018年（第33期）：[现场投票不如网络投票](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)\n"
+    },
+    {
+      "issueId": 235,
+      "issueTitle": "科技爱好者周刊（第 235 期）：青年失业率与选择创业",
+      "content": "\n2021年（第187期）：[元宇宙会成功吗](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)\n\n2020年（第137期）：[Slack 被收购，以及企业的技术选型](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)\n\n2019年（第85期）：[美国为什么不是乱哄哄？](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html)\n\n2018年（第34期）：[身份证的最终解决方案：人体植入芯片](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)\n"
+    },
+    {
+      "issueId": 236,
+      "issueTitle": "科技爱好者周刊（第 236 期）：中国的阳光地带",
+      "content": "\n2021年（第188期）：[音乐是反社交](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)\n\n2020年（第138期）：[失业难以避免，重构人生规划](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)\n\n2019年（第86期）：[千万不要当完美主义者](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)\n\n2018年（第35期）：[“一人份”的服务越来越多](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)\n"
+    },
+    {
+      "issueId": 237,
+      "issueTitle": "科技爱好者周刊（第 237 期）：真实方位是如何暴露的？",
+      "content": "\n2021年（第189期）：[下一个内卷的行业](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html)\n\n2020年（第139期）：[生物学的可怕进展](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)\n\n2019年（第87期）：[新人要为团队写文档](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)\n\n2018年（第36期）：[程序员将来会不会过剩？](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)\n"
+    },
+    {
+      "issueId": 238,
+      "issueTitle": "科技爱好者周刊（第 238 期）：停止寻找的最佳时间",
+      "content": "\n2021年（第190期）：[产品化思维](https://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)\n\n2020年（第140期）：[印度人的工钱是多少？](https://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)\n\n2019年（第88期）：[如果你遇到一条蛇](https://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html)\n\n2018年（第37期）：[小说家的时代，永远地过去了](https://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)\n"
+    },
+    {
+      "issueId": 239,
+      "issueTitle": "科技爱好者周刊（第 239 期）：未来两种人会增加",
+      "content": "\n2022年（第191期）：[一个程序员的财务独立之路](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)\n\n2021年（第141期）：[封闭系统的胜利](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)\n\n2020年（第89期）：[不下雨的地方，不要去卖伞](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)\n\n2019年（第38期）：[使用越方便，技术实现越复杂](https://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)\n"
+    },
+    {
+      "issueId": 240,
+      "issueTitle": "科技爱好者周刊（第 240 期）：教育年限可以缩短吗？",
+      "content": "\n[前端与后端，谁更难？](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)（2022 No.193）\n\n[世界尽头与冷酷仙境](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)（2021 No.143）\n\n[印度孟买的房价，为什么跟北京一样高？](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)（2020  No.91）\n\n[如何看待互联网公司裁员？](https://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)（2019 No.41）\n"
+    },
+    {
+      "issueId": 241,
+      "issueTitle": "科技爱好者周刊（第 241 期）：中国的增长动力在内陆",
+      "content": "\n[悲观者正确，乐观者成功](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)（2022 No.194）\n\n[提高收入的根本途径](https://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)（2021 No.144）\n\n[听觉暂留](https://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)（2020  No.92）\n\n[什么领域，你可以做到出类拔萃？](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)（2019 No.42）\n"
+    },
+    {
+      "issueId": 242,
+      "issueTitle": "科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑",
+      "content": "\n[你做过不在乎结果的项目吗？](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)（2022 No.195）\n\n[大家不出门，经济怎么办？](https://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html)（2021 No.145）\n\n[漫游类的游戏，将会越来越多](https://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)（2020  No.93）\n\n[一篇好玩的论文](https://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)（2019 No.43）\n"
+    },
+    {
+      "issueId": 243,
+      "issueTitle": "科技爱好者周刊（第 243 期）：与孔子 AI 聊天",
+      "content": "\n[掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)（2022 #196）\n\n[网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html)（2021 #146）\n\n[既懂得制造，又懂得销售](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html)（2020 #94）\n\n[高校“唯论文”导向的后果](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)（2019 #44）\n"
+    },
+    {
+      "issueId": 244,
+      "issueTitle": "科技爱好者周刊（第 244 期）：大数据已死",
+      "content": "\n[如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)（2022 #197）\n\n[寻找你愿意忍受的痛苦](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html)（2021 #147）\n\n[远程办公暴露冗余岗位](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)（2020 #95）\n\n[阿西莫夫回忆录《人生舞台》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)（2019 #45）\n"
+    },
+    {
+      "issueId": 245,
+      "issueTitle": "科技爱好者周刊（第 245 期）：摩天大楼是反人类的",
+      "content": "\n[美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)（2022 #198）\n\n[微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html)（2021 #148）\n\n[在线教育不等于录制视频](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)（2020 #96）\n\n[推荐算法的副作用](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)（2019 #46）\n"
+    },
+    {
+      "issueId": 246,
+      "issueTitle": "科技爱好者周刊（第 246 期）：永不丢失的网络身份",
+      "content": "\n[俄罗斯的 HTTPS 证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)（2022 #199）\n\n[新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)（2021 #149）\n\n[那些为了考试拼搏的年轻人](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)（2020 #97）\n\n[吃播算不算正式工作？](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)（2019 #47）\n"
+    },
+    {
+      "issueId": 247,
+      "issueTitle": "科技爱好者周刊（第 247 期）：扎克伯格的裁员信",
+      "content": "\n[低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)（2022 #200）\n\n[当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)（2021 #150）\n\n[怎样清晰地表达自己的观点？](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)（2020 #98）\n\n[著名程序员 Bill Joy 的人生启示](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)（2019 #48）\n"
+    },
+    {
+      "issueId": 248,
+      "issueTitle": "科技爱好者周刊（第 248 期）：不要夸大 ChatGPT",
+      "content": "\n[中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)（2022 #201）\n\n[NFT 是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)（2021 #151）\n\n[互联网不再稀缺](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)（2020 #101）\n\n[为什么过去10年，笔记本硬件发展缓慢？](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)（2019 #51）\n"
+    },
+    {
+      "issueId": 249,
+      "issueTitle": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
+      "content": "\n[三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)（2022 #202）\n\n[从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)（2021 #152）\n\n[工作热情从何而来？](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)（2020 #102）\n\n[人脸识别与课堂监控](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html)（2019 #52）\n"
+    },
+    {
+      "issueId": 250,
+      "issueTitle": "科技爱好者周刊（第 250 期）：新技术的最大风险",
+      "content": "\n[英国的名校证书，伯克利的计算机教育](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)（2022 #203）\n\n[机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)（2021 #153）\n\n[信息的半衰期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)（2020 #103）\n\n[DNA 相亲会](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html)（2019 #53）\n"
+    },
+    {
+      "issueId": 251,
+      "issueTitle": "科技爱好者周刊（第 251 期）：国产单板机值得推荐",
+      "content": "\n[如何度过疫情、裁员、还有战争](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)（2022 #204）\n\n[1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)（2021 #154）\n\n[语音合成的用途](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)（2020 #104）\n\n[可扩展性最好的活动](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)（2019 #54）\n"
+    },
+    {
+      "issueId": 252,
+      "issueTitle": "科技爱好者周刊（第 252 期）：互联网创业变难了",
+      "content": "\n[互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)（2022 #205）\n\n[数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html)（2021 #155）\n\n[线上行业会赢](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)（2020 #105）\n\n[不是反对 996，而要提倡远程办公](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)（2019 #55）\n"
+    },
+    {
+      "issueId": 253,
+      "issueTitle": "科技爱好者周刊（第 253 期）：训练材料用完之日",
+      "content": "\n[如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)（2022 #206）\n\n[显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)（2021 #156）\n\n[数字游民](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)（2020 #106）\n\n[文科生为什么不容易就业？](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)（2019 #56）\n"
+    },
+    {
+      "issueId": 254,
+      "issueTitle": "科技爱好者周刊（第 254 期）：人生是一个长板问题",
+      "content": "\n[汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)（2022 #207）\n\n[KK 给年轻人的建议](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html)（2021 #157）\n\n[致富与杠杆](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)（2020 #107）\n\n[分享知识是否违反人性？](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)（2019 #57）\n"
+    },
+    {
+      "issueId": 255,
+      "issueTitle": "科技爱好者周刊（第 255 期）：对待 AI 的正确态度",
+      "content": "\n[晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)（2022 #208）\n\n[内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)（2021 #158）\n\n[阵地战与奇袭战](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)（2020 #108）\n\n[软件推广可以像化妆品那样吗？](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)（2019 #58）\n"
+    },
+    {
+      "issueId": 256,
+      "issueTitle": "科技爱好者周刊（第 256 期）：最酷的乐高作品",
+      "content": "\n[程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)（2022 #209）\n\n[游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)（2021 #159）\n\n[播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)（2020 #109）\n\n[互联网时代很难交朋友](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)（2019 #59）\n"
+    },
+    {
+      "issueId": 257,
+      "issueTitle": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
+      "content": "\n[为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)（2022 #210）\n\n[中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)（2021 #160）\n\n[如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)（2020 #110）\n\n[一本介绍人类起源的学术自传](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)（2019 #60）\n"
+    },
+    {
+      "issueId": 258,
+      "issueTitle": "科技爱好者周刊（第 258 期）：卡马克的猫",
+      "content": "\n[虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)（2022 #211）\n\n[再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)（2021 #161）\n\n[智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)（2020 #111）\n\n[转行前端越来越难](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)（2019 #61）\n"
+    },
+    {
+      "issueId": 259,
+      "issueTitle": "科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT",
+      "content": "\n[人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)（2022 #212）\n\n[生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)（2021 #162）\n\n[如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)（2020 #112）\n\n[日本电影《编舟记》](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)（2019 #62）\n"
+    },
+    {
+      "issueId": 260,
+      "issueTitle": "科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1",
+      "content": "\n[知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)（2022 #213）\n\n[你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)（2021 #163）\n\n[暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)（2020 #113）\n\n[互联网市场的集中化趋势](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)（2019 #63）\n"
+    },
+    {
+      "issueId": 261,
+      "issueTitle": "科技爱好者周刊（第 261 期）：黑客马拉松的正确方式",
+      "content": "\n[你的地图是错的](https://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)（2022 #214）\n\n[培训班 vs 大学，求职成功率比较](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html)（2021 #164）\n\n[U 盘化生存和 Uber-job](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)（2020 #114）\n\n[新人如何进入互联网行业？](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)（2019 #64）\n"
+    },
+    {
+      "issueId": 262,
+      "issueTitle": "科技爱好者周刊（第 262 期）：告别密码",
+      "content": "\n[互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)（2022 #215）\n\n[全端 App 的时代](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html)（2021 #165）\n\n[保护你的 DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)（2020 #115）\n\n[周刊开设“谁在招人”的招聘服务](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)（2019 #65）\n"
+    },
+    {
+      "issueId": 263,
+      "issueTitle": "科技爱好者周刊（第 263 期）：开源软件如何赚钱？",
+      "content": "\n[极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)（2022 #216）\n\n[视频学习胜过读书吗？](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html)（2021 #166）\n\n[世界的未来就是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html)（2020 #116）\n\n[创业不是零和游戏](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)（2019 #66）\n\n（完）\n\n"
+    },
+    {
+      "issueId": 264,
+      "issueTitle": "科技爱好者周刊（第 264 期）：Elasticsearch 的启示",
+      "content": "\n[沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)（2022 #217）\n\n[广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html)（2021 #167）\n\n[我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)（2020 #117）\n\n[复杂系统无法维护，侏罗纪公园必定失败](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)（2019 #67）\n\n（完）\n\n"
+    },
+    {
+      "issueId": 265,
+      "issueTitle": "科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi",
+      "content": "\n[葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)（2022 #218）\n\n[游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)（2021 #168）\n\n[高考志愿怎么填](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html)（2020 #118）\n\n[关注能力的成长，胜于关注待遇](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)（2019 #68）\n\n（完）\n\n"
+    },
+    {
+      "issueId": 266,
+      "issueTitle": "科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书",
+      "content": "\n[如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)（2022 #219）\n\n[五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html)（2021 #169）\n\n[降雨量和保险博弈](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html)（2020 #119）\n\n[做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)（2019 #69）\n\n（完）\n\n"
+    },
+    {
+      "issueId": 267,
+      "issueTitle": "科技爱好者周刊（第 267 期）：5G 的春天要来了",
+      "content": "\n[人工智能的机会在哪里](https://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)（2022 #220）\n\n[软件订阅制的胜利](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html)（2021 #170）\n\n[只有开放才能打败封锁](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)（2020 #120）\n\n[世界进入负利率时代，这意味什么](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)（2019 #70）\n\n（完）\n"
+    },
+    {
+      "issueId": 268,
+      "issueTitle": "科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人",
+      "content": "\n[全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)（2022 #221）\n\n[云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html)（2021 #171）\n\n[为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)（2020 #121）\n\n[名校毕业，不容易创业](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)（2019 #71）\n\n（完）\n\n"
+    },
+    {
+      "issueId": 269,
+      "issueTitle": "科技爱好者周刊（第 269 期）：为什么英雄不使用炸药",
+      "content": "\n[四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)（2022 #222）\n\n[我们会死于气候灾难吗？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)（2021 #172）\n\n[谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html)（2020 #122）\n\n[当代人不再有手稿](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)（2019 #72）\n\n（完）\n\n"
+    }
+  ]
+}

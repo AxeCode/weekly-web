@@ -1,0 +1,12 @@
+{
+  "name": "iPhone 应用",
+  "slug": "iphone-",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 283,
+      "issueTitle": "科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走",
+      "content": "\n1、[嗯背单词](https://github.com/ruanyf/weekly/issues/3754)\n\n![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121902.webp)\n\n2、[成语接龙游戏](https://animos.ai/zh-CN#description)\n\n![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121904.webp)\n\n小朋友跟 AI 模型玩成语接龙游戏，参见[介绍文章](https://animos-ai.notion.site/LLM-function-calling-e9756cef15b54f7684658fd4e5d1096b)。（[@zamia](https://github.com/ruanyf/weekly/issues/3758) 投稿）\n"
+    }
+  ]
+}

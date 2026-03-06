@@ -1,0 +1,12 @@
+{
+  "name": "大模型的比较",
+  "slug": "da-mo-xing-de-bi-jiao",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 360,
+      "issueTitle": "科技爱好者周刊（第 360 期）：Dan Wang 的新书",
+      "content": "\n国外媒体在2025年7月17日，对主流的大模型进行了测试。一共使用了225道题，看哪个模型得分更高，费用更省。\n\n[下图](https://www.linkedin.com/posts/panela_important-plot-for-folks-concerned-with-balancing-activity-7356743713680756736-X2Rv)就是他们的测试结果。\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080307.webp)\n\n纵轴是正确率，位置越高，表示模型的正确率越高。图中，位置最高的模型是 OpenAI 的 O3 pro。\n\n横轴是成本，位置越靠左，表示成本越低。\n\n综合来看，DeekSeek R1（0528）是一个比较均衡的模型：正确率够高，价格比同级别的模型都便宜。\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "可视化作品",
+  "slug": "ke-shi-hua-zuo-pin",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 210,
+      "issueTitle": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
+      "content": "\n1、[全球海底光缆](http://he.net/3d-map/)\n\n![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041001.webp)\n\n这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置。\n\n2、[极光](https://www.drawaurora.com/)\n\n![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041002.webp)\n\n这个网页构造了一个极地的背景，让你手绘动态的极光效果。\n\n3、[波斯波利斯](https://persepolis.getty.edu/)\n\n![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041004.webp)\n\n波斯波利斯是古代波斯帝国的首都，位于现在的伊朗，已经是一片废墟了。这个页面还原了这座雄伟的帝国都城，重建了 3D 街景，让你在其中漫游。\n"
+    }
+  ]
+}

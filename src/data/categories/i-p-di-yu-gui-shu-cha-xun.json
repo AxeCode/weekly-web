@@ -1,0 +1,12 @@
+{
+  "name": "IP 地域归属查询",
+  "slug": "i-p-di-yu-gui-shu-cha-xun",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 272,
+      "issueTitle": "科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影",
+      "content": "\n下面两个网站，可以查询某个 IP 地址的地域归属。\n\n1、[ipinfo.io](https://ipinfo.io/)\n\n![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091501.webp)\n\n2、[ipapi.is](https://ipapi.is/)\n\n![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091502.webp)\n\n这两个网站还都提供免费的数据库下载（[ipinfo 下载](https://ipinfo.io/developers/ip-to-country-asn-database)， [ipapi 下载](https://ipapi.is/geolocation.html)）。\n"
+    }
+  ]
+}

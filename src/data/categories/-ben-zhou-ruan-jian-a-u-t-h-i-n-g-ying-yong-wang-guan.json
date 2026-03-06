@@ -1,0 +1,12 @@
+{
+  "name": "[本周软件] Authing 应用网关",
+  "slug": "-ben-zhou-ruan-jian-a-u-t-h-i-n-g-ying-yong-wang-guan",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 277,
+      "issueTitle": "科技爱好者周刊（第 277 期）：工作台副屏的最佳选择",
+      "content": "\n周刊以前介绍过 [Authing](https://www.authing.com/)，他们主要做身份认证 SaaS 服务（身份云），这两年发展很快。\n\n他们最近发布了一个重量级产品—— Authing 应用网关，解决了很多企业的一大痛点：**不同的内部应用，或者老旧的现有系统，如何简单改造为统一的登录系统？**\n\n![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110601.webp)\n\n他们的解决方案，就是提供一个身份/登录网关，架设在所有内部应用前面，不用改造原有系统，实现 **“一个身份”登录所有应用**。\n\n“Authing 应用网关”同时集成了用户管理、权限管理、负载平衡、路由、安全保护、加密、压缩等功能，为企业提供重要的基础设施，并自带一个简洁直观的管理后台。\n\n它需要私有部署。感兴趣的朋友可以访问 [Authing 官网](https://www.authing.com/gateway-integration)，详细了解软件信息，并要求演示。\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "语雀",
+  "slug": "yu-que",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 1,
+      "issueTitle": "每周分享第 1 期",
+      "content": "\n语雀（[yuque.com](https://yuque.com?utm_source=ruanyifeng.com)）是阿里巴巴集团内部最大的文档平台，也是阿里系知识管理和团队协作的主要工具之一。\n\n今天（4月23日）是世界读书日，[语雀](https://yuque.com/)选在今天放开注册，不再需要邀请码，用户可以直接注册，跟阿里的正式员工一样使用所有功能。\n\n[![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042301.png)](https://yuque.com?utm_source=ruanyifeng.com)\n\n为了配合世界读书日，语雀还邀请了一些互联网知名人士，写下他们的推荐书单，比如蚂蚁金服 CTO 的[程立](https://yuque.com/book-academy/2018/lusu?utm_source=ruanyifeng.com)。\n"
+    }
+  ]
+}

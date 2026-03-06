@@ -1,0 +1,12 @@
+{
+  "name": "ChatGPT 应用",
+  "slug": "c-h-a-t-g-p-t-ying-yong",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 234,
+      "issueTitle": "科技爱好者周刊（第 234 期）：AI 聊天有多强？",
+      "content": "\nChatGPT 可以免费使用，但需要手机注册。它不支持中国大陆的手机号，如果想玩的话，你需要一个境外的手机号，或者使用境外的[接码平台](https://sms-activate.org/cn)，再或者在电商平台买一个 OpenAI 账号。\n\n另外，这几天，基于 ChatGPT 的应用层出不穷，下面再列举一些。\n\n1、[Talk - GPT-2](https://whisper.ggerganov.com/talk/)\n\n![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120811.webp)\n\n这个项目让你跟 AI 语音聊天，网页先识别你的语音，然后 AI 生成文本回答，再用机器语音说出来。它甚至可以让两个网页互相聊天，参见[作者说明](https://github.com/ggerganov/whisper.cpp/discussions/167)。\n\n2、[ChatGPT ProBot](https://github.com/oceanlvr/ChatGPT-ProBot)\n\n![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120809.webp)\n\n一个 GitHub 机器人，可以让 ChatGPT 帮你审核代码和重构代码，也可以在 GitHub 页面上与它聊天。（[@oceanlvr](https://github.com/ruanyf/weekly/issues/2784) 投稿）\n\n3、[ChatGPT 桌面应用](https://github.com/lencx/ChatGPT)\n\n![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120810.webp)\n\n这个软件把 ChatGPT 包装成了跨平台的桌面应用，让你在桌面上与它聊天。（[@lencx](https://github.com/ruanyf/weekly/issues/2787) 投稿）\n"
+    }
+  ]
+}

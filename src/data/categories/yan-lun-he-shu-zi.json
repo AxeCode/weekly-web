@@ -1,0 +1,37 @@
+{
+  "name": "言论和数字",
+  "slug": "yan-lun-he-shu-zi",
+  "count": 6,
+  "items": [
+    {
+      "issueId": 73,
+      "issueTitle": "科技爱好者周刊：第 73 期",
+      "content": "\n1、\n\n青木原（Aokigahara forest）的日语意思是树木之海。1993年出版的 Waturu Tsurumi 的《自杀完全手册》宣布它是日本最佳的死亡地点。因为它的树木长得很紧密，所以它们阻挡了风，而且由于动物和鸟类很少，森林异常安静。树木之海面积很大，十四平方英里，所以尸体可以被掩盖几个月未被发现。\n\n-- 《[一个僧人遭遇日本的自杀文化](https://www.newyorker.com/magazine/2013/06/24/last-call-3)》\n\n2、\n\n写书为时已晚，创业为时已晚，学习新语言为时已晚，这称为时间焦虑。\n\n-- [《时间焦虑》](https://nesslabs.com/time-anxiety)\n\n3、\n\n有史以来第一次，我觉得观看 Apple 产品发布会是浪费时间。\n\n-- [HN 读者](https://news.ycombinator.com/item?id=20934553) 评论 iPhone 11 发布会\n\n4、\n\n今天美国大城市的平均单程通勤时间约为26分钟。\n\n--[《历史上的城市通勤》](https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/)\n\n5、\n\n海洛因和月薪同样危险。吸食海洛因会上瘾，每月领薪水也会上瘾。\n\n-- [Nassim Nicholas Taleb，《黑天鹅》的作者](https://www.goodreads.com/quotes/612389-the-three-most-harmful-addictions-are-heroin-carbohydrates-and-a)\n"
+    },
+    {
+      "issueId": 75,
+      "issueTitle": "科技爱好者周刊：第 75 期",
+      "content": "\n1、\n\n工业化的风险越来越大。因为工业化使得人们集中在城市、使得生产消耗更多的能源，有更多的自动化，更快的技术变革，最后是更加相互依赖的系统网络。\n\n-- [《复杂系统的故障》](https://itnext.io/complex-system-failure-the-whole-is-more-than-the-sum-of-its-parts-ac1ee9bc4e6c)\n\n2、\n\n德国工业设计大师 Dieter Rams 是功​​能主义的坚定信徒，他的设计理念就是他的名言：“少，但更好”（less but better）。\n\n-- [《伟大的产品做得少，但更好》](https://uxdesign.cc/great-products-do-less-things-but-better-5dde0ee3fc76)\n\n3、\n\n18岁的奥地利人安德烈亚斯·米哈维茨（Andreas Mihavecz）是没有食物的情况下，世界上活得最久的人。\n\n1979年4月1日，他被警察关进一个地下室，后来被忘了。18天后的4月19日，才被发现。\n\n-- [维基百科](https://en.wikipedia.org/wiki/Andreas_Mihavecz)\n\n4、\n\nRekursiv 是上世纪80年代苏格兰科学家推出的一种 CPU，从未商业化，只做过几个实验板。唯一一个知道去向的成品，位于格拉斯哥市内一条河流的底部。\n\n-- [维基百科](https://en.wikipedia.org/wiki/Rekursiv)\n\n5、\n\n创造伟大产品的秘诀，不是去创造各种了不起的功能，而是让你的客户变得了不起。\n\n-- Kathy Sierra\n"
+    },
+    {
+      "issueId": 76,
+      "issueTitle": "科技爱好者周刊：第 76 期",
+      "content": "\n1、\n\n有些开发者对技术上瘾，而不是务实地看待技术。每当一种新技术出现，他们会立刻选择它，跳船到它上面，虔诚地传播它，应用它，然后跳船到下一个新技术。\n\n这部分是因为，在这个行业里，简历需要很多时髦的流行语，务实的简单的技术选择，无法让别人留下深刻印象。\n\n-- [HN 读者留言](https://news.ycombinator.com/item?id=20916310)\n\n2、\n\n达尔文和尼采有一个观点是一致的：生物体最重要的特征就是奋斗求生。\n\n-- 书籍《当呼吸化为空气》\n\n3、\n\n函数式编程对个人开发没影响，但是团队开发够呛。函数式编程只适合个人英雄主义的开发者，类才适合团队。因为类具有有形的API，函数式依靠无形的概念和规范。因此我觉得React Hooks是一个巨坑。\n\n-- 一个读者评论React Hooks 废掉了“类”（class）\n\n4、\n\nPerl 6 最初设计为 Perl 的下一个版本，但是设计阶段耗时太长（超过10年）。于是，很多人继续使用 Perl 5，并且接管了 Perl 5 的代码管理权。\n\n现在，Perl 6 与 Perl 5 是两种完全不同的编程语言，不兼容，不仅仅只是版本号的不同。如今，Perl 这个词指的是 Perl 5，而 Perl 6 的开发者正在讨论是否改名，将其彻底变成一种独立的语言。\n\n-- [《Perl 6 是否改名？》](http://blogs.perl.org/users/ovid/2019/08/is-perl-6-being-renamed.html)\n\n5、\n\n一些蓝领工作（比如焊接工）具有相对较高的工资水平，可以超过一些低层白领。但缺点是他们的工资上限很低，不会超过平均工资太远，很难拿到非常高的工资。\n\n-- [《大西洋杂志》](https://www.theatlantic.com/education/archive/2019/09/welding-doesnt-pay-as-well-as-republicans-think/597733/)\n\n6、\n\n我很惊讶一个静态站点生成器可以筹集这么多资金，这意味着，那些非静态的内容网站依然有巨大的问题。\n\n-- [HN 读者](https://news.ycombinator.com/item?id=21085847)对静态站点生成器 Gatsby 筹集1500万美元的评论\n"
+    },
+    {
+      "issueId": 77,
+      "issueTitle": "科技爱好者周刊：第 77 期",
+      "content": "\n1、\n\n每次打开一个源码文件，你都应该让它变得更好。\n\n-- [DHH](https://spicermatthews.com/blog/spicers-rules-on-how-and-when-to-test-your-code/)\n\n2、\n\n最好的工程师不是写代码最多的工程师，而是做出未来可以少写代码的决策的工程师。\n\n-- [Dan Goldin](https://dangoldin.com/2019/09/16/goldilocks-and-the-three-implementations/)\n\n3、\n\n印度的上网人口仅次于中国，2018年为5.66亿，今年将增长11%达到6.27亿（中国为超过8亿）。印度和中国是世界仅有的两个超过5亿上网人口的国家。\n\n但是，由于印度人均收入太低（仅为中国的四分之一），印度互联网企业的收入少得可怜，2018年印度数字广告支出仅为15.3亿美元，中国为850亿美元，世界第一的美国为1080亿美元。\n\n-- [《印度微薄的数字广告收入》](https://www.theinformation.com/articles/in-india-many-internet-users-but-little-ad-revenue)\n\n4、\n\nRMS（理查德.斯托曼）是一个伟大的人，但遗憾的是，他与更广阔的世界沟通有困难。历史上许多伟大的思想家都是如此。很可悲，这种事情发生在他这样的英雄人物身上，但我相信，只要人们继续为自由软件作斗争，历史会还给他公正。\n\n-- [HN 读者](https://news.ycombinator.com/item?id=20993811)评论 RMS 辞去自由软件基金会 FSF 主席\n\n5、\n\n技术通常只是达到目的的手段，除非你在销售技术，否则追求时髦技术很无聊。我看到太多团队在复杂的技术堆栈上，投入了太多能量，只是为了看起来很酷。\n\n在内心深处，我只希望业务能够成功，干净和健全的系统架构是我追求的，只要能让业务跑起来，使用什么技术都无关紧要。\n\n-- [HN 读者](https://news.ycombinator.com/item?id=20990939)\n\n6、\n\n一次性塑料用品的问题是，我们用一种可以持续数个世纪不降解的材料，制造只使用一次的产品。\n\n-- [《93％的瓶装水发现微塑料》](https://www.cbc.ca/news/technology/bottled-water-microplastics-1.4575045)\n"
+    },
+    {
+      "issueId": 78,
+      "issueTitle": "科技爱好者周刊：第 78 期",
+      "content": "\n1、\n\n拥有个人网站，就好像拥有了互联网的一小部分。\n\n-- [《写给个人网站的一封情书》](https://www.vanschneider.com/a-love-letter-to-personal-websites)\n\n2、\n\n如果你已经富裕，2％的收入增长速度就很不错了，可以让你保持并变得更加富裕。\n\n但是，对于几乎没有收入的人来说，2％的收入增长速度，基本上就代表他们将永远贫穷。\n\n-- [HN 读者](https://news.ycombinator.com/item?id=20997415)评论中国经济增长速度降到6%\n\n3、\n\n如果 GDP 增长2％，人口增长1.2％，通货膨胀率为1％，那么人均 GDP 将下降。\n\n-- [同上](https://news.ycombinator.com/item?id=20997517)\n\n4、\n\n活在世界上，有时候人家不害你，就是对你最大的帮忙。\n\n-- 柯文哲，台北市长\n\n5、\n\n雇主最看重的是解决问题的技能，而不是编程语言的熟练程度、调试能力和系统设计。\n\n新程序员犯下的最大错误就是专注于学习语法，而不是学习如何解决问题。\n\n-- [《解决问题的经验教训》](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)\n\n6、\n\n我希望程序可以更短，不是以行数或字符衡量，而是以解析树衡量。\n\n-- [保罗·格拉汉姆（Paul Graham）](https://news.ycombinator.com/item?id=21232352)。他已经54岁了，发布了一门自创的计算机语言 Bel。有人问他目的何在，他做了上面的回答。\n"
+    },
+    {
+      "issueId": 79,
+      "issueTitle": "科技爱好者周刊：第 79 期",
+      "content": "\n1、\n\n可以数学证明，一个项目拖得越久，它的预期完成日期就越遥远。\n\n-- [《林迪定律》](https://www.johndcook.com/blog/2015/12/21/power-law-projects/)\n\n2、\n\n你始终被锁定在你的基础架构中。一旦达到一定规模，人们就不会轻易改变基础架构。\n\n-- [HN 读者](https://news.ycombinator.com/item?id=21047451)\n\n3、\n\n一部 9TB 的磁带机，现在价格为59美元，每 TB 为6.55美元。这比市场上最便宜的 SSD 硬盘低12倍，是最便宜的 12TB 传统硬盘 Seagate Exos X14 的1/4。\n\n-- [磁带存储仍然有优势](https://www.techradar.com/news/theres-one-crucial-way-tape-still-trounces-ssds-and-hard-drives-when-it-comes-to-storage)\n\n4、\n\n所有算法都可以称为人工智能。\n\n-- [Eran Hammer](https://twitter.com/eranhammer/status/1177489977187241984)\n\n5、\n\n全世界所有国家的官方文字，只有一种没有进入 Unicode 编码，就是缅甸文。\n\n-- [《Facebook 如何从将缅甸 Zawgyi 编码转为 Unicode》](https://engineering.fb.com/android/unicode-font-converter/) \n\n6、\n\n大多数时候，人们都会放大场景，而不是缩小场景。因此，尽管广角摄像头可能很有趣，但我们认为长焦摄像头更重要。\n\n-- [谷歌](https://thenextweb.com/plugged/2019/10/17/rant-google-has-no-good-excuse-for-the-pixel-4s-missing-ultrawide-camera/)在 Pixel 4 手机发布会上解释，为什么 Pixel 4 只有长焦摄像头，没有广角摄像头。\n"
+    }
+  ]
+}

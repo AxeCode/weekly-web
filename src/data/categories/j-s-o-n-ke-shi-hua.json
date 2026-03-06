@@ -1,0 +1,12 @@
+{
+  "name": "JSON 可视化",
+  "slug": "j-s-o-n-ke-shi-hua",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 238,
+      "issueTitle": "科技爱好者周刊（第 238 期）：停止寻找的最佳时间",
+      "content": "\nJSON 是网络数据的常用格式，但它是机读格式，不容易编辑和阅读。\n\n网上有很多 JSON 可视化工具，大大便利了 JSON 编辑和阅读。\n\n1、[JSON Visualization](https://altearius.github.io/tools/json/index.html)\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112905.webp)\n\n这个工具可以把 JSON 数据渲染成表格。\n\n2、[JSON Viewer](https://jsonhero.io/)\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112906.webp)\n\n这个工具可以分层展示 JSON 数据。\n\n3、[jq play](https://jqplay.org/)\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112603.webp)\n\njq 是 JSON 数据的查询工具，类似于 JSON 的 SQL 查询。\n\n这个链接是 jq 实验场，可以粘贴你的数据，然后在网页上执行各种 jq 命令，查询结果。\n\n4、[JsonT.run](https://www.jsont.run/)\n\n![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010501.webp)\n\n一个国产的 JSON 在线编辑查看工具。（[@bimohxh](https://github.com/ruanyf/weekly/issues/2832) 投稿）\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "[竞赛] 扣子 AI 挑战赛",
+  "slug": "-jing-sai-kou-zi-a-i-tiao-zhan-sai",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 324,
+      "issueTitle": "科技爱好者周刊（第 324 期）：人类已知的最大质数",
+      "content": "\n字节旗下的“[扣子 Coze](https://www.coze.cn)”正在举办[模板挑战赛](https://mp.weixin.qq.com/s/CRxT9UTuD1dH53ePwi-_Zw)。我介绍一下这个比赛。\n\n11月22日前，你只要用它创建一个 AI 应用，提交到官网的[智能体商店](https://www.coze.cn/store/agent?cate_type=recommend)，就能参加比赛。\n\n![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102812.webp)\n\n扫描上方海报二维码，或[点击这里](https://www.coze.cn/s/iANJPSxo/)，了解详情。\n\n大家不要觉得这比赛很难，扣子是“工作流模式”（参考我的[介绍文章](http://www.ruanyifeng.com/blog/2024/10/coze.html)和[官方文档](https://www.coze.cn/docs/guides/quickstart)），全图形界面，通过编排节点，自动生成 AI 应用，没有编程基础也能上手。\n\n![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102708.webp)\n\n而且，扣子本周还开通了付费模板。你可以为自己的应用模板设置价格，实现变现。别人基于你的应用进行修改，必须付费购买模板，从而为你带来收入。\n\n**本次比赛会根据模板复制的数量，给予1000元～10000元的奖金**。搭建 AI 应用不收费，大家不妨从模板商店寻找灵感，试试用低代码编程，完成 AI 开发。 \n"
+    }
+  ]
+}

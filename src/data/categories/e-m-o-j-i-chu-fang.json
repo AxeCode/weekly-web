@@ -1,0 +1,12 @@
+{
+  "name": "Emoji 厨房",
+  "slug": "e-m-o-j-i-chu-fang",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 217,
+      "issueTitle": "科技爱好者周刊（第 217 期）：沙特的新未来城",
+      "content": "\n2020年，谷歌的设计师做了一个项目，将 Emoji 符号两两合成，组成新的 Emoji。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072601.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072602.webp)\n\n这个项目起名为[“Emoji 厨房”](https://blog.google/products/android/feeling-all-the-feels-theres-an-emoji-sticker-for-that/)，意为对 Emoji 进行加工。\n\n设计师一共画了几万张图片，在安卓的 Gboard 应用提供，那是一个键盘应用，需要单独安装。不过，所有图片都放在谷歌的服务器上，可以随意调用。\n\n很多外部开发者就写了各种 UI，方便大家查找获取这些图片。\n\n1、[Emoji Kitchen](https://emojikitchen.dev/)\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072603.webp)\n\n2、[Emojimix](https://tikolu.net/emojimix/)\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072604.webp)\n\n3、[Emoji Supply](https://emoji.supply/kitchen/)\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072605.webp)\n\n4、还有一个 [Emoji 壁纸工具](https://emoji.supply/wallpaper/)，可以选择 Emoji 符号，生成壁纸。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072606.webp)\n"
+    }
+  ]
+}

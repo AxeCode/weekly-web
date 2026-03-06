@@ -1,0 +1,12 @@
+{
+  "name": "机房的中间人攻击",
+  "slug": "ji-fang-de-zhong-jian-ren-gong-ji",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 275,
+      "issueTitle": "科技爱好者周刊（第 275 期）：彼得·蒂尔的实验",
+      "content": "\n俄罗斯即时通信服务 jabber.ru，上周报告了一起骇人听闻的[安全事件](http://notes.valdikss.org.ru/jabber.ru-mitm/)。\n\n![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102102.webp)\n\n他们的服务器托管在德国 Hetzner 和 Linode 机房，但是用户连接服务器时，得到的域名证书是伪造的。\n\n也就是说，有人在机房对他们做了“中间人攻击”，冒充身份以拦截俄罗斯用户的聊天，记录后再将其转给原始服务器。机房管理员一定是知情的，因为需要机房网关配合。\n\n很难想象，为什么 Hetzner 和 Linode 要去偷听自己的客户？唯一的解释是政府要求他们这么做。\n\n这件事提醒我们，机密的聊天一定要选择“端对端”加密的聊天软件，除了当事人，谁也无法解密。\n"
+    }
+  ]
+}

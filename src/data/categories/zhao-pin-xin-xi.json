@@ -1,0 +1,97 @@
+{
+  "name": "招聘信息",
+  "slug": "zhao-pin-xin-xi",
+  "count": 18,
+  "items": [
+    {
+      "issueId": 65,
+      "issueTitle": "科技爱好者周刊（第 65 期）：周刊开设\"谁在招人\"的招聘服务",
+      "content": "\n以下公司正在招聘，欢迎应聘。\n\n本栏目为收费服务，每条价格 250 元人民币，用于资助周刊。如果你的公司正在招人，欢迎联系我（Email: yifeng.ruan@gmail.com）。\n\n1、**高级 Web 前端工程师**\n  \n[深圳追一科技](https://zhuiyi.ai/)，人工智能创业公司。工作地点：深圳市南山区。\n\n公司主打 NLP 方向的 B 端 AI 产品落地，诚求英才。要求4年以上实际前端项目的开发经验，熟练掌握 Vue 或 React 生态，查看[详细信息](https://www.zhipin.com/job_detail/79ca9be7fb736e4d03Nz3924FVA~.html)。\n\nEmail 联系：[winchang@wezhuiyi.com](mailto:winchang@wezhuiyi.com)\n\n2、**资深 Web 前端工程师**\n\n[光年实验室](http://hr.lagou.com/company/gongsi/436941.html)，数据驱动的、企业流量服务的创业公司。工作地点：杭州城西紫金港。\n\n公司的技术方向是数据挖掘、CV 和 NLP 等，团队成员的平均代码年龄超过10年。招聘要求是3年以上前端项目开发经验，熟练掌握 React，能独立开发常用组件。\n\n职位详情和联系方式，详见[拉勾网](http://www.lagou.com/jobs/6040061.html?source=pl&i=pl-2)。\n\n3、**资深前端研发工程师**\n\n美团点评到店事业群，到综前端研发中心。工作地点：上海长宁。\n\n团队主要负责到店综合各业务产品前端研发工作，保障用户端、境外以及 SaaS 业务等产品的易用性持续改进和工程化体系建设，招聘要求三年以上前端工程师经验，熟练掌握 Vue、Node、前端工程化等，及具备端到端性能优化经验丰富的同学加入，职位详情见 [美团点评·社会招聘](https://zhaopin.meituan.com/job-detail?jobId=54663749)。\n\nEmail 联系 [yinchengzhi[AT]meituan.com](mailto://yinchengzhi@meituan.com)。\n"
+    },
+    {
+      "issueId": 66,
+      "issueTitle": "科技爱好者周刊：第 66 期",
+      "content": "\n以下公司正在招聘，欢迎应聘。\n\n本栏目为收费服务，每条价格 250 元人民币，用于资助周刊。如果你的公司正在招人，欢迎联系我（Email: yifeng.ruan@gmail.com）。\n\n[讨论区](https://github.com/ruanyf/weekly/issues/692)有更多职位，欢迎大家访问。\n\n1、**资深 Web 前端工程师**\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071905.jpg)\n\n[美团](https://zhaopin.meituan.com/)基础研发平台，面向公司内部提供基础服务，例如云计算、虚拟化、中间件、基础服务等。工作地点：上海长宁。\n\n团队主要负责公司内部知识管理、在线实时协作相关平台研发。期待你与我们一起打磨优秀的产品。希望你有最好有3年以上前端开发经验，对 React、Node、前端工程化的有丰富经验。\n\nEmail 联系 [duwanzhi[AT]meituan.com](mailto://duwanzhi@meituan.com)，详见[JD](https://github.com/levin-du/Meituan-JD)。\n\n2、**前端程序员**\n\n![bg2019071903](https://cdn.beekka.com/blogimg/asset/201907/bg2019071903.jpg)\n\n[疯狂游戏](http://www.hortorgames.com)，国内小游戏 Top 1 公司。工作地点：北京海淀区。\n\n疯狂游戏成立于2010年，成功打造多款风靡全国的游戏，如《海盗来了》、《头脑王者》、《成语小秀才》、《疯狂猜图》、《疯狂猜歌》等。 团队拥有行业内顶尖的游戏从业者，来自 Microsoft、腾讯、百度、Gameloft 等知名互联网及游戏公司。\n\n职位详情和联系方式，详见[招聘官网](http://hortorgames.tupu360.com/ow/)。\n\n3、**资深前端开发工程师**\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071906.jpg)\n\n美团外卖上海研发中心。工作地点：上海中山公园\n\n团队负责美团外卖小程序、m站等用户端产品的研发，及小程序基础设施体系化建设。欢迎具有3年以上前端经验，有兴趣打造高可用、高性能前端工程化产品的同学加入。职位详情：[美团外卖-前端开发](https://zhaopin.meituan.com/job-detail?jobId=22392374)\n\n简历投递 Email：[shancheng.wang@dianping.com](mailto://shancheng.wang@dianping.com)\n\n4、**高级前端工程师**\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072507.jpg)\n\n[比特大陆](https://www.bitmain.com/ \n)矿池团队。 工作地点： 北京市奥北科技园。\n\n团队负责比特大陆矿池及多币种区块链浏览器项目研发。欢迎具有3年以上工作经验的同学加入团队，负责 BITMAIN 矿池产品前端的稳定性、扩展性，探究新一代区块链前端技术架构解决方案。点击查看[岗位详细信息](https://github.com/btccom/blackboard)。\n\n简历投递 Email：[lichun.guo@bitmain.com](mailto://shancheng.wang@dianping.com)\n"
+    },
+    {
+      "issueId": 67,
+      "issueTitle": "科技爱好者周刊：第 67 期",
+      "content": "\n以下公司正在招聘，欢迎应聘。\n\n本栏目为收费服务，每条价格 250 元人民币，用于资助周刊。如果你的公司正在招人，欢迎联系我（Email:  [yifeng.ruan@gmail.com](mailto:yifeng.ruan@gmail.com)）。\n\n[讨论区](https://github.com/ruanyf/weekly/issues/692)有更多职位，欢迎大家访问。\n\n1、 **高级前端开发工程师**\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072718.png)\n\n易路软件，企业人力资源的 SaaS 服务，提供复杂薪酬计算的解决方案，刚拿到 C 轮投资。工作地点：上海闵行区。\n\n本岗位参与公司前端产品研发和维护，包括不限于 PC 端、H5、小程序、Node 服务。要求3年以上的前端开发经验，熟悉 MVVM、组件化思想，精通 VUE / React 的一种。查看[详细信息](https://github.com/ruanyf/weekly/issues/692#issuecomment-515662351)。\n\n简历投递 Email：[luol@ersoft.io](mailto:luol@ersoft.io)\n\n2、**前端技术专家**，**Java 技术专家**\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072803.jpg)\n\n阿里钉钉（DingTalk），中国领先的智能移动办公平台。工作地点：北京、杭州。\n\n这里是钉钉文档中心的对外招聘，负责开发和维持钉钉的企业文档服务，点击查看[招聘详情](https://github.com/ruanyf/weekly/issues/692#issuecomment-515738808)。\n\n联系方法：钉钉号/微信号 pizner，Email [zhanxin.lin@alibaba-inc.com](mailto:zhanxin.lin@alibaba-inc.com)。\n\n3、**滴滴出行**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080104.png)\n\n本团队致力于以 IM 为中心，打造一套安全高效的企业智能沟通协作平台，赋能企业信息化与组织管理，提高公司员工的工作效率，支撑业务增长。\n\n招聘岗位：\n\n> - [iOS 资深研发工程师（Swift 方向）](https://www.zhipin.com/job_detail/7c080fd9d502ddde03N439y_GFs~.html?ka=search_list_9)\n> - [Android 资深研发工程师（Kotlin 方向）](https://www.zhipin.com/job_detail/eb011b65279e08e403N43t67GFM~.html?ka=search_list_5)\n> - [IM 前端资深工程师（Electron/React 方向）](https://www.zhipin.com/job_detail/260f0bc91ec2ac2503N43t69FFc~.html?ka=search_list_2)\n> - [IM 服务端专家工程师（Java/Rust 方向）](https://www.zhipin.com/job_detail/68f746e26cbec14403N439-9GVc~.html?ka=search_list_3)\n\n工作地点：北京 ／ 深圳\n\n简历投递: [linyuan@didichuxing.com](mailto:linyuan@didichuxing.com)\n"
+    },
+    {
+      "issueId": 68,
+      "issueTitle": "科技爱好者周刊：第 68 期",
+      "content": "\n以下公司正在招聘，欢迎应聘。\n\n本栏目为收费服务，每条价格 250 元人民币，用于资助周刊。如果你的公司正在招人，欢迎联系我（Email:  [yifeng.ruan@gmail.com](mailto:yifeng.ruan@gmail.com)）。\n\n[讨论区](https://github.com/ruanyf/weekly/issues/692)有更多职位，欢迎大家访问。\n\n1、**秘猿科技**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)\n\n区块链创业公司，为加密经济提供区块链基础设施和服务，主要产品有 Nervos、火币金融公链、CITA 等。工作地点：杭州 或者 remote。\n\n诚意招聘以下岗位：\n\n> - 高级区块链工程师：需要熟悉 Rust 语言。\n> - 高级后端工程师：熟悉分布式系统开发。\n> - 首席安全官：5年以上安全从业经验。\n> - 高级测试经理：从事区块链底层的自动化测试。\n\n详细招聘要求，欢迎点击[这里](https://github.com/ruanyf/weekly/issues/692#issuecomment-518962331)。\n\n简历投递：[zhouyun@cryptape.com](mail:zhouyun@cryptape.com) （一天内回复）\n"
+    },
+    {
+      "issueId": 69,
+      "issueTitle": "科技爱好者周刊：第 69 期",
+      "content": "\n周刊讨论区的[程序员招聘帖](https://github.com/ruanyf/weekly/issues/692)，有大量工作/实习岗位，欢迎查看。\n\n同时，欢迎企业免费张贴招聘信息。如果希望发在周刊上，可以联系我（Email:  yifeng.ruan@gmail.com ），每条价格 250 元。\n\n1、**秘猿科技**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)\n\n区块链创业公司，为加密经济提供区块链基础设施和服务，主要产品有 Nervos、火币金融公链、CITA 等，全部开源。\n\n工作地点：杭州 或者 remote。诚意招聘以下岗位：\n\n> - 高级区块链工程师：需要熟悉 Rust 语言。\n> - 高级后端工程师：熟悉分布式系统开发。\n> - 首席安全官：5年以上安全从业经验。\n> - 高级测试经理：从事区块链底层的自动化测试。\n\n\n点击[这里](https://github.com/ruanyf/weekly/issues/692#issuecomment-518962331)，查看详情。简历投递：[zhouyun@cryptape.com](mail:zhouyun@cryptape.com) （一天内回复）\n"
+    },
+    {
+      "issueId": 70,
+      "issueTitle": "科技爱好者周刊：第 70 期",
+      "content": "\n周刊讨论区的[程序员招聘帖](https://github.com/ruanyf/weekly/issues/692)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 250 元。\n\n1、**厦门铃盛软件**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082002.png)\n\n职位：**前端软件工程师**，工作地点：**福建省厦门市**\n\nRingCentral（NYSE: RNG）是纽约交易所上市公司，总部在美国硅谷，是全球领先的企业云通信协作解决方案提供商。\n\n要求应聘者掌握 WEB 前端开发技术，具有良好的代码风格、设计意识和产品意识，详细要求请点击[这里](https://github.com/ruanyf/weekly/issues/692#issuecomment-522900887)查看。有意者请发送简历至邮箱：hiring.xiamen@ringcentral.com 。\n\n2、**秘猿科技**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。以下职位的工作地点为杭州，也可以 remote。\n\n> - 高级区块链工程师：需要熟悉 Rust 语言。\n> - 高级后端工程师：熟悉分布式系统开发。\n> - 首席安全官：5年以上安全从业经验。\n> - 高级测试经理：从事区块链底层的自动化测试。\n\n点击[这里](https://github.com/ruanyf/weekly/issues/692#issuecomment-518962331)，查看详情。简历投递：[zhouyun@cryptape.com](mail:zhouyun@cryptape.com) \n"
+    },
+    {
+      "issueId": 71,
+      "issueTitle": "科技爱好者周刊（第 71 期）",
+      "content": "\n周刊讨论区的[程序员招聘帖](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 250 元。\n\n1、**秘猿科技**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。以下职位的工作地点为杭州，也可以 remote。\n\n> - 高级区块链工程师：需要熟悉 Rust 语言。\n> - 高级后端工程师：熟悉分布式系统开发。\n> - 首席安全官：5年以上安全从业经验。\n> - 高级测试经理：从事区块链底层的自动化测试。\n\n点击[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)，查看详情。简历投递：[zhouyun@cryptape.com](mail:zhouyun@cryptape.com) \n"
+    },
+    {
+      "issueId": 72,
+      "issueTitle": "科技爱好者周刊：第 72 期",
+      "content": "\n周刊讨论区的[程序员招聘帖](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 250 元。\n\n1、**秘猿科技**\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080701.png)\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。以下职位的工作地点为杭州，也可以 remote。\n\n> - 高级区块链工程师：需要熟悉 Rust 语言。\n> - 高级后端工程师：熟悉分布式系统开发。\n> - 首席安全官：5年以上安全从业经验。\n> - 高级测试经理：从事区块链底层的自动化测试。\n\n点击[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)，查看详情。简历投递：[zhouyun@cryptape.com](mail:zhouyun@cryptape.com) \n"
+    },
+    {
+      "issueId": 73,
+      "issueTitle": "科技爱好者周刊：第 73 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**全栈高级工程师/技术主管**\n\n杭州初创公司正在组建初创团队，开发面向年轻人的社交类产品。工作地点：杭州滨江区。\n\n应聘者主导公司产品研发迭代，有独立开发前后端的能力。必备技术栈关键字: Vue/React， Node， NoSQL， DevOps， 微信开发。详细要求见[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-529282584)。简历投递 haodong@hanhan.tech\n\n2、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。点击[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)，查看详情。简历投递：[zhouyun@cryptape.com](mail:zhouyun@cryptape.com) \n"
+    },
+    {
+      "issueId": 74,
+      "issueTitle": "科技爱好者周刊：第 74 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**熵简科技**  \n \n国内领先的数据中台服务商，帮助企业打造一站式数据智能服务平台，已完成B轮融资，客户包括嘉实基金、睿远基金、淡水泉投资、波士顿咨询等顶级金融资管及咨询机构。工作地点北京。  \n  \n以下岗位开放招聘：高级产品经理、NLP算法工程师、后端工程师、前端工程师、运维工程师、测试工程师。详细要求看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-532968882)。\n\n2、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。详细要求看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)。\n"
+    },
+    {
+      "issueId": 75,
+      "issueTitle": "科技爱好者周刊：第 75 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**高级前端工程师**  \n \n[易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。\n  \n招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-533874713)。\n\n2、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。详细要求看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)。\n"
+    },
+    {
+      "issueId": 76,
+      "issueTitle": "科技爱好者周刊：第 76 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。详细要求看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)。\n"
+    },
+    {
+      "issueId": 77,
+      "issueTitle": "科技爱好者周刊：第 77 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**高级前端工程师**\n\n负责字节跳动的付费中台与作者收入相关产品，欢迎应届生/实习生应聘。工作地点：北京-海淀。\n\n从事 Web/Hybrid/Wap/小程序/Flutter 的前端开发工作，要求熟练使用至少一种主流前端开发框架，熟悉服务端 (Go/Node.js)/Flutter/TypeScript 开发者优先。具体要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-540562541)。\n\n2、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)。\n"
+    },
+    {
+      "issueId": 78,
+      "issueTitle": "科技爱好者周刊：第 78 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**高级前端工程师**\n\n[易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。\n\n招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-533874713)。\n\n2、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)。\n"
+    },
+    {
+      "issueId": 80,
+      "issueTitle": "科技爱好者周刊：第 80 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**高级前端工程师**  \n  \n[易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。\n \n招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-533874713)。\n\n2、**秘猿科技**\n\n秘猿科技是区块链创业公司，为加密经济提供区块链基础设施和服务。工作地点：杭州或 remote。\n\n本公司招聘区块链工程师、高级后端工程师、安全和测试工程师。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-524289916)。\n"
+    },
+    {
+      "issueId": 82,
+      "issueTitle": "科技爱好者周刊：第 82 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、 **长亭科技**\n\n[长亭科技](https://www.chaitin.cn/zh/intro)是全球顶尖的网络信息安全公司，专注为企业级用户提供专业的网络信息安全解决方案。办公地点：北京市海淀区768创意园区。诚意招聘以下岗位：\n\n1. 前端工程师：负责公司 Web 产品的研发和维护。\n1. 后端工程师：熟悉 Python 或 Go 语言，负责后端架构的设计和实现。\n\n详细要求和联系方式，请看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-551028562)。\n\n2、**薄荷健康**  \n\n薄荷健康是一家健康领域 App 开发公司，主要产品为“薄荷健康”和“食物库”，总用户已达数千万级别。工作地点为上海浦东世纪大道地铁站附近。诚意招聘以下岗位：\n\n1. 前端 Web 工程师（1名）：有Web和小程序经验，熟悉React/Vue。\n1. 后端工程师（2名）：熟悉Go/Ruby/Python，进行 App 系统后端开发。\n\n详细要求和联系方式请看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-552381969)。\n\n3、**易路软件**  \n  \n[易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。\n \n招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-533874713)。\n"
+    },
+    {
+      "issueId": 85,
+      "issueTitle": "科技爱好者周刊：第 85 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/983)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、 **易路软件**  \n  \n[易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。\n \n招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/983#issuecomment-561113380)。\n"
+    },
+    {
+      "issueId": 87,
+      "issueTitle": "科技爱好者周刊：第 87 期",
+      "content": "\n周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/983)，有大量工作/实习岗位，欢迎查看。\n\n如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。\n\n1、**黑帕云**\n\n[黑帕云](https://hipacloud.com)是位于武汉光谷的创业公司，主要构建新型无代码企业应用搭建平台，帮助企业业务人员将业务快速数字化。可以通过公众号米高说(migaoshuo) 了解更多情况。\n\n招聘岗位：前端架构师、资深 SaaS 产品经理。欢迎加入创始团队，联系方式为 mechiland@gmail.com\n\n2、 **易路软件**  \n  \n[易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。\n \n招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求和联系方式看[这里](https://github.com/ruanyf/weekly/issues/983#issuecomment-561113380)。\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "［本周软件］302.AI",
+  "slug": "302ai",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 325,
+      "issueTitle": "科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？",
+      "content": "\n面对层出不穷的 AI 模型，你会不会有一种想法，如果存在**一个统一的使用入口**该多好？\n\n事实上，真有这样的产品。周刊以前介绍过一个网站 [302.AI](https://302.ai)，就是这种思路。\n\n![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111201.webp)\n\n它的定位是“AI 应用超市”，**可以看作是一个适配层，适配了各种各样的 AI 模型**，让你都能通过它来使用。\n\n你可以直接使用各种模型，也可以使用“[工具超市](https://302.ai/tools/)”预置的30多种 AI 应用，比如下图的“[AI 学术论文搜索](https://302.ai/tools/academic/)”。\n\n![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111301.webp)\n\n它还提供 API 调用，通过它的服务器，调用各种模型的 API。\n\n<u>它有试用额度，此后按照使用量收费</u>，一般是底层模型原始价格的五折。\n\n最后，**它本周开源了，各种官网工具的源码都放出来了**，仓库地址 [github.com/302ai](https://github.com/302ai)。他们用 Next.js，你可以用来开发自己的 AI 应用。\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Google Gemini",
+  "slug": "g-o-o-g-l-e-g-e-m-i-n-i",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 283,
+      "issueTitle": "科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走",
+      "content": "\n12月4日，谷歌公开了 AI 模型 [Gemini](https://deepmind.google/technologies/gemini/)，跟 GPT-4 相抗衡，外部开发者可以自由使用。\n\n1、[Gemini Pro 免费使用站点](https://googlegemini.co/)（[@lchh5](https://github.com/ruanyf/weekly/issues/3765) 投稿）\n\n![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122108.webp)\n\n2、[GeminiProChat](https://github.com/babaohuang/GeminiProChat)\n\n![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121717.webp)\n\n这是网友写的一个极简 UI，调用 Gemini 的 API。你可以试用作者部署的 [Demo](https://www.geminiprochat.com/)，也可以本地运行。（[@babaohuang](https://github.com/ruanyf/weekly/issues/3749) 投稿）\n\n3、[Google Gemini 的图像能力测试](https://blog.roboflow.com/first-impressions-with-google-gemini/)（英文）\n\n一个外国程序员分别对 Gemini 和 GPT-4V 进行了四项测试（图片问答、文字识别、文档识别、物体检测），然后写了这篇文章。\n\n![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121402.webp)\n\n大家可以看看测试结果，到底孰强孰弱。我们还可以学习他的测试方法，用于评估其他模型。\n"
+    }
+  ]
+}

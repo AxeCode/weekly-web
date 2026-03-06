@@ -1,0 +1,12 @@
+{
+  "name": "Apifox 介绍",
+  "slug": "apifox-",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 188,
+      "issueTitle": "科技爱好者周刊（第 188 期）：音乐是反社交",
+      "content": "\r\n本周向大家介绍一款优秀的国产软件 [Apifox](https://www.apifox.cn/)，它可以解决 API 开发的一大痛点。\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121301.webp)\r\n\r\n大家知道，现在大部分软件都是**服务架构**（客户端 + 后端服务）。程序员的日常工作，就是跟各种服务的 API 打交道，主要用到下面几个工具。\r\n\r\n> - Swagger（后改名 OpenAPI）：用于 API 设计。\r\n> - Postman：调试 API。\r\n> - Mock 工具：模拟 API 的返回数据，用于测试。\r\n> - JMeter：API 性能压测。\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110902.jpg)\r\n\r\n这些工具虽然都很强大，但有一个很大的痛点，就是数据不通用。每个工具都有自己的格式、界面和流程，互相切换的时候，非常痛苦。举例来说，你在 Swagger 设计好 API，到了 Postman 又得重新输入一遍，写单元测试还得再写一遍。效率低下，大型项目有成百上千个 API，根本无法统一管理。\r\n\r\nApifox 就是想解决这个问题，**把 API 相关的开发需求都做在一个工具里面。**\r\n\r\n> Apifox = Postman + Swagger + Mock + JMeter\r\n\r\n上面是它的宣传口号，四合一，非常雄心勃勃。目前看起来，它做得不错，确实能做到这个目标。\r\n\r\n它的用法很简单，[下载](https://www.apifox.cn/)桌面端应用（Windows/Mac/Linux 都支持），然后你可以导入 Swagger 格式的 API 定义，这一套定义可以用来生成文档、测试接口、Mock 数据等等，完全是通用的。当然，你也可以直接在里面设计 API，再导出给 Swagger 使用。\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121302.webp)\r\n\r\nApifox 的界面跟 Postman 基本一致，所有功能全部提供，并且保证兼容性，可以轻松上手。界面和[文档](https://www.apifox.cn/help/)都是中文，包含详细的教程，特别符合中国程序员的需要。\r\n\r\n![](https://cdn.beekka.com/blogimg/asset/202111/bg2021110904.webp)\r\n\r\n此外，它还有几个很赞的特色。\r\n\r\n（1）**自动生成 API 文档**，跟 Javadoc 的作用类似，可以对外发布。\r\n \r\n（2）不用写任何 Mock 规则，**自动模拟 API 返回的数据**，比如时间、地址、人名、金额等等。\r\n \r\n（3）不用写断言测试，**自动校验 API 返回的数据结构**，是否跟定义一致。\r\n \r\n![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121303.webp)\r\n \r\n（4）内置了一个脚本系统，可以用来自动登录，或者动态修改数据。此外，支持命令行调用，便于持续集成。\r\n \r\n（5）自动生成130多种语言或框架的 API 调用代码，省去为每个接口写 CRUD 代码的痛苦。\r\n\r\nApifox 是免费的，采用 SaaS 模式，只要在官网注册一个账号就可以使用，没有任何费用。如果你们公司想部署一个内网版本，它也可以私有化部署，但这需要向官方购买授权。\r\n\r\n欢迎大家试用 [Apifox](https://www.apifox.cn/help/app/getting-started/)，不管你是前端开发还是后端开发，只要项目是服务架构，它可能会大大提升你的开发效率。\r\n\r"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "活动",
+  "slug": "huo-dong",
+  "count": 22,
+  "items": [
+    {
+      "issueId": 201,
+      "issueTitle": "科技爱好者周刊（第 201 期）：中国需要成立半导体部",
+      "content": "\n1、[稀土掘金 2022 编程挑战赛](https://hackathon2022.juejin.cn/#/index?utm_source=ruanyf)\n\n![](https://cdn.beekka.com/blogimg/asset/202203/bg2022033126.webp)\n\n一个面向全国高校的编程比赛，稀土掘金主办，本周开始报名。一共三个赛道，只需选择其中一个，按要求完成作品，5月份提交即可。\n\n经过专家评选，优胜作品会获得证书，以及总金额超过10万元的现金奖励和字节跳动实习 offer。\n"
+    },
+    {
+      "issueId": 202,
+      "issueTitle": "科技爱好者周刊（第 202 期）：三个有启发的学习方法",
+      "content": "\n1、[冰雪盛会的技术保障](https://live.juejin.cn/4354/bingxueshenghui?source=3)\n\n![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040206.webp)\n\n2022年北京的冰雪盛会已经过去，这次不仅是体育盛会，也是高科技盛会，涉及人工智能、8K + 360 直播、网络安全、协同办公等各方面应用。\n\n明天下午（4月9日星期六）的稀土掘金技术沙龙，邀请参与盛会的大厂技术专家，直播聊聊大会的技术实现。现在就可以报名预约，主办单位和嘉宾提供了很多纪念品，参与直播即可抽奖。\n"
+    },
+    {
+      "issueId": 203,
+      "issueTitle": "科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育",
+      "content": "\n1、[抖音背后的音视频技术](https://www.bagevent.com/event/8134656?bag_track=1)\n\n![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041211.webp)\n\n抖音作为短视频王者，如何处理音视频？面对超大规模并发，如何满足清晰、流畅、实时的核心要求，让用户即便在弱网环境、低端设备上，也能有满意的观看效果？\n\n下周六（4月23日）抖音工程师跟大家见面，讲讲抖音的技术实现。这是字节跳动官方主办，面向社区同学的技术沙龙。机会难得，现在已经可以报名。还有抽奖环节，赠送字节纪念品。\n"
+    },
+    {
+      "issueId": 207,
+      "issueTitle": "科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了",
+      "content": "\n1、[字节跳动的网安防御体系](https://www.bagevent.com/event/8174601?bag_track=002)\n\n![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051905.webp)\n\n互联网大厂每天都在遭受，各种稀奇古怪的网络攻击。下周六（5月28日）下午，字节跳动的官方沙龙特别邀请安全工程师，跟大家网上交流，字节怎么做网络防御。\n\n本期主要有两个主题：（1）如何确保容器镜像的安全，防止漏洞和恶意镜像；（2）如何防止供应链攻击，确保外部依赖的安全。点击链接或扫描二维码报名，现场还有字节纪念品抽奖。\n"
+    },
+    {
+      "issueId": 208,
+      "issueTitle": "科技爱好者周刊（第 208 期）：晋升制度的问题",
+      "content": "\n1、[掘金会员](https://juejin.cn/vip-presale?utm_source=ruanyifeng&utm_medium=OM&utm_campaign=vip_presale_2022)\n\n![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052502.jpg)\n\n字节旗下的稀土掘金社区推出了“掘金会员”，只要加入会员，就可以解锁网站上面90%的课程和小册，尤其是最新的前端开发内容。\n\n现在有“1元抵100”的优惠，只要1元就可以抵扣100元的会员费，介绍给有学习需求的朋友。\n"
+    },
+    {
+      "issueId": 209,
+      "issueTitle": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
+      "content": "\n1、[稀土开发者大会](https://conf.juejin.cn/xdc2022/?utm_source=ruanyfblogjiangshi)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060913.webp)\n\n第二届稀土开发者大会的官网上线了，现在接受报名。组委会这次投入了大量资源，请了国内外大厂的很多技术主管，\n专门策划了低代码、大前端、云原生、分布式数据库、微服务与 Serverless、音视频技术、业务架构、AI 等热点技术的专题。\n\n7月下旬举办时，会有14个专场，100多场演讲。现在免费报名，到时可以线上参会，观看演讲直播。\n"
+    },
+    {
+      "issueId": 211,
+      "issueTitle": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
+      "content": "\n1、[稀土开发者大会](https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062323.webp)\n\n掘金社区筹办的稀土开发者大会，开始报名了。这次邀请到了尤雨溪，来做主论坛演讲。\n\n大会的技术专题里面，有四个跟前端开发息息相关：①大前端工程架构与性能优化、②低代码探索和实践、③大前端技术探索、④现代Web开发。报名和听演讲都是免费开放的，欢迎大家报名参会。\n"
+    },
+    {
+      "issueId": 212,
+      "issueTitle": "科技爱好者周刊（第 212 期）：人生不短",
+      "content": "\n1、[《云原生数据库》专场](https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062911.webp)\n\n“数据库上云”是当前的技术热点，新的云原生数据库层出不穷，得到风投的追捧。那么，数据库怎样才能跟云基础设施相结合，又怎样做到最佳的性能、弹性和扩展能力呢？\n\n本月下旬（7月22日）举办的2022稀土开发者大会上，有一个 **《新一代云原生数据库》** 技术专场（[演讲安排](https://conf.juejin.cn/xdc2022/speaker?id=7&utm_source=ruanyfblogjiangshi)），字节、英特尔、美团、谷歌的 DBA 工程师分享各自公司的云数据库技术实践，以及对这门技术的认知和思考。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062909.webp)\n\n大会现在[免费报名](https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi)中，除了云数据库，其他技术专题（大前端、低代码、serverless、微服务等）都可以参与。感兴趣的同学不要错过，除了听讲座，还能在直播中跟嘉宾交流，并有机会抽奖，赢取丰厚奖品。\n"
+    },
+    {
+      "issueId": 213,
+      "issueTitle": "科技爱好者周刊（第 213 期）：知识孤岛，知识软件",
+      "content": "\n1、[尤雨溪演讲《前端趋势2022》](https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi)\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070609.webp)\n\n前端框架 Vue.js 和构建工具 Vite 的作者尤雨溪，将在7月22日的“第二届稀土开发者大会”做一场演讲《前端趋势2022》，谈谈他对当下的前端开发的看法，内容包括（1）框架的范式、（2）工具链的发展、（3）JS 全栈的趋势等。\n\n扫描下方海报二维码，就可以免费报名，参与演讲直播，以及大会的其他活动。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070610.webp)\n\n报名成功后，别忘了还有抽奖，赢取 AirPods Pro、华为手表等大奖。\n"
+    },
+    {
+      "issueId": 214,
+      "issueTitle": "科技爱好者周刊（第 214 期）：你的地图是错的",
+      "content": "\n1、[云原生数据库的设计与实践](https://conf.juejin.cn/xdc2022/wap/?utm_source=ruanyfblogjiangshi)\n\n数据库作为互联网核心软件，正在与云基础设施进一步整合，从“数据库上云”（On Cloud）转变成“云原生数据库”（In Cloud）。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071306.webp)\n\n7月22日举办的2022稀土开发者大会上，有一个专题活动[《新一代云原生数据库》](https://conf.juejin.cn/xdc2022/speaker?id=8&utm_source=ruanyfblogjiangshi)，由字节跳动数据库技术负责人张雷作为出品人，邀请字节、英特尔、美团、谷歌云的数据库专家，带来各自的云原生数据库使用经验分享。\n\n扫描下方海报二维码，就可以免费报名，参与演讲直播和现场交流，以及大会的其他活动。报名参会的开发者还有机会抽奖，赢取丰厚大奖。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070610.webp)\n"
+    },
+    {
+      "issueId": 215,
+      "issueTitle": "科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式",
+      "content": "\n1、[第二届稀土开发者大会](https://juejin.cn/live/xdc202201)\n\n本次大会今天开幕，今明两天（7月22日和23日）全程线上直播，免费观看，标题就是直播间网址。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070610.webp)\n\n大会由稀土掘金技术社区主办，包含了18个技术专场（大前端、云原生、微服务、低代码、数据库、人工智能等），均由国内外大厂的技术专家出品。\n\n今天上午的主论坛，还会有 Vue 创始人尤雨溪的演讲，感兴趣的朋友不要错过。\n\n![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072013.webp)\n"
+    },
+    {
+      "issueId": 219,
+      "issueTitle": "科技爱好者周刊（第 219 期）：如何防止帐号被黑",
+      "content": "\n1、[掘金会员](https://juejin.cn/vip?utm_source=ruanyifeng0819&utm_medium=gzh&utm_campaign=202207vip)\n\n[稀土掘金社区](https://juejin.cn/)一直是国内非常受欢迎的技术社区，背后有字节的支持，网站上有大量学习资源，尤其是前端内容。\n\n最近，他们整合了资源，推出了“掘金会员”，加入就能解锁90%的课程和小册，享受简历优化和面试指导，还有专属的会员群和客服。\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081811.webp)\n\n现在有优惠活动，**限时五折**就能[加入](https://juejin.cn/vip?utm_source=ruanyifeng0819&utm_medium=gzh&utm_campaign=202207vip)，爱学习的同学可以考虑，充分使用掘金社区，提升自己的竞争力。已经参加预购的同学，别忘了补款。\n"
+    },
+    {
+      "issueId": 220,
+      "issueTitle": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
+      "content": "\n1、[微服务框架 CloudWeGo 技术沙龙](https://www.bagevent.com/event/8261894?bag_track=001)\n\n上周向大家介绍过字节的微服务框架 [CloudWeGo](https://www.cloudwego.io/zh/)，支持了字节内部[10万+的微服务和1000万的容器实例](https://segmentfault.com/a/1190000042226107)，已经完全开源给外部使用，内外是同一套代码。\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081608.webp)\n\nCloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙，**直播分享字节系应用的后台架构**（比如[飞书的架构](https://segmentfault.com/a/1190000042187351)），以及如何快速搭建企业级微服务应用。没报名的同学可以抓紧时间[报名](https://www.bagevent.com/event/8261894?bag_track=001)，还有机会赢取会务组准备的大量礼品。\n\n另外，这个框架是用 Go 写的，CloudWeGo 团队不满足于此，还想要更好的性能，所以尝试开发了**国内首个 Rust 语言的 RPC 框架**，也会在现场发布，欢迎关注。 \n"
+    },
+    {
+      "issueId": 224,
+      "issueTitle": "科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch",
+      "content": "\n1、[ClickHouse 的企业应用实践：ByteHouse](https://www.bagevent.com/event/8303002?bag_track=001)\n\nClickHouse 是一种基于列（而不是行）的数据库，由俄罗斯的 Yandex 公司开源，目前是大数据处理和数据仓库的首选工具。\n\n![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092203.webp)\n\n下个月有一个活动，字节跳动工程师分享：为什么他们选择 ClickHouse 作为核心数据分析技术，如何部署和应用了18000多个节点；如何对其进行增强和重构，推出了更适合国内用户的产品 ByteHouse，企业用户如何从中获益。\n\n具体时间是10月15日下午2点，感兴趣的同学可以点击标题链接，或扫描二维码报名，参加线上直播。\n"
+    },
+    {
+      "issueId": 225,
+      "issueTitle": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
+      "content": "\n1、[ClickHouse 的企业应用实践：ByteHouse](https://www.bagevent.com/event/8303002?bag_track=001)\n\n海量数据分析（比如日志处理）使用什么工具？目前首选的数据引擎一般是 ClickHouse，可以直接运行 SQL 查询。\n\n字节跳动是国内 ClickHouse 的最大用户之一，内部节点超过18000个，数据量超过 700 PB，甚至还有自己的商业化产品 [ByteHouse](https://bytehouse.cn/)。\n\n![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092203.webp)\n\n国庆长假后的第一个周六（10月15日）下午，<u>字节跳动有一个技术沙龙，跟社区分享他们工程师的使用经验</u>：为什么选择 ClickHouse 进行数据分析？如何部署和管理这么多节点？如何对其进行增强和重构，更适合国内用户的需要，满足企业使用场景？\n\n感兴趣的同学点击标题链接，或扫描二维码了解详情，报名参加线上直播，现场还会赠送字节纪念品。\n"
+    },
+    {
+      "issueId": 232,
+      "issueTitle": "科技爱好者周刊（第 232 期）：好用的平面设计软件",
+      "content": "\n1、[抖音 Android 基础技术大揭秘](https://www.bagevent.com/event/8337204?bag_track=001)\n\n几周前，周刊发布消息，抖音的 iOS 团队要办技术分享会。当时就有同学问，什么时候有安卓技术分享？\n\n现在，抖音的安卓团队就要跟大家见面了。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112305.webp)\n\n活动时间是12月10日（星期六）下午2点，抖音安卓工程师与观众现场交流。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112304.webp)\n\n本次活动由字节跳动技术沙龙主办，现在就可以点击[这个链接](https://www.bagevent.com/event/8337204?bag_track=001)，或扫描海报二维码，了解活动详情并报名。主办方为所有参会者准备了精美的礼品抽奖，不要错过。\n"
+    },
+    {
+      "issueId": 233,
+      "issueTitle": "科技爱好者周刊（第 233 期）：生活就像一个鱼缸",
+      "content": "\n1、[抖音 Android 基础技术大揭秘](https://www.bagevent.com/event/8337204?bag_track=001)\n\n抖音是国内下载量最大的安卓 App 之一，飞速增长的用户带来很多技术挑战。\n\n上周已经预告了，下周六（12月10日）下午两点，**抖音的安卓团队将举办一次技术分享会，安排了五场讲座的直播。**\n\n> 1. 抖音的<u>安卓 App 架构</u>介绍\n> 1. 抖音<u>稳定性</u>的优化方案\n> 1. 如何加快抖音的<u>启动速度</u>\n> 1. 抖音安卓<u>打包体积</u>的优化\n> 1. 抖音安卓的<u>机器学习</u>实践\n\n前面四个都是基础技术分享，最后一个跟眼下很热门的人工智能有关，介绍抖音如何使用机器学习和 AI 提升用户体验，内容相当有趣。\n\n每个讲座都是**负责工程师主讲**，有很多内幕和干货。现场还有问答环节，大家可以直接跟他们交流。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112305.webp)\n\n在我印象中，抖音安卓团队集体亮相，跟社区做技术交流，这好像是迄今唯一的一次，机会难得。\n\n本次活动是字节跳动官方主办的技术沙龙。点击[标题链接](https://www.bagevent.com/event/8337204?bag_track=001)，或者扫描海报二维码，了解活动详情并报名，到时还有字节跳动的纪念品抽奖。\n\n对抖音和安卓开发有兴趣的同学，不要错过。\n"
+    },
+    {
+      "issueId": 237,
+      "issueTitle": "科技爱好者周刊（第 237 期）：真实方位是如何暴露的？",
+      "content": "\n1、[Flutter 的探索与实践](https://www.bagevent.com/event/8366150?bag_track=001)\n\n跨平台解决方案之中，Flutter 无疑是最受瞩目的。它把图形库打包进 App，真正做到所有平台体验一致。\n\n![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122803.webp)\n\n今年5月，谷歌正式发布 Flutter 3.0 版，可以一个代码库支持 iOS、Android、Web、Windows、macOS、Linux 六大平台，这是目前最强大的。\n\n这里有一个活动消息，想采用 Flutter 的同学可以关注。两周后的1月14日（星期六）下午2点，**字节跳动工程师分享 Flutter 开发实践。**\n\n![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122804.webp)\n\n字节跳动目前有超过70款 App 使用 Flutter 开发，内部开发者累计超过600位，向官方仓库提交合并了大量 PR。\n\n本次活动以 **《深度解析 Flutter 技术探索与实践》** 为主题，一共安排了4个演讲，分享他们的一些做法，以及对于 Flutter 开发的体会和认识。[点击链接](https://www.bagevent.com/event/8366150?bag_track=001)或扫描海报二维码，了解活动详情，并报名预约直播。活动主办者准备了精美的礼品福利抽奖，欢迎报名参加。\n"
+    },
+    {
+      "issueId": 248,
+      "issueTitle": "科技爱好者周刊（第 248 期）：不要夸大 ChatGPT",
+      "content": "\n周刊不定期发布技术活动消息，面向全国程序员，欢迎参与。\n\n**1、AIGC 技术探索与应用创新**\n\n“掘金城市沙龙·北京站”邀请了来自字节、英特尔、谷歌、清华大学等著名机构的 AI 工程师和专家，与大家线下交流 AIGC（人工智能生成内容）的一些学术性热点问题，包括工作原理、模型训练、后续变革等。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023033003.webp)\n\n时间是4月13日下午，地点是方恒时尚中心（北京大钟寺地铁站旁）。现场座位有限，扫描上方二维码，了解详情并报名参加。不能到场的同学，可以扫码预约线上直播。\n\n**2、[抖音 Android 基础技术大揭秘](https://www.bagevent.com/event/8426971?bag_track=001)**\n\n字节技术沙龙邀请了抖音 Android 团队的5位架构师，与社区交流抖音 Android 客户端的一些开发实践，分享内容如下。\n\n> 1. 抖音 Android 包大小代码优化实践\n> 1. 抖音启动性能监控平台建设实践\n> 1. 抖音流畅度优化探索和实践\n> 1. 静态代码分析在体验优化中的探索实践\n> 1. 抖音性能防劣化平台极致演绎之路\n\n时间是4月15日下午，扫描下方二维码或者[点击链接](https://www.bagevent.com/event/8426971?bag_track=001)，了解详情并且免费报名预约直播。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023033001.webp)\n\n以上两个活动，除了技术分享，还为参与者安排了精美的礼品抽奖环节，大家不要错过。\n"
+    },
+    {
+      "issueId": 249,
+      "issueTitle": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
+      "content": "\n周刊不定期发布技术活动消息，面向全国程序员，欢迎大家参与。\n\n**1、[抖音 Android 团队技术分享](https://www.bagevent.com/event/8426971?bag_track=001)**\n\n抖音是国内下载量最大的安卓 App 之一，大家想知道，它是怎么开发的吗？\n\n上周说了，这次有一个难得的机会，抖音的安卓团队正在举办公开的技术分享会，跟社区交流。\n\n活动一共有六期，去年12月是第一期，反应非常热烈。接下来的4月15日（星期六）是第三期，内容如下。\n\n![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040611.webp)\n\n对安卓和抖音感兴趣的同学，扫描上方二维码或者[点击链接](https://www.bagevent.com/event/8426971?bag_track=001)，了解活动详情，免费报名预约直播，到时还有精美的纪念品抽奖。\n"
+    },
+    {
+      "issueId": 300,
+      "issueTitle": "科技爱好者周刊（第 300 期）：三十年，解决人生三大问题",
+      "content": "\n**1、WebGPU 线下沙龙**\n\n前端程序员怎么转向 AI？\n\n除了构建 AI 的前端界面，还有一个更有前途、更适合前端的方向，那就是浏览器直接运行 AI 模型。\n\n**网页跑 AI，需要调用显卡的计算能力，就会用到 WebGPU**。它是去年发布的最新标准，允许网页代码访问 GPU 功能，Chrome 浏览器已经支持。\n\n<u>下周五（5月24日）晚上有一个难得的机会，小红书官方会主办一场 REDtech 技术沙龙，主题就是 WebGPU</u>。\n\n![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051604.webp)\n\n活动嘉宾是 W3C 资深媒体技术专家、**Web GPU 工作组负责人 François Daoust**，以及小红书前端架构团队，活动内容如下。\n\n> 1. 浏览器如何调用显卡功能，运行 AI 和网页渲染？\n> 1. WebGPU 的音视频处理技术有哪些最新进展？\n> 1. 小红书如何应用 WebGPU 构建动画，支持业务的快速迭代？\n\n大家点击[这个链接](https://hdxu.cn/LQaZE)，或者扫描上方海报的二维码，了解活动详情和**免费报名**。线下座位有100个，邀请码填写“WebGPU”，如果报名的人多，这样更容易通过，不在上海的同学可以预约线上直播。\n\n到时，除了了解 WebGPU 在 AI 和影音方面的应用，还能跟嘉宾互动，并有机会获得小红书的周边纪念品！\n\n**2、稀土开发者大会**\n\n上周，周刊介绍了今年的“稀土开发者大会”，6月底将在北京举行。\n\n它面向全国开发者，让大家聚在一起，交流分享彼此的开发经验，以及热点技术的进展。\n\n现在，**“架构设计和业务稳定性建设”分论坛**的议题内容和演讲者名单，已经出来了（见下图）。\n\n![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051605.webp)\n\n<u>如果你参与应用的架构设计，需要后端能够快速缩放，又要保证业务稳定性，同时还要时刻监控关键指标，那么这个分论坛一定很合适你。</u>\n\n大家看它的演讲阵容就知道了，全是国内头部应用的真实案例和实务操作，挺精彩的。\n\n详细的分论坛信息和大会安排，点击[官网链接](https://conf.juejin.cn/xdc2024/?utm_source=ryf)，或者扫描上面海报的二维码，购票也是这个链接。\n\n最后提醒一下，**今天是限量早鸟票的最后一天！** 下周，早鸟票就没了，票价就涨了，想要现场参加大会的同学不要错过了。\n"
+    },
+    {
+      "issueId": 324,
+      "issueTitle": "科技爱好者周刊（第 324 期）：人类已知的最大质数",
+      "content": "\n本周有两个很不错的活动，大家看看。\n"
+    }
+  ]
+}

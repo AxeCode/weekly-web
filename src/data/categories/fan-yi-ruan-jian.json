@@ -1,0 +1,12 @@
+{
+  "name": "翻译软件",
+  "slug": "fan-yi-ruan-jian",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 279,
+      "issueTitle": "科技爱好者周刊（第 279 期）：网络社区的悲剧",
+      "content": "\n本期介绍几个翻译软件。\n\n1、[Easydict](https://github.com/tisfeng/Easydict)\n\n![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112210.webp)\n\n一个 macOS 平台的桌面应用，能够查找单词和翻译文本，并支持划词翻译和 OCR 截图翻译，可以配置后台词典和翻译服务，代码开源。（[@tisfeng](https://github.com/ruanyf/weekly/issues/3648) 投稿）\n\n2、[简约翻译](https://github.com/fishjar/kiss-translator)（KISS Translator）\n\n![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112208.webp)\n\n一个浏览器扩展 + 油猴脚本，可以实现网页的双语对照翻译。（[@fishjar](https://github.com/ruanyf/weekly/issues/3651) 投稿）\n\n3、[Pot (Translator of Pylogmon)](https://github.com/pot-app/pot-desktop)\n\n![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060201.webp)\n\n一个开源的跨平台桌面软件，用于划词翻译，可以配置多个翻译引擎。\n\n4、[百词斩网页助手](https://github.com/marmot-z/baicizhan-helper)\n\n![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112301.webp)\n\n一个浏览器扩展，支持取词翻译、收藏单词等操作，可以与背单词 App“百词斩”配合使用，建立自己的单词本。（[@marmot-z](https://github.com/ruanyf/weekly/issues/3655) 投稿）\n"
+    }
+  ]
+}

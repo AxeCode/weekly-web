@@ -1,0 +1,12 @@
+{
+  "name": "扑克牌扫码器",
+  "slug": "pu-ke-pai-sao-ma-qi",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 222,
+      "issueTitle": "科技爱好者周刊（第 222 期）：四十年编程感想",
+      "content": "\n最近，有人将条形码与扑克牌结合在一起。\n\n他在每张牌的牌边印上了条形码，旁人根本意识不到，但是使用扫码器可以分辨是什么牌。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063018.webp)\n\n为了进一步增加隐蔽性，他还用特殊墨水，将条形码隐藏起来，人眼看不见，只有在红外线下才会显示。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063019.webp)\n\n他买了一台带有摄像头的树莓派，在摄影头上装了红外滤光片，将其改装为条码扫描器。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063020.webp)\n\n最后，他写了一个 iOS 客户端，将树莓派的扫描结果显示出来，每张牌是什么。下面就是实际的效果。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063021.webp)\n\n墨水也可以改成紫外线荧光墨水，在紫外线下会发光，这会比红外线更容易识别。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063022.webp)\n\n这个项目的完整代码，公布在 [GitHub](https://github.com/nettlep/magic)。\n"
+    }
+  ]
+}

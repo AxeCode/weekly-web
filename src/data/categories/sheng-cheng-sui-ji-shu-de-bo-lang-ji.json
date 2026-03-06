@@ -1,0 +1,12 @@
+{
+  "name": "生成随机数的波浪机",
+  "slug": "sheng-cheng-sui-ji-shu-de-bo-lang-ji",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 345,
+      "issueTitle": "科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了",
+      "content": "\n世界最大的 CDN 服务商 Cloudflare，在世界各地的办公室，各自部署了一个奇怪的技术装置。\n\n这些装置可以生成无法预测的随机数，用于通信加密。\n\n比如，旧金山总部的熔岩灯。\n\n![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031204.webp)\n\n每时每刻，每盏灯的颜色和图案，都在变化，计算机处理后就是不一样的随机数。\n\n伦敦办公室则是“单摆墙”，每一盏都在摆动。\n\n![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031205.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031206.webp)\n\n奥斯汀办公室是反光片天花板，任何气流都会让反光片转动。\n\n![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031207.webp)\n\n[周刊305期](https://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)详细介绍过这些装置。\n\n上个月，Cloudflare [里斯本办公室](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)开张了，又新增了一个装置。\n\n那是50个波浪机，组成了一面墙。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032005.webp)\n\n每个波浪机就是一个透明的长条容器，里面装着蓝色、绿色或者橙色的液体。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032006.webp)\n\n电力驱动波浪机的马达，容器每分钟翻转14次，每天超过20,000次。里面的液体随着容器翻转，形成波浪运动。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032007.webp)\n\n波浪机背后的反光板，会放大液体流动的光影效果，从而适合用来生成随机数。\n"
+    }
+  ]
+}

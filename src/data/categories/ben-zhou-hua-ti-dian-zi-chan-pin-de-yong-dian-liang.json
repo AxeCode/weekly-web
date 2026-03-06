@@ -1,0 +1,12 @@
+{
+  "name": "本周话题：电子产品的用电量",
+  "slug": "ben-zhou-hua-ti-dian-zi-chan-pin-de-yong-dian-liang",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 230,
+      "issueTitle": "科技爱好者周刊（第 230 期）：电子产品的用电量",
+      "content": "\n[上周](https://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)提到，手机充电器的功率已经超过 200W 了。\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102908.webp)\n\n这个功率相当大。大家可能不知道，你家冰箱大概都不如它。普通的家用冰箱，功率就在 100W～200W 之间。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110823.webp)\n\n（图片说明：200升家用冰箱，功率一般是 140W，每天耗电1度左右。）\n\n这是最近的一个趋势：**电子产品的功率和用电量快速上升，已经接近或超过了家用电器。** 我说两件事。\n\n第一件事。我最近买了一个智能插座，可以手机读取当前的功率输出。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110824.webp)\n\n我就把一台27寸 4K 显示器插在上面。它的月度用电统计（下图）显示，这台 30W 的显示器，上个月用掉了13.8度电。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110825.webp)\n\n我倒吸了一口冷气，没想到 4K 显示器这么耗电。我的桌上同时开着三台这样的显示器，那岂不是显示器这一项，每个月就要用掉40度电！\n\n第二件事。最近有一条[新闻](https://www.igorslab.de/en/adapter-of-the-gray-analyzed-nvidias-brand-hot-12vhpwr-adapter-with-built-in-breakpoint/)，Nvidia 公司的最新显卡 RTX 4090，接连有用户报告，供电接口烧掉了。\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102808.webp)\n\n如果你了解这张显卡的功率，这种事故是一点不奇怪的。它是耗电怪兽，功率达到 [600W](https://www.hardwaretimes.com/nvidia-rtx-4090-draws-over-600w-of-power-in-certain-benchmarks-can-be-overclocked-to-3ghz-or-more/)，但是机箱的供电电压是 12V，导致总电流会达到疯狂的 50A（600W/12V）。\n\n为了分散电流，它采用12口供电（下图）。即使如此，接口处稍有接触不良，就会严重发热，导致烧毁。\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102806.webp)\n\n这还只是显卡的功率，如果配上目前最顶级的桌面 CPU 英特尔 i9-13900K（[功率 360W](https://www.gamersky.com/hardware/202210/1528929_11.shtml)），再加上其他外设，整台桌面电脑就接近1000瓦了，跟空调功率差不多了。\n\n所以，使用顶级电脑玩大型电脑游戏，属于非常耗电的行为。街上那些游戏网吧，一天24小时开机，电费一定非常可观吧。\n\n总之，上面两件事说明了一点：**随着计算能力的提高，计算机正在成为一种非常耗电的设备。**\n\n现在最智能的那些 AI 模型，都是建立在海量计算的基础上，所谓的“智能”其实就是用耗电量换来的。有[研究](https://www.infoq.cn/article/kyspl1wjruoxqtufgodx)称，“训练一个 AI 模型的能耗，跟五辆汽车的整个生命周期的碳排放相同。”甚至有资料说，某些顶级的复杂模型，需要一个水电站供电。\n\n再考虑到机房和 5G 基站都是耗电大户，\n那么如果所有设备联网，每个设备都具备人工智能，用电量将是一个天文数字。\n\n我们大概可以这样说，**信息时代同样是一个电力饥渴的时代。** 一旦人类社会真的变得高度自动化和智能化，不知道还需要增加多少发电厂。\n"
+    }
+  ]
+}

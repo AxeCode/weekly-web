@@ -1,0 +1,12 @@
+{
+  "name": "照片管理软件",
+  "slug": "zhao-pian-guan-li-ruan-jian",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 316,
+      "issueTitle": "科技爱好者周刊（第 316 期）：你一生的故事",
+      "content": "\n如果你不想再用云服务（比如 iCloud Photos 或 Google Photos）管理照片和视频，而想自己架设照片管理服务，那么目前比较流行的是下面三款开源软件。\n\n它们都带有 Web 端，后面两款还有手机端。\n\n1、[PhotoPrism](https://github.com/photoprism/photoprism)\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071113.webp)\n\n2、[Immich](https://github.com/immich-app/immich)\n\n![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090704.webp)\n\n3、[Ente](https://github.com/ente-io/ente)\n\n![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041109.webp)\n"
+    }
+  ]
+}

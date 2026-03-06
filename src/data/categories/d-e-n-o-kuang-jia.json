@@ -1,0 +1,12 @@
+{
+  "name": "Deno 框架",
+  "slug": "d-e-n-o-kuang-jia",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 210,
+      "issueTitle": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
+      "content": "\nDeno 是 JavaScript 语言的服务器运行环境，跟 Node.js 是竞争关系。\n\nDeno 本身的开发已经接近稳定了，下一步只要有一个好用的框架，就能推广了。\n\n1、[Fresh 框架](https://fresh.deno.dev/)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061401.webp)\n\n上周，基于 Deno 的 Fresh 框架发布了预览。\n\n该框架直接使用 TypeScript 脚本，号称零配置、零构建，页面由服务端渲染，客户端不需要 JS 生成内容，也没有多余的 JS 脚本，追求小而快，值得关注。\n\n2、[Aleph.js](https://alephjs.org/)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061402.webp)\n\nAleph.js 是另一个基于 Deno 的全栈框架，类似于 Next.js，目前处于早期开发阶段，也可以关注。\n\n3、[Express](https://expressjs.com/)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061403.webp)\n\n顺便提一下，老牌的 Node.js 框架 Express，最近要发布5.0版了。这是一件大事，因为4.0版是八年前发布的。这篇文章介绍了[5.0版的新特性](https://fusebit.io/blog/new-express-5-features/)。\n"
+    }
+  ]
+}

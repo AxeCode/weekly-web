@@ -1,0 +1,12 @@
+{
+  "name": "微信小程序入门教程",
+  "slug": "wei-xin-xiao-cheng-xu-ru-men-jiao-cheng",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 131,
+      "issueTitle": "科技爱好者周刊（第 131 期）：你的头脑是二值逻辑，还是三值逻辑？",
+      "content": "\n本周，我发布了[《微信小程序入门教程》](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)，分成四次连载，帮助初学者学会写微信小程序。\n\n这是免费教程，不收任何费用，有兴趣的同学可以看看，相信比其他教程更简单清晰。\n"
+    }
+  ]
+}

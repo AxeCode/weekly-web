@@ -1,0 +1,12 @@
+{
+  "name": "指纹浏览器 AdsPower",
+  "slug": "-adspower",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 261,
+      "issueTitle": "科技爱好者周刊（第 261 期）：黑客马拉松的正确方式",
+      "content": "\n很多优秀的国产软件，由于市场和行业的原因，国内知名度不高，反倒在境外很出名。今天，就给大家介绍这样一款国产软件 AdsPower（[中文站](https://www.adspower.net/)，[英文站](https://www.adspower.com/)）。\n\n![](https://cdn.beekka.com/blogimg/asset/202306/bg2023063008.webp)\n\n它是一款指纹浏览器，或者准确地说，应该是 **“反指纹浏览器”，防止网站获取你的浏览器指纹**。\n\n所谓“浏览器指纹”，就是网站对用户生成独一无二的标志，用来追踪用户。它用到了很多高深的技术。\n\n> - 基本指纹指标：UserAgent、屏幕分辨率、CPU 核心数、内存、插件、语言等。\n> - 高级指纹：Canvas、WebGL、AudioContext、WebRT、字体等。\n> - 地理位置、时区、DNS、SSL 证书等。\n\n上面这些指标，你访问的网站都能拿到，从而很准确地识别一个人。\n\n解决方法就是变造这些指标，让指纹变成动态。这需要安装某些特定插件，或者启用浏览器的“沙盒模式”。这样很麻烦，也无法推广到普通用户。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070102.webp)\n\nAdsPower 想出一个更好的方法，就是做出一个独立浏览器，集成了所有反指纹措施，打开就能直接使用。下面就是它的主要功能。\n\n（1）**[变造浏览器指纹](https://www.adspower.net/blog/338)**，使得用户无法被追踪，保护隐私。\n\n（2）**定制浏览器环境**，可以随意切换环境。它有 Chrome 和 Firefox 两个内核，还可以切换内核。 \n\n（3）**[浏览器自动化](https://www.adspower.net/blog/339)**，自动模拟用户操作，便于完成重复性任务。\n\n（4）**[窗口同步](https://www.adspower.net/news/379)**，每个窗口都是不一样的浏览器环境，用户在主窗口操作，其他窗口可以跨屏同步这些操作。\n\n有了上面这些功能，AdsPower 的用途就变得非常广泛，**不仅是反指纹，还可以用来数据采集和自动化测试，对于电商尤其有用**，比如多店铺管理、社交媒体多账户管理、不同账号的跨境收款……\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070103.webp)\n\n为了服务企业用户，他们还提供[数据加密](https://www.adspower.net/blog/341)、[成员管理](https://www.adspower.net/blog/340)、[团队协作](https://www.adspower.net/blog/340)、全球加速等功能，在亚洲、欧洲和美洲都部署了服务器。\n\nAdsPower 的发展势头非常迅猛，全球已经有80万用户，海外的口碑非常好，在东亚、西亚、南亚、东南亚等多国都是热门软件，单单各种语言的版本就有12种。\n\n它的基本功能都是免费使用，支持创建2个浏览器环境，如果需要额外环境和企业级功能，则需要付费。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070104.webp)\n\n欢迎大家扫描上面二维码，或者访问 [AdsPower 官网](https://www.adspower.net/)和[文档中心](https://help.adspower.net/)，详细了解并下载试用。\n"
+    }
+  ]
+}

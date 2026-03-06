@@ -1,0 +1,12 @@
+{
+  "name": "正确的代码高亮",
+  "slug": "zheng-que-de-dai-ma-gao-liang",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 370,
+      "issueTitle": "科技爱好者周刊（第 370 期）：正确的代码高亮",
+      "content": "\n程序员一般都使用代码高亮，就是代码有不同的颜色（下图），方便阅读。\n\n![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102304.webp)\n\n问题就来了，**什么样的颜色组合，最适合阅读代码？**\n\n大多数的人大概跟我一样，就挑自己觉得好看的。比如下图五颜六色的，我觉得很悦目。\n\n![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101704.webp)\n\n不久前，我读到[一篇文章](https://tonsky.me/blog/syntax-highlighting/)，作者说：错了，好看的颜色未必适合阅读代码。\n\n正确的代码高亮，应该**让你一眼注意到最重要的代码信息**。太多的颜色，只会让人眼花缭乱，找不到重点。\n\n他提出代码高亮的五条原则。\n\n（1）**最多使用4种颜色**，再多的颜色会分散注意力。\n\n（2）**变量、函数和类的定义最重要**，一般来说，它们是代码的最关键部分，所以定义时的变量名、函数名、类名应该高亮显示。\n\n（3）**注释也很重要**，往往是关键信息，或者是作者希望别人阅读的信息，所以要高亮显示。很多配色方案将注释变灰，这是不对的。\n\n（4）**常量和函数嵌套（即括号）也是重要信息**，需要高亮显示。\n\n（5）**其他代码不必高亮**，包括变量读取、函数调用、关键字（class、function、if、else 等等），因为它们无所不在，你很少会去寻找它们。\n\n这五条原则，你认同吗？\n\n如果认同的话，你可以试试看作者设计的配色方案 [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster#variations-1)。\n\n下面就是这个方案的高亮效果。\n\n![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101706.webp)\n\n作为对比，再看看前面那个“好看”配色的高亮效果。\n\n![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101705.webp)\n\n你觉得，哪一种效果好，是否突出了代码的关键信息？\n"
+    }
+  ]
+}

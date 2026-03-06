@@ -1,0 +1,12 @@
+{
+  "name": "告别密码",
+  "slug": "gao-bie-mi-ma",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 262,
+      "issueTitle": "科技爱好者周刊（第 262 期）：告别密码",
+      "content": "\n上网体验最差的环节，肯定是密码。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071203.webp)\n\n互联网发展了20多年，所有环节都巨大改善，只有密码除外，还是20年前的用法。\n\n更准确的说，它的用户体验比20年前更差了。密码的强度要求现在越来越高，一般不能少于8个字符，还要包括特殊符号。另外，除了密码，通常还有其他验证（短信、图片识别、OTP 时间码等等）。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071204.webp)\n\n最让人无语的是，即使变得如此麻烦，依然不能杜绝密码被盗、被破解、被钓鱼的风险。\n\n多年来，业界一直努力，试图解决密码问题。近两年终于有了突破，各大公司达成一致，设计出了一套**密码的替代方案：密钥登陆，英文叫做 Passkey**。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071205.webp)\n\nPasskey 这个方案可以做到，登录不需要密码，解决了上面提到的所有问题，而且用户很容易上手，主要厂商已经全部支持。\n\n2022年 WWDC 大会，[苹果宣布](https://developer.apple.com/passkeys/)支持 Passkey。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070801.webp)\n\n2023年5月，[谷歌](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)和[微软](https://www.microsoft.com/en-us/security/blog/2023/05/04/how-microsoft-can-help-you-go-passwordless-this-world-password-day/)同时宣布，全面接入 Passkey。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071206.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070803.webp)\n\n今天，我就简单讲讲，Passkey 到底怎么回事。\n\n其实，手机 App 早就做到了“无密码登录”，按一下指纹，或者人脸识别，就可以登录，完全不需要密码。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071207.webp)\n\n于是，很早就有人想到了，可以设计一套通用机制，让网站也去调用手机上面的硬件识别，从而彻底告别密码。这就是 Passkey 的由来。\n\n具体来说，Passkey 之所以不要密码，因为采用了密钥登录。**网站不再保存用户密码，而是保存用户的公钥**。登录时，用户必须用自己的私钥，解开公钥加密的随机数，从而确认身份。\n\n这也意味着，用户要自己保存私钥。这是很麻烦的事情，因此 Passkey 协议的重点，就在于密钥的生成和保管彻底自动化了。\n\n**Passkey 要求用户必须配备一个“身份管理器”**（通常由操作系统提供），这个“身份管理器”负责生成密钥，然后公钥交给网站保存，私钥由它自己保存。\n\n等到用户登录网站，需要私钥证明自己身份时，网站就要向用户选定的“身份管理器”发出请求。这时，“身份管理器”就会调用操作系统的指纹识别或者人脸识别，要求用户完成验证。如果用户通过了，“身份管理器”就允许用户使用保存在里面的私钥。\n\n目前，iOS 和安卓已经支持 Passkey，自带“身份管理器”，有些笔记本（比如 MacBook）也支持。如果是台式机，没有任何识别设备，浏览器就会给出二维码或者蓝牙，让手机代为验证。\n\n“身份管理器”也可以做成独立的硬件（比如 Yubikey），这就需要花钱买了。\n\n![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071208.webp)\n\nPasskey 是一个很复杂的协议，上面我说的只是它的核心思路，也不知道说清楚了没有。但是，**对于用户来说，它是很简单的**，就是按一下指纹，或者扫一下人脸，就登录网站了。至于密码，忘了它吧。\n\n我预测，再过一两年，等到这个协议的封装库和框架出台，它就会迅速流行，大大减少密码的使用。\n\n大家现在可以去[Passkeys.io](https://passkeys.io)，亲身体验一下无密码登录，更详细的细节请参考后面的文章（[1](https://www.slashid.dev/blog/passkeys-security-implementation/)，[2](https://css-tricks.com/passkeys-what-the-heck-and-why/)，[3](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/)）。\n"
+    }
+  ]
+}

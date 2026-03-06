@@ -1,0 +1,12 @@
+{
+  "name": "最酷的乐高作品",
+  "slug": "zui-ku-de-le-gao-zuo-pin",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 256,
+      "issueTitle": "科技爱好者周刊（第 256 期）：最酷的乐高作品",
+      "content": "\n乐高，大家都知道吧，一家世界著名的玩具公司，主要生产塑料积木。\n\n你买来一包塑料零件，可以按照图纸组装，也可以搭成自己想要的形状。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052219.webp)\n\n前些天，国外网友用乐高，搭出一个你绝对想不到的东西：[齿轮减速器](https://brickexperimentchannel.wordpress.com/2023/04/29/lego-googol-machine/)。\n\n我觉得太酷了，今天分享给大家。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052210.webp)\n\n它的动力来自一个电动机，每分钟旋转375次。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052404.webp)\n\n然后，经过一系列齿轮减速，最终会带动一个塑料玩偶。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052211.webp)\n\n最酷的地方在于，它的减速效果达到了匪夷所思的 10^100 : 1 ！\n\n也就是说，电动机转动 10^100 圈，玩偶才会转动 1 圈。这个数字实在太大了，据说宇宙所有原子的总和也不过 10^80。这意味這，直到宇宙毁灭，这个玩偶可能还没有转动一格。\n\n这么神奇的“齿轮减速”，原理很简单，就是小齿轮带动大齿轮。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052212.webp)\n\n上图中，一个8齿的小齿轮带动一个24齿的大齿轮。由于后者比前者大3倍，所以转速会放慢3倍。\n\n接着，大齿轮上面再固定一个8齿的小齿轮，去带动一个更大的40齿的齿轮。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052213.webp)\n\n因此，第三个齿轮的转速，就比第二个齿轮慢了5倍（40 / 8），相当比第一个齿轮慢了15倍（3 x 5）。\n\n不断重复这种做法，转速就会越来越慢。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052214.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052215.webp)\n\n作者甚至还用到了168齿的超级齿轮。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052216.webp)\n\n以及其他一些减速齿轮的组合。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052217.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052218.webp)\n\n最终的减速比，就达到了惊人的 10^100 : 1。\n\n![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052220.webp)\n\n我从没想过，乐高积木能达到宇宙级别的数量级，真是神奇。\n"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "小程序容器 FinClip",
+  "slug": "xiao-cheng-xu-rong-qi-f-i-n-c-l-i-p",
+  "count": 2,
+  "items": [
+    {
+      "issueId": 230,
+      "issueTitle": "科技爱好者周刊（第 230 期）：电子产品的用电量",
+      "content": "\n手机 App 动辄就是几十兆、几百兆，对于开发者和用户，都属于“重资产”。\n\n​业界一直在寻找“轻应用”方案，比如多年前就有的 PWA 应用、苹果的 App Clips、谷歌的 Instant Apps。但是最成功的方案非“小程序”莫属，至少国内是这样。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110401.webp)\n\n提到小程序，人们总是将其与某种 App 联系在一起。其实，**小程序是一种通用技术**。\n\n简单说，<u>小程序就是运行在某种容器（通常是 App）之中、基于 HTML、CSS、JavaScript 的页面。</u>它可以通过脚本调用“宿主 App”的一些基础能力，比如读写文件、摄像头、蓝牙等等。你可以把它想成“HTML5 网页 + App”。\n\n除了大家熟悉的微信小程序，支付宝、百度、美团、京东、快手、头条等多家国内平台都有自己的小程序。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110402.webp)\n\n越来越多的 App 希望引入自己的小程序，因此就出现了“小程序容器”这种全新的技术。\n\n**所谓“小程序容器”，就是一个小程序的运行环境。** App 只要加载这个运行环境，就具备了运行小程序的能力。说得直白一点，它让你拥有了微信那样的小程序引擎，但是不必自己开发。\n\n下面给大家介绍，众多小程序容器之中，我认为比较有前途、也是现在处于领先位置的一个方案：[FinClip](https://www.finclip.com/)。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110821.webp)\n\nFinClip 提供一套 SDK，不仅支持手机（iPhone、Android），还支持桌面（Windows、Linux、macOS）、手表、车机等各种平台。<u>你的 App 只要加载了这套 SDK，就能直接运行微信小程序（以及小游戏），一行代码也不用修改。</u>\n\n也就是说，它完全支持微信小程序的 WXML 语法，无需二次开发，体验与微信端保持一致。你就可以把你的小程序，在微信运行一份，在自己的 App 也运行一份。\n\n而且，它还是一种简单的跨平台方案，等于为微信小程序做了一个适配层，让移动端、PC 端、车载设备、智能电视、智能手表、智能家居都能运行小程序，从而实现“一次开发，到处运行”。它的体积很小，只会让原始安装包增加 3MB。\n\n如果需要独立打包，它可以通过自研的 IDE，将小程序一键转换成 App，把现有的小程序代码导出为 iOS 与 Android 工程文件，并上架至各应用市场。也就是说，你可以把小程序变成独立 App，而且这个独立 App 由于内置了 FinClip SDK，还可以运行其他小程序，甚至自建小程序市场。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110404.webp)\n\nFinClip 已经得到了很多大公司客户，其中不少是券商、银行、航空公司等重要单位。开发者人数现在超过3万，服务用户达到2500万人，在真实的生产环境经受了百万级的并发压力考验。\n\n对于小型开发者，这个产品是免费使用，只有企业级应用才需要付费。现在[注册帐号](https://www.finclip.com/login/?type=register&from=home)，不仅可以实现小程序的跨平台部署，还能抽取盲盒礼品。\n\n![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110803.webp)\n"
+    },
+    {
+      "issueId": 341,
+      "issueTitle": "科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功",
+      "content": "\n现在的手机 App 有一个技术趋势，大家注意到了吗？\n\n那就是**添加小程序容器**，让自家 App 能够运行其他应用程序。\n\n不仅国内 App 这样做，海外的一些超级 App 也纷纷效仿，比如 YouTube、Telegram、Line。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030908.webp)\n\n上图就是 Youtube 应用内置的“小游戏”，类似于微信小程序。\n\n究其原因，大概是因为小程序这种架构很灵活，可以方便地添加和更新功能，有利于形成外部生态和变现。\n\n今天，就向大家介绍一款国产的小程序容器 [FinClip](https://www.finclip.com/landpage-product/?from=ruan)。如果你想为自己的 App 引入小程序，就用得到它。\n\n它是一个完整的、开箱即用的小程序技术解决方案，提供现成的 SDK，**将小程序运行环境嵌入宿主 App**。\n\n有了它，任何开发者都能在 iOS / Android / HarmonyOS 等平台，构建自己的\"小程序宇宙\"。下图是 FinClip 目前支持的宿主平台。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030909.webp)\n\n可以看到，除了手机系统，它还支持嵌入桌面应用、车机应用、电视应用等等。\n\n此外，它还有一些很吸引人的技术特性。\n\n**（1）跨平台统一性**。它直接兼容微信/支付宝/抖音小程序，可以一行不改，直接让微信小程序跑在你的应用里面，无需二次开发。\n\n**（2）敏捷开发范式**。它的小程序更新无需应用商店审核，可以实现\"小时级\"迭代。\n\n**（3）小游戏引擎**。跟它配套的还有一个小游戏实时内容互动引擎 RealClip，提供小游戏运行环境。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031005.webp)\n\n这个引擎重点针对小游戏的性能和兼容性，进行了优化，除了微信小游戏，还兼容 Unity、Cocos、Laya、Egret Engine 等主流引擎和 WebView。也就是说，无论哪种引擎制作的小游戏，都能够直接运行在你的 App 中。\n\n**（4）配套开发工具 FinClip Studio**。这个工具能将现有的小程序/小游戏代码，一键转换成独立 App，做成可用于 iOS、Android 和鸿蒙的安装包。\n\n总之，如果你的 App 想引入小程序，或者你现有的小程序需要运行在其他应用（手机或桌面），那么就可以尝试 FinClip。\n\n欢迎访问 [Finclip 官网](https://www.finclip.com/landpage-product/?from=ruan)详细了解，免费注册试用。任何问题都可以加入官方社群交流（下图）。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030910.webp)\n"
+    }
+  ]
+}

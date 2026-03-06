@@ -1,0 +1,482 @@
+{
+  "name": "回顾",
+  "slug": "hui-gu",
+  "count": 95,
+  "items": [
+    {
+      "issueId": 100,
+      "issueTitle": "科技爱好者周刊：第 100 期",
+      "content": "\n去年的本周：[《周刊第 49 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032901.jpg)\n"
+    },
+    {
+      "issueId": 101,
+      "issueTitle": "科技爱好者周刊：第 101 期",
+      "content": "\n去年的本周：[《周刊第 50 期》](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201904/bg2019040501.jpg)\n"
+    },
+    {
+      "issueId": 102,
+      "issueTitle": "科技爱好者周刊：第 102 期",
+      "content": "\n去年的本周：[《周刊第 51 期》](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201904/bg2019041201.jpg)\n"
+    },
+    {
+      "issueId": 103,
+      "issueTitle": "科技爱好者周刊：第 103 期",
+      "content": "\n去年的本周：[《周刊第 52 期》](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201904/bg2019041901.jpg)\n"
+    },
+    {
+      "issueId": 104,
+      "issueTitle": "科技爱好者周刊：第 104 期",
+      "content": "\n- 2019年的本周：[第 53 期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html)\n- 2018年的本周：[第 1 期](http://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html)\n"
+    },
+    {
+      "issueId": 105,
+      "issueTitle": "科技爱好者周刊：第 105 期",
+      "content": "\n- 2019年的本周：[第 54 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)\n- 2018年的本周：[第 2 期](http://www.ruanyifeng.com/blog/2018/04/weekly-issue-2.html)\n"
+    },
+    {
+      "issueId": 106,
+      "issueTitle": "科技爱好者周刊：第 106 期",
+      "content": "\n- 2019年的本周：[第 55 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)\n- 2018年的本周：[第 3 期](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)\n"
+    },
+    {
+      "issueId": 107,
+      "issueTitle": "科技爱好者周刊：第 107 期",
+      "content": "\n2019年的本周：[第 56 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201905/bg2019051701.jpg)\n\n2018年的本周：[第 4 期](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)\n\n![](http://img1.gtimg.com/cul/pics/hv1/148/24/2275/147938143.jpg)\n"
+    },
+    {
+      "issueId": 108,
+      "issueTitle": "科技爱好者周刊：第 108 期",
+      "content": "\n2019年的本周：[第 57 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201905/bg2019052401.jpg)\n\n2018年的本周：[第 5 期](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051801.jpg)\n"
+    },
+    {
+      "issueId": 109,
+      "issueTitle": "科技爱好者周刊（第 109 期）：播客的价值",
+      "content": "\n2019年的本周：[第 58 期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201905/bg2019053101.jpg)\n\n2018年的本周：[第 6 期](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201805/bg2019052502.jpg)\n"
+    },
+    {
+      "issueId": 110,
+      "issueTitle": "科技爱好者周刊（第 110 期）：如果不能去美国上市",
+      "content": "\n2019年的本周（第 59 期）：[未来交不到朋友](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201906/bg2019060701.jpg)\n\n2018年的本周（第 7 期）：[垃圾星球](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053001.jpg)\n"
+    },
+    {
+      "issueId": 111,
+      "issueTitle": "科技爱好者周刊（第 111 期）：智能电视的误区",
+      "content": "\n2019年的本周（第 60 期）：[中国人的起源](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061401.jpg)\n\n2018年的本周（第 8 期）：[日本的低生育率](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060801.jpg)\n"
+    },
+    {
+      "issueId": 112,
+      "issueTitle": "科技爱好者周刊（第 112 期）：如何培养领导力",
+      "content": "\n2019年的本周（第 61 期）：[文科生转行程序员，越来越难](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062101.jpg)\n\n2018年的本周（第 9 期）：[隔空充电，电子设备植入人体](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018061401.jpg)\n"
+    },
+    {
+      "issueId": 113,
+      "issueTitle": "科技爱好者周刊（第 113 期）：暴力犯罪为什么越来越少？",
+      "content": "\n2019年的本周（第 62 期）：[十五年编一本字典的故事](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062801.jpg)\n\n2018年的本周（第 10 期）：[30岁以上，不宜转行前端工程师](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-10.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062201.jpg)\n"
+    },
+    {
+      "issueId": 114,
+      "issueTitle": "科技爱好者周刊（第 114 期）：U 盘化生存和 Uber-job",
+      "content": "\n2019年的本周（第 63 期）：[大鱼赢家通吃，小鱼很难存活](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070402.jpg)\n\n2018年的本周（第 11 期）：[编程语言加速进化，通才越来越难](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062901.jpg)\n"
+    },
+    {
+      "issueId": 115,
+      "issueTitle": "科技爱好者周刊（第 115 期）：保护你的 DNA，不要泄漏",
+      "content": "\n2019年的本周（第 64 期）：[新人如何进入互联网行业？](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071101.jpg)\n\n2018年的本周（第 12 期）：[政府无法保障养老，必须靠自己](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018070601.jpg)\n"
+    },
+    {
+      "issueId": 116,
+      "issueTitle": "科技爱好者周刊（第 116 期）：世界的未来是一个火药桶",
+      "content": "\n2019年的本周（第 65 期）：[周刊开设“谁在招人”的招聘服务](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071806.jpg)\n\n2018年的本周（第 13 期）：[周刊为什么只谈技术？](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018071301.jpg)\n"
+    },
+    {
+      "issueId": 117,
+      "issueTitle": "科技爱好者周刊（第 117 期）：我不想让你记住我的脸",
+      "content": "\n2019年的本周（第 66 期）：[创业不是零和游戏](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072414.jpg)\n\n2018年的本周（第 14 期）：[马斯克的人生才是梦想家的人生](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072001.jpg)\n"
+    },
+    {
+      "issueId": 118,
+      "issueTitle": "科技爱好者周刊（第 118 期）：高考志愿怎么填",
+      "content": "\n2019年的本周（第 67 期）：[复杂系统无法维护，侏罗纪公园必定失败](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080109.jpg)\n\n2018年的本周（第 15 期）：[周刊的内容从何而来？](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072701.jpg)\n"
+    },
+    {
+      "issueId": 119,
+      "issueTitle": "科技爱好者周刊（第 119 期）：降雨量和保险博弈",
+      "content": "\n2019年的本周（第 68 期）：[关注能力的成长，胜于关注待遇](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080702.jpg)\n\n2018年的本周（第 16 期）：[科技改变死亡的模式](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018080301.jpg)\n"
+    },
+    {
+      "issueId": 120,
+      "issueTitle": "科技爱好者周刊（第 120 期）：只有开放才能打败封锁",
+      "content": "\n2019年的本周（第 69 期）：[做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081403.jpg)\n\n2018年的本周（第 17 期）：[全球变暖，在劫难逃](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081001.jpg)\n"
+    },
+    {
+      "issueId": 121,
+      "issueTitle": "科技爱好者周刊（第 121 期）：为什么人类没有越来越闲？",
+      "content": "\n2019年的本周（第 70 期）：[世界进入负利率时代，这意味什么](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082201.jpg)\n\n2018年的本周（第 18 期）：[无人机攻击，难以防范](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081701.jpg)\n"
+    },
+    {
+      "issueId": 122,
+      "issueTitle": "科技爱好者周刊（第 122 期）：谈谈互联网公司的高估值",
+      "content": "\n2019年的本周（第 71 期）：[名校毕业，不容易创业](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082601.jpg)\n\n2018年的本周（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018082401.jpg)\n"
+    },
+    {
+      "issueId": 123,
+      "issueTitle": "科技爱好者周刊（第 123 期）：互联网公司与湘军的军制",
+      "content": "\n2019年的本周（第 72 期）：[当代人不再有手稿](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090502.jpg)\n\n2018年的本周（第 20 期）：[不读大学的替代方案](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018083101.jpg)\n"
+    },
+    {
+      "issueId": 124,
+      "issueTitle": "科技爱好者周刊（第 124 期）：华为如何考核员工",
+      "content": "\n2019年的本周（第 73 期）：[数据统计的威力](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091206.jpg)\n\n2018年的本周（第 21 期）：[人生的水平运动和垂直运动](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090701.jpg)\n"
+    },
+    {
+      "issueId": 125,
+      "issueTitle": "科技爱好者周刊（第 125 期）：数字人民币要取代谁",
+      "content": "\n2019年的本周（第 74 期）：[信息的商业模式为什么不是收费](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091910.jpg)\n\n2018年的本周（第 22 期）：[猴子自拍，版权归谁](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091401.jpg)\n"
+    },
+    {
+      "issueId": 126,
+      "issueTitle": "科技爱好者周刊（第 126 期）：内卷化是什么？",
+      "content": "\n2019年的本周（第 75 期）：[电子取代机械，对就业有何影响？](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092604.jpg)\n\n2018年的本周（第 23 期）：[统计学上的人生最大决定因素](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092101.jpg)\n"
+    },
+    {
+      "issueId": 127,
+      "issueTitle": "科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码",
+      "content": "\n2019年的本周（第 76 期）：[任何爱好都能变成职业，只要你会拍视频](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100301.jpg)\n\n2018年的本周（第 24 期）：[新人进入软件行业的建议](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092801.jpg)\n"
+    },
+    {
+      "issueId": 128,
+      "issueTitle": "科技爱好者周刊（第 128 期）：这个社会是否正在变成“赛博朋克”？",
+      "content": "\n2019年的本周（第 77 期）：[韩剧《阿尔布拉罕宫的回忆》](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100907.jpg)\n\n2018年的本周（第 25 期）：[安卓手机十周年的感想](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100501.jpg)\n"
+    },
+    {
+      "issueId": 129,
+      "issueTitle": "科技爱好者周刊（第 129 期）：创业的凸函数和凹函数",
+      "content": "\n2019年的本周（第 78 期）：[下一个风口是什么行业？](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101707.jpg)\n\n2018年的本周（第 26 期）：[DHH 的新书《工作何必疯狂》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101201.jpg)\n"
+    },
+    {
+      "issueId": 130,
+      "issueTitle": "科技爱好者周刊（第 130 期）：低龄化的互联网",
+      "content": "\n2019年的本周（第 79 期）：[我们的生活越来越依赖机器](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102417.jpg)\n\n2018年的本周（第 27 期）：[乔布斯的“热情假设”对不对？](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101901.jpg)\n"
+    },
+    {
+      "issueId": 131,
+      "issueTitle": "科技爱好者周刊（第 131 期）：你的头脑是二值逻辑，还是三值逻辑？",
+      "content": "\n2019年的本周（第 80 期）：[企业软件创业，为什么在中国不容易成功？](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201910/bg2019103101.jpg)\n\n2018年的本周（第 28 期）：[软件开发是真正的知识吗？](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018102601.jpg)\n"
+    },
+    {
+      "issueId": 132,
+      "issueTitle": "科技爱好者周刊（第 132 期）：快能力和慢能力",
+      "content": "\n2019年的本周（第 81 期）：[子辈能大幅超越父辈吗？](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110707.jpg)\n\n2018年的本周（第 29 期）：[公司的组织架构，决定了软件的复杂性](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110201.jpg)\n"
+    },
+    {
+      "issueId": 133,
+      "issueTitle": "科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？",
+      "content": "\n2019年的本周（第 82 期）：[就业要选发展最快的行业](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110813.jpg)\n\n2018年的本周（第 30 期）：[为什么谷歌做不好社交软件？](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110901.jpg)\n"
+    },
+    {
+      "issueId": 134,
+      "issueTitle": "科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍",
+      "content": "\n2019年的本周（第 83 期）：[技术解决不了人类的对立](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111703.jpg)\n\n2018年的本周（第 31 期）：[程序员的退休信号](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111601.jpg)\n"
+    },
+    {
+      "issueId": 135,
+      "issueTitle": "科技爱好者周刊（第 135 期）：什么行业适合创业？",
+      "content": "\n2019年的本周（第 84 期）：[一次性工作招聘，用完你就丢](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111702.jpg)\n\n2018年的本周（第 32 期）：[砌砖头的三种角度](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018112301.jpg)\n"
+    },
+    {
+      "issueId": 136,
+      "issueTitle": "科技爱好者周刊（第 136 期）：利特伍德奇迹定律",
+      "content": "\n2019年的本周（第 85 期）：[美国为什么不是乱哄哄？](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112509.jpg)\n\n2018年的本周（第 33 期）：[现场投票不如网络投票](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113001.jpg)\n"
+    },
+    {
+      "issueId": 137,
+      "issueTitle": "科技爱好者周刊（第 137 期）：Slack 被收购，以及企业的技术选型",
+      "content": "\n2019年的本周（第 86 期）：[千万不要当完美主义者](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112713.jpg)\n\n2018年的本周（第 34 期）：[身份证的最终解决方案：人体植入芯片](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018120702.jpg)\n"
+    },
+    {
+      "issueId": 138,
+      "issueTitle": "科技爱好者周刊（第 138 期）：失业难以避免，重构人生规划",
+      "content": "\n2019年的本周（第 87 期）：[新人要为团队写文档](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121703.jpg)\n\n2018年的本周（第 35 期）：[“一人份”的服务越来越多](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121401.jpg)\n"
+    },
+    {
+      "issueId": 139,
+      "issueTitle": "科技爱好者周刊（第 139 期）：生物学的可怕进展",
+      "content": "\n2019年的本周（第 88 期）：[如果你遇到一条蛇](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113002.jpg)\n\n2018年的本周（第 36 期）：[程序员将来会不会过剩？](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122129.jpg)\n"
+    },
+    {
+      "issueId": 140,
+      "issueTitle": "科技爱好者周刊（第 140 期）：印度人的工资是多少？",
+      "content": "\n2019年的本周（第 89 期）：[不下雨的地方，不要去卖伞](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120302.jpg)\n\n2018年的本周（第 37 期）：[小说家的时代，永远地过去了](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122834.jpg)\n"
+    },
+    {
+      "issueId": 141,
+      "issueTitle": "科技爱好者周刊（第 141 期）：封闭系统的胜利",
+      "content": "\n2020年的本周（第 90 期）：[管人和技术是两种不同的能力](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120604.jpg)\n\n2019年的本周（第 38 期）：[使用越方便，技术实现越复杂](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010401.jpg)\n"
+    },
+    {
+      "issueId": 142,
+      "issueTitle": "科技爱好者周刊（第 142 期）：2020年才是21世纪元年",
+      "content": "\n2020年的本周（第 91 期）：[印度孟买的房价，为什么跟北京一样高？](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120910.jpg)\n\n2019年的本周（第 39 期）：[苹果公司的两封公开信](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011101.jpg)\n"
+    },
+    {
+      "issueId": 143,
+      "issueTitle": "科技爱好者周刊（第 143 期）：世界尽头与冷酷仙境",
+      "content": "\n2020年的本周（第 92 期）：[听觉暂留](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121006.jpg)\n\n2019年的本周（第 40 期）：[手动咖啡不属于电子时代](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011801.jpg)\n"
+    },
+    {
+      "issueId": 144,
+      "issueTitle": "科技爱好者周刊（第 144 期）：提高收入的根本途径",
+      "content": "\n2020年的本周（第 93 期）：[漫游类的游戏，将会越来越多](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121509.jpg)\n\n2019年的本周（第 41 期）：[如何看待互联网公司裁员？](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019012501.jpg)\n"
+    },
+    {
+      "issueId": 145,
+      "issueTitle": "科技爱好者周刊（第 145 期）：大家不出门，经济怎么办？",
+      "content": "\n2020年的本周（第 94 期）：[既懂得制造，又懂得销售](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113001.jpg)\n\n2019年的本周（第 42 期）：[什么领域，你可以做到出类拔萃？](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020101.jpg)\n"
+    },
+    {
+      "issueId": 146,
+      "issueTitle": "科技爱好者周刊（第 146 期）：网课应该怎么上？",
+      "content": "\n2020年的本周（第 95 期）：[远程办公暴露冗余岗位](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122902.jpg)\n\n2019年的本周（第 43 期）：[一篇好玩的论文](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201902/bg2019021501.jpg)\n"
+    },
+    {
+      "issueId": 147,
+      "issueTitle": "科技爱好者周刊（第 147 期）：寻找你愿意忍受的痛苦",
+      "content": "\n2020年的本周（第 96 期）：[在线教育不等于录制视频](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)\n\n![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011804.jpg)\n\n2019年的本周（第 44 期）：[高校“唯论文”导向的后果](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201902/bg2019022201.jpg)\n"
+    },
+    {
+      "issueId": 53,
+      "issueTitle": "每周分享第 53 期",
+      "content": "\n去年的本周：[《每周分享第 1 期》](https://www.yuque.com/ruanyf/share/issue-1)\n"
+    },
+    {
+      "issueId": 54,
+      "issueTitle": "每周分享第 54 期",
+      "content": "\n去年的本周：[《每周分享第 2 期》](./issue-2.md)\n\n[![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042801.jpg)](./issue-2.md)\n"
+    },
+    {
+      "issueId": 55,
+      "issueTitle": "每周分享第 55 期",
+      "content": "\n\n去年的本周：[《每周分享第 3 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)\n\n[![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018050401.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-3.html)\n"
+    },
+    {
+      "issueId": 56,
+      "issueTitle": "每周分享第 56 期",
+      "content": "\n去年的本周：[《每周分享第 4 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)\n\n[![](http://img1.gtimg.com/cul/pics/hv1/148/24/2275/147938143.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-4.html)\n"
+    },
+    {
+      "issueId": 57,
+      "issueTitle": "每周分享第 57 期",
+      "content": "\n去年的本周：[《每周分享第 5 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html)\n\n[![](https://cdn.beekka.com/blogimg/asset/201805/bg2018051801.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-5.html)\n"
+    },
+    {
+      "issueId": 58,
+      "issueTitle": "每周分享第 58 期",
+      "content": "\n去年的本周：[《每周分享第 6 期》](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)\n\n[![](https://cdn.beekka.com/blogimg/asset/201805/bg2019052502.jpg)](http://www.ruanyifeng.com/blog/2018/05/weekly-issue-6.html)\n"
+    },
+    {
+      "issueId": 59,
+      "issueTitle": "每周分享第 59 期",
+      "content": "\n去年的本周：[《每周分享第 7 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)\n\n[![](https://cdn.beekka.com/blogimg/asset/201805/bg2018053001.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-7.html)\n"
+    },
+    {
+      "issueId": 60,
+      "issueTitle": "每周分享第 60 期",
+      "content": "\n去年的本周：[《每周分享第 8 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)\n\n[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060801.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)\n"
+    },
+    {
+      "issueId": 61,
+      "issueTitle": "科技爱好者周刊：第61期",
+      "content": "\n去年的本周：[《周刊第 9 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)\n\n[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018061401.jpg)](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-9.html)\n"
+    },
+    {
+      "issueId": 62,
+      "issueTitle": "科技爱好者周刊：第 62 期",
+      "content": "\n去年的本周：[《周刊第 10 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-10.html)（点击查看）\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062201.jpg)\n"
+    },
+    {
+      "issueId": 63,
+      "issueTitle": "科技爱好者周刊：第 63 期",
+      "content": "\n去年的本周：[《周刊第 11 期》](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062901.jpg)\n"
+    },
+    {
+      "issueId": 64,
+      "issueTitle": "科技爱好者周刊：第 64 期",
+      "content": "\n去年的本周：[《周刊第 12 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-12.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018070601.jpg)\n"
+    },
+    {
+      "issueId": 65,
+      "issueTitle": "科技爱好者周刊（第 65 期）：周刊开设\"谁在招人\"的招聘服务",
+      "content": "\n去年的本周：[《周刊第 13 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-13.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018071301.jpg)\n"
+    },
+    {
+      "issueId": 66,
+      "issueTitle": "科技爱好者周刊：第 66 期",
+      "content": "\n去年的本周：[《周刊第 14 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072001.jpg)\n"
+    },
+    {
+      "issueId": 67,
+      "issueTitle": "科技爱好者周刊：第 67 期",
+      "content": "\n去年的本周：[《周刊第 15 期》](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201807/bg2018072701.jpg)\n"
+    },
+    {
+      "issueId": 68,
+      "issueTitle": "科技爱好者周刊：第 68 期",
+      "content": "\n去年的本周：[《周刊第 16 期》](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-16.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018080301.jpg)\n"
+    },
+    {
+      "issueId": 69,
+      "issueTitle": "科技爱好者周刊：第 69 期",
+      "content": "\n去年的本周：[《周刊第 17 期》](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081001.jpg)\n"
+    },
+    {
+      "issueId": 70,
+      "issueTitle": "科技爱好者周刊：第 70 期",
+      "content": "\n去年的本周：[第 18 期](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081701.jpg)\n"
+    },
+    {
+      "issueId": 71,
+      "issueTitle": "科技爱好者周刊（第 71 期）",
+      "content": "\n去年的本周：《[周刊第 19 期](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)》\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018082401.jpg)\n"
+    },
+    {
+      "issueId": 72,
+      "issueTitle": "科技爱好者周刊：第 72 期",
+      "content": "\n去年的本周：《[周刊第 20 期](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-20.html)》\n\n![](https://cdn.beekka.com/blogimg/asset/201808/bg2018083101.jpg)\n"
+    },
+    {
+      "issueId": 73,
+      "issueTitle": "科技爱好者周刊：第 73 期",
+      "content": "\n去年的本周：《[周刊第 21 期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)》\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018090701.jpg)\n"
+    },
+    {
+      "issueId": 74,
+      "issueTitle": "科技爱好者周刊：第 74 期",
+      "content": "\n去年的本周：[《周刊第 22 期》](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-22.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018091401.jpg)\n"
+    },
+    {
+      "issueId": 75,
+      "issueTitle": "科技爱好者周刊：第 75 期",
+      "content": "\n去年的本周：[《周刊第 23 期》](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092101.jpg)\n"
+    },
+    {
+      "issueId": 76,
+      "issueTitle": "科技爱好者周刊：第 76 期",
+      "content": "\n去年的本周：[《周刊第 24 期》](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201809/bg2018092801.jpg)\n"
+    },
+    {
+      "issueId": 77,
+      "issueTitle": "科技爱好者周刊：第 77 期",
+      "content": "\n去年的本周：[《周刊第 25 期》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100501.jpg)\n"
+    },
+    {
+      "issueId": 78,
+      "issueTitle": "科技爱好者周刊：第 78 期",
+      "content": "\n去年的本周：[《周刊第 26 期》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101201.jpg)\n"
+    },
+    {
+      "issueId": 79,
+      "issueTitle": "科技爱好者周刊：第 79 期",
+      "content": "\n去年的本周：[《周刊第 27 期》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018101901.jpg)\n"
+    },
+    {
+      "issueId": 80,
+      "issueTitle": "科技爱好者周刊：第 80 期",
+      "content": "\n去年的本周：[《周刊第 28 期》](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201810/bg2018102601.jpg)\n"
+    },
+    {
+      "issueId": 81,
+      "issueTitle": "科技爱好者周刊：第 81 期",
+      "content": "\n去年的本周：[《周刊第 29 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110201.jpg)\n"
+    },
+    {
+      "issueId": 82,
+      "issueTitle": "科技爱好者周刊：第 82 期",
+      "content": "\n去年的本周：[《周刊第 30 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018110901.jpg)\n"
+    },
+    {
+      "issueId": 83,
+      "issueTitle": "科技爱好者周刊：第 83 期",
+      "content": "\n去年的本周：[《周刊第 31 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018111601.jpg)\n"
+    },
+    {
+      "issueId": 84,
+      "issueTitle": "科技爱好者周刊：第 84 期",
+      "content": "\n去年的本周：[《周刊第 32 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018112301.jpg)\n"
+    },
+    {
+      "issueId": 85,
+      "issueTitle": "科技爱好者周刊：第 85 期",
+      "content": "\n去年的本周：[《周刊第 33 期》](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201811/bg2018113001.jpg)\n"
+    },
+    {
+      "issueId": 86,
+      "issueTitle": "科技爱好者周刊：第 86 期",
+      "content": "\n去年的本周：[《周刊第 34 期》](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018120702.jpg)\n"
+    },
+    {
+      "issueId": 87,
+      "issueTitle": "科技爱好者周刊：第 87 期",
+      "content": "\n去年的本周：[《周刊第 35 期》](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018121401.jpg)\n"
+    },
+    {
+      "issueId": 88,
+      "issueTitle": "科技爱好者周刊：第 88 期",
+      "content": "\n去年的本周：[《周刊第 36 期》](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122129.jpg)\n"
+    },
+    {
+      "issueId": 89,
+      "issueTitle": "科技爱好者周刊：第 89 期",
+      "content": "\n去年的本周：[《周刊第 37 期》](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201812/bg2018122834.jpg)\n"
+    },
+    {
+      "issueId": 90,
+      "issueTitle": "科技爱好者周刊：第 90 期",
+      "content": "\n去年的本周：[《周刊第 38 期》](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010401.jpg)\n"
+    },
+    {
+      "issueId": 91,
+      "issueTitle": "科技爱好者周刊：第 91 期",
+      "content": "\n去年的本周：[《周刊第 39 期》](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011101.jpg)\n"
+    },
+    {
+      "issueId": 92,
+      "issueTitle": "科技爱好者周刊：第 92 期",
+      "content": "\n去年的本周：[《周刊第 41 期》](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019012501.jpg)\n"
+    },
+    {
+      "issueId": 93,
+      "issueTitle": "科技爱好者周刊：第 93 期",
+      "content": "\n去年的本周：[《周刊第 42 期》](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201901/bg2019020101.jpg)\n"
+    },
+    {
+      "issueId": 94,
+      "issueTitle": "科技爱好者周刊：第 94 期",
+      "content": "\n去年的本周：[《周刊第 43 期》](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201902/bg2019021501.jpg)\n"
+    },
+    {
+      "issueId": 95,
+      "issueTitle": "科技爱好者周刊：第 95 期",
+      "content": "\n去年的本周：[《周刊第 44 期》](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201902/bg2019022201.jpg)\n"
+    },
+    {
+      "issueId": 96,
+      "issueTitle": "科技爱好者周刊：第 96 期",
+      "content": "\n去年的本周：[《周刊第 45 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030101.jpg)\n"
+    },
+    {
+      "issueId": 97,
+      "issueTitle": "科技爱好者周刊：第 97 期",
+      "content": "\n去年的本周：[《周刊第 46 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019030801.jpg)\n"
+    },
+    {
+      "issueId": 98,
+      "issueTitle": "科技爱好者周刊：第 98 期",
+      "content": "\n去年的本周：[《周刊第 47 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019031501.jpg)\n"
+    },
+    {
+      "issueId": 99,
+      "issueTitle": "科技爱好者周刊：第 99 期",
+      "content": "\n去年的本周：[《周刊第 48 期》](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)\n\n![](https://cdn.beekka.com/blogimg/asset/201903/bg2019032201.jpg)\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "FinClip：通用小程序容器",
+  "slug": "f-i-n-c-l-i-p-tong-yong-xiao-cheng-xu-rong-qi",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 195,
+      "issueTitle": "科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？",
+      "content": "\n提到小程序，大部分人的第一反应是微信小程序，最多还知道支付宝、百度、头条也有小程序。但是，很少有人知道，小程序其实是一种通用技术，所有 App 都可以嵌入，甚至我们自己开发的 App 也可以运行小程序。\n\n本周就向大家介绍一种小程序容器技术、也是小程序的通用解决方案： [FinClip](https://www.finclip.com/?from=ruanyifeng)。**它的最大特点，就是能够让任何 App 运行小程序。** \n\n只需要在你的 App 里面，引入它的 SDK，就能加载运行外部小程序了。除了 SDK，它还提供一个后台管理系统，统一管理小程序的上架和下架，以及收集和分析小程序数据。\n\n![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012106.webp)\n\n[FinClip](https://www.finclip.com/?from=ruanyifeng) 完全遵循微信小程序的开发标准与规范。也就是说，现有的微信小程序可以不改一行代码，直接放进你的 App 里面，运行效果保持不变，不必额外二次开发和改造，大大节省了人力成本。\n\n不仅如此，[FinClip](https://www.finclip.com/?from=ruanyifeng) 还支持手机以外的多种终端，包括 Linux、Windows、macOS、麒麟等操作系统。这意味着，PC 端、车载设备、智能电视都能使用小程序了，实现了小程序的“一次开发，到处运行”，同时触达众多流量平台，而不仅仅局限于微信生态。\n\n![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012107.webp)\n\nFinClip 还提供[小程序 IDE 开发工具](https://www.finclip.com/downloads?from=ruanyifeng)，界面与微信小程序的开发工具类似，自带调试和真机预览，简单易上手。你可以在这个 IDE 里面，对现有项目进行二次开发，扩展功能和接口，或者从零开始写出一个小程序。\n\n![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020902.webp)\n\n目前，[FinClip](https://www.finclip.com/?from=ruanyifeng) 已经得到了很多大公司的认可，有上百家客户，包括券商、股份制银行、航空公司、车载设备服务商、省级移动警务平台等重要企业。开发者人数超过3万，服务用户达到2500万人，在真实的生产环境经受了百万级的并发压力考验。\n\nFinClip 有[社区版](https://www.finclip.com/pricing?from=ruanyifeng)，供个人开发者免费使用；也有[企业版](https://www.finclip.com/pricing?from=ruanyifeng)，不过需要按年付费，或者购买专属私人化服务。\n\n如果你的 App 也想运行小程序，不妨考虑一下 FinClip。建议访问官方的[上手教程](https://www.finclip.com/start/?from=ruanyifeng)和[产品手册](https://www-cdn.finclip.com/mp-home/FinClip%E4%BA%A7%E5%93%81%E6%89%8B%E5%86%8C%20%E7%94%B5%E5%AD%90%E7%89%88.pdf)，详细了解，可以注册一个[免费账号](https://www.finclip.com/login/?type=register&from=ruanyifeng)试试看。\n\n![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020901.jpg)\n\n最后，欢迎扫描上方的二维码，加入他们的技术社群，了解和讨论小程序的技术问题。\n"
+    }
+  ]
+}

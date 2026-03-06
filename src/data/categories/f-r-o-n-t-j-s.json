@@ -1,0 +1,12 @@
+{
+  "name": "FrontJS",
+  "slug": "f-r-o-n-t-j-s",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 7,
+      "issueTitle": "每周分享第 7 期",
+      "content": "\n本期《每周分享》很高兴得到了前端错误监控平台 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf)（[www.frontjs.com](http://www.frontjs.com/?utm_source=ruanyf)）的赞助。\n\n[FrontJS](https://www.frontjs.com/?utm_source=ruanyf) 是蒲公英开发者服务平台旗下产品，蒲公英成立于2014年，旗下产品还有有蒲公英移动应用内测分发平台和Bug 管理平台 Tracup 。其中，内测分发平台在全球有160万注册开发者，共计上传了超过800万款 APP。\n\n[![蒲公英 - 高效安全的内测应用发布、管理平台.png](https://cdn.beekka.com/blogimg/asset/201806/bg2018060601.jpg \"\")\n](https://www.frontjs.com/?utm_source=ruanyf)\n\n[FrontJS](https://www.frontjs.com/?utm_source=ruanyf) 是一个前端错误的监控平台，可以监控 Web 和小程序页面的性能，以及收集异常信息。千万级访问量的数字货币交易平台火币网，就使用 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf) 监控前端错误。下面就是它的 JS 异常监控页面，收集 console 中的 log / warn / error 的信息。\n\n[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060602.jpg)](https://www.frontjs.com/?utm_source=ruanyf)\n\n它的一些主要特点：（1）提供API，可以对上报行为进行定制化的调整；（2）网络请求监控，收集 XHR 耗时、错误、超时、跨域等信息；（3）资源监控，收集加载失败的资源以及跨域资源的 URL；（4）堆栈追踪技术，精确获取更多异常上下文信息；（5）页面性能监控，包含 DNS 时间， DOM 渲染时间等信息，可以组合计算出首屏时间以及白屏时间； （6）事件流，可以了解异常发生时的上下文环境，帮助测试部门快速复现错误；（7）数据可视化工具，所有数据均可以重新组织并生成图表。\n\n[![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060603.jpg)](https://www.frontjs.com/)\n\n欢迎大家使用 [FrontJS](https://www.frontjs.com/?utm_source=ruanyf)。向页面右下方客服说明来自阮一峰博客，可以获得50元代金券或延长10天的体验期。\n"
+    }
+  ]
+}

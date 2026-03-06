@@ -1,0 +1,12 @@
+{
+  "name": "电脑启动盘制作工具",
+  "slug": "dian-nao-qi-dong-pan-zhi-zuo-gong-ju",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 212,
+      "issueTitle": "科技爱好者周刊（第 212 期）：人生不短",
+      "content": "\n1、[netboot.xyz](https://netboot.xyz/)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062105.webp)\n\n这个工具可以制作电脑的网络启动盘，从网上加载各种操作系统的镜像文件，用户可以选择一个镜像，实现网络启动。\n\n2、[Ventoy](https://ventoy.net/cn/index.html)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062106.webp)\n\n著名的可启动 U 盘制作工具，只要把操作系统的镜像文件拷贝进 U 盘，就可以启动安装了。\n\n3、[UnattendTool](https://github.com/dsx42/UnattendTool)\n\n安装启动盘时，会被要求做很多选择。这个工具可以根据事先的设定，实现自动选择，从而自动完成整个安装。它支持 Windows 10 和 Windows 11。（[@dsx42](https://github.com/ruanyf/weekly/issues/2482) 投稿）\n"
+    }
+  ]
+}

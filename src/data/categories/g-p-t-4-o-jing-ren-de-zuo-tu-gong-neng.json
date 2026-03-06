@@ -1,0 +1,12 @@
+{
+  "name": "GPT-4o 惊人的作图功能",
+  "slug": "g-p-t-4-o-jing-ren-de-zuo-tu-gong-neng",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 344,
+      "issueTitle": "科技爱好者周刊（第 344 期）：制造业正在“零工化”",
+      "content": "\n上个月，OpenAI 开放了 GPT-4o 模型的文生图功能。\n\n它的效果非常惊人，其中一个效果是将照片转成吉卜力风格的卡通图，立刻就风靡了网络。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032905.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032906.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032909.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032910.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032912.webp)\n\n它还能将画像变成真人照片，我觉得效果也很惊人。下面是孔子、[千与千寻](https://x.com/yetone/status/1904999754163191844)的真人效果图。\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032915.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032907.webp)\n\n另外，还有人用它生成[室内装潢效果图](https://x.com/sherwinwu/status/1904620108389212413)，下图是装潢前的房间。\n\n![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040101.webp)\n\n如果想装一个镶嵌入墙壁的书架，你可以让模型可以生成预览图。\n\n![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040102.webp)\n\n总之，它的用途非常多，导致使用量巨大，OpenAI 不得不限制使用 GPT-4o 的作图功能，目前只开放给付费用户，未来将开放给免费用户。\n"
+    }
+  ]
+}

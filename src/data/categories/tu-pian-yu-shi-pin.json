@@ -1,0 +1,17 @@
+{
+  "name": "图片与视频",
+  "slug": "tu-pian-yu-shi-pin",
+  "count": 2,
+  "items": [
+    {
+      "issueId": 232,
+      "issueTitle": "科技爱好者周刊（第 232 期）：好用的平面设计软件",
+      "content": "\n1、[活动日历](https://ilyabirman.net/forebruary/)\n\n你知道吗，把日历打印成下面的卡片，前面加一个活动窗口。只要移动窗口，就可以表示任意一个月份。\n\n下面是2022年7月，窗口右侧的红框表示周末。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063001.webp)\n\n2022年6月。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063002.webp)\n\n它的缺点是无法表示本月有多少天，到底有30天还是31天，看不出来。\n\n2、[富阳西站的消防演练](https://v.qq.com/x/page/j3362bbbh7h.html)\n\n杭州富阳西站的自动灭火系统，很开眼界，没想到威力这么大。\n\n<iframe frameborder=\"0\" src=\"https://v.qq.com/txp/iframe/player.html?vid=j3362bbbh7h\" allowFullScreen=\"true\" width=\"600\" height=\"400\"></iframe>\n\n它的算法，有人说是火焰的红外线感知，也有人说是视觉识别。\n\n但是不管哪一种算法，大堂中央不太可能着火，这个系统有点不实用啊。\n"
+    },
+    {
+      "issueId": 254,
+      "issueTitle": "科技爱好者周刊（第 254 期）：人生是一个长板问题",
+      "content": "\n1、[艺术鸟巢](https://www.thisiscolossal.com/2022/06/bird-houses-brooklyn-botanic-gardens/)\n\n美国纽约布鲁克林植物园，举办了一次鸟巢设计展，邀请了33位艺术家，请他们设计具有艺术气息的鸟巢。\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063007.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063008.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063009.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063010.webp)\n\n![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063011.webp)\n\n2、[AI 机器人踢足球](https://twitter.com/haarnoja/status/1651577815836270596)\n\n谷歌 DeepMind 发布了一段视频，两个 AI 训练的机器人踢足球。\n\n<iframe frameborder=\"0\" src=\"https://v.qq.com/txp/iframe/player.html?vid=a3512usv5qh\" allowFullScreen=\"true\" width=\"600\" height=\"400\"></iframe>\n\n它们会根据对方的动作，调整自己的动作，从而形成对抗，真是太惊人了！机器人时代大概真的要来了。\n"
+    }
+  ]
+}

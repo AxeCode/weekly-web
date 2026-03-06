@@ -1,0 +1,12 @@
+{
+  "name": "数据模型是新产品的核心",
+  "slug": "shu-ju-mo-xing-shi-xin-chan-pin-de-he-xin",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 373,
+      "issueTitle": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
+      "content": "\n（1）\n\n著名计算机学家、Pascal 语言之父[沃斯](https://en.wikipedia.org/wiki/Niklaus_Wirth)说过一句著名的话。\n\n> 算法 + 数据结构 = 程序\n\n他甚至写了一本书，书名就是这句话。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110804.webp)\n\n在他看来，**数据结构跟算法一样，是最重要的事情**，反倒是编程语言不怎么重要。\n\n如果数据结构不对，程序十有八九会有问题；反之，数据结构对了，解法往往很容易看出来。\n\n（2）\n\n我前些天看到[一篇文章](https://notes.mtb.xyz/p/your-data-model-is-your-destiny)，也是这个观点，甚至更进一步提出，**数据模型不仅是程序的核心，也是新产品的核心**。\n\n他认为，数据结构决定了产品的形态，只要改变一下数据模型，往往就是一种新产品。\n\n文章举了很多例子，非常有启发，我跟大家分享。\n\n（3）\n\n最初的聊天软件，都是以人为中心，两人或两人以上组成一个聊天。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110807.webp)\n\n它的数据模型就是围绕人建模，要是成员全部退出，聊天就结束。\n\n后来，新的群聊软件 [Slack](https://slack.com/intl/zh-cn/) 诞生了。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110805.webp)\n\n它的数据模型变了，核心不是人，而是话题。一个话题就是一个容器，所有相关的聊天都在里面，又叫做频道（channel）。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110806.webp)\n\n即使成员全部退出，没人聊天了，频道依然存在，话题的完整上下文也不会消失。新成员加入后，可以看到以前的所有讨论。\n\n由于这个特点，Slack 特别受企业欢迎，是目前公司内网工作聊天软件的首选。\n\n你看，就因为 Slack 的数据模型变了，哪怕其他都没变，它就成了一个全然不同的产品，杀出了聊天软件的重围，在企业市场大放异彩。\n\n（4）\n\n再看两个例子。Notion 和谷歌文档都是文档软件，都用来写文档，但是它们的数据模型不一样。\n\n谷歌文档就是传统模型，以单篇文档为中心。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110808.webp)\n\nNotion 模型的核心其实不是文档，而是页面。一个页面就是一个容器，你可以组合多篇文档，呈现在一起。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110809.webp)\n\nFigma 和 Photoshop 都是设计软件。\n\nPhotoShop 模型的核心是图像，所有编辑都归属于某张图像。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110810.webp)\n\nFigma 模型的核心，我觉得，是工作区。一个设计稿就是一个工作区，里面可以有多张图像，其他人可以参与进来，留言讨论。\n\n![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110811.webp)\n\n（5）\n\n总之，数据模型稍作变化，就会产生一种新产品。它跟现有的产品有区别，从而能够打开新的市场。\n\n这启发我们，如果你的产品跟别人雷同，那么不妨思考一下，能否改变数据模型。\n"
+    }
+  ]
+}

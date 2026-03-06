@@ -1,0 +1,12 @@
+{
+  "name": "免费 Python 课程",
+  "slug": "mian-fei-p-y-t-h-o-n-ke-cheng",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 9,
+      "issueTitle": "每周分享第 9 期",
+      "content": "\n本期《每周分享》很高兴得到[路飞学城](https://www.luffycity.com/home)（[www.luffycity.com](https://www.luffycity.com/home)）的赞助。他们成立于2017年，是老男孩教育的在线教育品牌。\n\nPython 是现在最热门的语言，[路飞学城](https://www.luffycity.com/home)有两门课程，帮助大家学习这门语言。如果你是新手，不知道怎么入门，希望有人能够领一下路，那么可以考虑[《Python 开发7天入门特训营》](https://www.luffycity.com/home/camp?source=ruanyifeng)。这门课帮助大家掌握 Python 的基本用法，具备简单的开发能力。\n\n[![-2869085325200077407.jpg](https://cdn.beekka.com/blogimg/asset/201806/bg2018061410.jpg \"\")](https://www.luffycity.com/home/camp?source=ruanyifeng)\n\n如果你有 Python 基础，想要用爬虫来做一些有趣的事情，比如：\n\n> * 爬取知乎热门文章并对指定回答批量刷赞\n> * 爬取微博热门话题评论并分类分析\n> * 爬取58同城批量获取客户的租房需求、联系方式\n> * 破解业内通用的图片&滑动验证码\n> * 如何应对网站反爬虫策略\n\n[《Python爬虫实战集训营》](https://www.luffycity.com/home/camp?source=ruanyifeng)课程就能满足你的需求。该课程从爬虫开发入手，旨在提高学员的 Python 实战能力，在源码级别深度剖析流行的爬虫框架，研究如何提高爬虫性能，并包含防爬策略的解决方法。\n\n[![4779557561561238374.jpg](https://cdn.beekka.com/blogimg/asset/201806/bg2018061411.jpg \"\")\n](https://www.luffycity.com/home/camp?source=ruanyifeng)\n\n**最重要的事情放在最后说，上面这两门课程都是免费的！**缴纳99元保证金即可参与，只要完成3次作业和参与直播，提交学习笔记，就可以退还保证金，还可获得《Python全栈开发实战》及内部教材书籍，视频课程、定制文化衫等作为奖励。另外，还会有1对1的导师逐行批改你的代码、讲师3次直播答疑，还有班主任组队小伙伴共同学习。\n\n这两门课都只有 200 个名额，点击这里加入[课程的 QQ 群](https://shang.qq.com/wpa/qunwpa?idkey=7a018d556e4c87a1424d3cc35160445701a3b7432826b4f16deb71d453f7eda4)。跟客服说看了阮一峰博客，还可以获得50元课程代金券。\n"
+    }
+  ]
+}

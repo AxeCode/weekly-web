@@ -1,0 +1,12 @@
+{
+  "name": "[本周软件] NocoBase",
+  "slug": "-nocobase",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 372,
+      "issueTitle": "科技爱好者周刊（第 372 期）：软件界面如何设计",
+      "content": "\n如何快速开发业务系统？\n\n你可能会说交给大模型，其实有更简单可靠的方法，就是 [NocoBase](https://github.com/nocobase/nocobase)。\n\n![AI-Employees](https://cdn.beekka.com/blogimg/asset/202511/bg2025110603.webp)\n\n它是一个开源的低代码/零代码开发平台，在 [GitHub](https://github.com/nocobase/nocobase) 已经有17000颗星。\n\n它的思路很简单:（1）接入数据库，（2）配置界面，所见即所得，（3）配置插件（权限插件、SSO 登录插件、打印插件、文档插件等等）。\n\n![AI-Employees](https://cdn.beekka.com/blogimg/asset/202511/bg2025110604.webp)\n\n最新的2.x版本，还引入了 [AI 员工](https://www.nocobase.com/cn/blog/nocobase-2-0)，可以让大模型的能力无缝融入到业务系统，比如调查客户背景、分析数据，抓取供应商平台的报价。\n\n发布四年多，它的商业版本已经收获了50多个国家/地区的用户，[收入过千万](https://www.nocobase.com/cn/blog/an-open-source-project-without-ai-can-still-earn-millions-a-year)。\n\n大家可以在[官网](https://www.nocobase.com/cn/)开通 demo，试试为自己的数据库加上操作界面，也可以从 [GitHub](https://github.com/nocobase/nocobase) 获取源代码自己部署。\n"
+    }
+  ]
+}

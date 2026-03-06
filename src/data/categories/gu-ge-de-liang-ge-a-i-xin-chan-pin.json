@@ -1,0 +1,12 @@
+{
+  "name": "谷歌的两个 AI 新产品",
+  "slug": "gu-ge-de-liang-ge-a-i-xin-chan-pin",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 362,
+      "issueTitle": "科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计",
+      "content": "\n谷歌本周公开了两个新产品。\n\n1、[Imagen 4 模型](https://aistudio.google.com/prompts/new_image)\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081708.webp)\n\n这是谷歌最新的“文生图”模型，可以在官网[免费使用](https://aistudio.google.com/prompts/new_image)，参见[介绍文章](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)。\n\n我觉得，图片生成速度很快，效果相当好（比如下图“机器人拿着一块红色滑板”）。\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081707.webp)\n\n2、[Learning About](https://learning.google.com/experiments/learn-about/signup)\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081805.webp)\n\nLearning About 是谷歌的[新型学习平台](https://learning.google.com/experiments/learn-about?src=signup)，使用 AI 生成学习教程。\n\n先输入你想要学习的主题，比如 Java 语言。\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081806.webp)\n\n它会返回一篇简单的教程，\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081807.webp)\n\n除了总体介绍，里面还会列出各种学习主题，可以进一步深入学习。\n\n![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081808.webp)\n"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "文章与视频",
+  "slug": "wen-zhang-yu-shi-pin",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 228,
+      "issueTitle": "科技爱好者周刊（第 228 期）：人类和人生的意义",
+      "content": "\n1、[中国科学论文三大指标跃居世界第一](https://cn.nikkei.com/industry/scienceatechnology/49484-2022-08-10-01-58-20.html)（中文）\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102601.webp)\n\n日本媒体报道，自然科学领域研究论文的三个重要指标——论文总数，引用次数排名前10%的论文、排名前1%的论文——中国全都排名2019年的世界第一，超过美国。\n\n2、[为 Chromium 实现 HEVC 硬解](https://zhuanlan.zhihu.com/p/541082191)（中文）\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102602.webp)\n\n字节跳动工程师和 Intel 工程师合作，为 Chrome 浏览器加上 HEVC 支持，也就是支持 H.265 视频编码，该功能已经发布在最新的 Chrome 107。\n\nChrome 之所以一直不加这个功能，是因为 H.265 解码器需要付费。这次的实现很聪明，调用了系统的解码能力，不涉及付费问题。\n\n3、[Pico 4 真实体验](https://www.bilibili.com/video/BV1ZN4y1w7Br/)（视频）\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102007.webp)\n\n字节新出的 VR 头盔 Pico 4，规格很诱人，作者亲身体验后，却发现存在诸多问题。这个是 B 站视频，另有 [Youtube 网址](https://www.youtube.com/watch?v=9JcNZHrVO8w)。\n\n4、[JavaScript 的月份为什么从 0 开始](https://www.jefftk.com/p/history-of-zero-based-months)（英文）\n\nJavaScript 的月份是从0开始计数。本文追溯这种做法的源头，谁第一个用0代表1月份。另可参考这篇[长推文](https://twitter.com/hillelogram/status/1329228419628998665)。\n\n5、[禁止 Cookie 会发生什么](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/)（英文）\n\n如果禁止 Chrome 浏览器保存 Cookie，很多相关 API 都将一起关闭，比如 localStorage 和 IndexedDB，导致很多网站根本无法使用。\n\n6、[用 JavaScript 追踪飞机信号](https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb/)（英文）\n\n![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090301.webp)\n\n本文介绍使用 Web USB API，让浏览器读取 USB 设备，接收飞机发出 ADS-B 信号。\n\n7、[安卓 Firefox 浏览器如何安装插件](https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/)（英文）\n\n![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102012.webp)\n\nFirefox 的安卓版现在有一个功能，可以在电脑上选定一组插件，然后在手机上一次性安装。\n\n8、[一张图表，一个信息](https://datadino.substack.com/p/one-idea-per-chart)（英文）\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082910.webp)\n\n可视化图表的一个问题就是太复杂，不容易看懂（上图）。本文用实例解释，一张图表只适合表达一个信息，如果信息太多，就应该拆分图表。\n\n9、[macOS 开启 sudo 的指纹认证](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)（英文）\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082701.webp)\n\nsudo 命令需要输入根用户的密码，macOS 支持用指纹替代 sudo 密码。\n"
+    }
+  ]
+}

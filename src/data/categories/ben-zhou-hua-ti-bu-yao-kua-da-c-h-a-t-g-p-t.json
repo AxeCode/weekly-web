@@ -1,0 +1,12 @@
+{
+  "name": "本周话题：不要夸大 ChatGPT",
+  "slug": "ben-zhou-hua-ti-bu-yao-kua-da-c-h-a-t-g-p-t",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 248,
+      "issueTitle": "科技爱好者周刊（第 248 期）：不要夸大 ChatGPT",
+      "content": "\nChatGPT 问世只有几个月，大家有没有发现，舆论的调门越来越高。\n\n人们最初的震惊和赞叹，逐渐变成了非理性的鼓吹，很多人言之凿凿，断定 ChatGPT 将重塑人类社会。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032804.webp)\n\n举例来说，[《经济学人》杂志](https://redian.news/wxnews/269433)称它会“翻天覆地”。\n\n> “GPT 也完全可以是 general-purpose technology（通用技术）的缩写：一种翻天覆地的创新，可以像汽机、电力和计算机一样提升各行各业的生产率。”\n\n一个国内的作者则[说](https://www.163.com/dy/article/I0OFPKOV05561KQ6.html)，它会“席卷一切”。\n\n> “ChatGPT 带来的这场风暴，正在席卷一切。\n> \n> 随着不断的技术提升，可以预见，GPT类型的 AI，未来能替代的，也许是全行业！”\n\n还有人担心它会淘汰人类，有的文章标题堪称惊悚，《[AI 狂飙的时代，人还有价值吗？](https://www.bohaishibei.com/post/81415/)》。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032802.webp)\n\n[微博的“热门文章”](https://s.weibo.com/article?q=chatgpt%20%E6%9C%AA%E6%9D%A5)列表，也是满满的生存焦虑。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032801.webp)\n\n这种情绪反映在金融市场，就是“ChatGPT 概念股”被狂炒。一直微利 + 亏损的“汉王科技”，就在 ChatGPT 问世后，股价从11元炒到了40元。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032803.webp)\n\n我有一种感觉，ChatGPT 已经神化了，仿佛无所不能。\n\n今天就来谈谈这件事，我要说，**ChatGPT 确实很神奇，是划时代的技术创新，但是不应该无限夸大。**\n\nChatGPT 有其局限，很多事情它做不到。[有人说](https://36kr.com/p/2149318642305545)，ChatGPT 标志着机器取代人类的“奇点时刻”，这是不对的。\n\n他们忽略了最关键的一点：**ChatGPT 不是“通用人工智能”，而是一个语言模型。**\n\n“通用人类智能”（artificial general intelligence，简写 AGI）是 AI 的终极目标，就是造出可以像人类那样全方位的推理、思考、分析的机器。如果能实现，人类就真的危险了。\n\n但是，ChatGPT 不是 AGI，而是一个 LLM（Large Language Models，大规模语言模型）。所谓“语言模型”，就是只用来处理语言文字（或者符号体系）的 AI 模型，发现其中的规律，可以根据提示（prompt），自动生成符合这些规律的内容。\n\n这就是说，**ChatGPT 只适用于有成文符号的领域。** 这带来两个局限。\n\n（1）如果某个领域是非成文的，不能用符号记录表达，那么 ChatGPT 就无能为力。比如，人类的很多心理活动、潜意识、灵感、顿悟等等，ChatGPT 就没法模拟生成。\n\n（2）第二个局限更致命，ChatGPT 要用现有的文字材料进行训练，发现的是那些材料包含的规律。这意味着，它不能生成超出人类已知规律的东西。\n\n举例来说，**它不能证明未解决的数学猜想，也不能提出没有人发现过的科学发现。**\n\n即使我们把历史上所有的数学论文，都用来训练 ChatGPT，它也无法证明黎曼猜想。因为那些论文只会教它现有的证明方法，而黎曼猜想需要新方法。\n\n![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032805.webp)\n\nChatGPT 的底层技术是 GPT，全称为“生成式预训练转换器”（Generative pre-trained transformer），凡是使用该技术的 AI 模型都有同样的问题：**它们只能掌握已知的模式，无法生成未知的模式。**\n\n所以，真正“前无古人”的创新，这一类 AI 模型做不到，还是必须依靠人类的智慧。\n\n另外，这里还有一个逻辑悖论。如果 ChatGPT 真的强大到“席卷一切”，将来绝大多数文档都用它来生成，其实反而会带来它的衰亡。大家这么想，到了那个时候我们拿什么材料训练 AI 呢？毕竟 AI 只有拿人类的作品训练，才能模拟人类智能。\n\n总之，ChatGPT 是一个划时代的工具，所有模式化的人类工作，都面临空前的挑战。\n\n但是，人类生活还有很多非模式化的部分，尤其是人类的创新能力，ChatGPT 触及不了这个部分，所以它对社会的改变，不宜过分夸大。\n"
+    }
+  ]
+}

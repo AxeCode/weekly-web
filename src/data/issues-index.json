@@ -1,0 +1,7541 @@
+[
+  {
+    "id": 387,
+    "title": "科技爱好者周刊（第 387 期）：你是领先的",
+    "categories": [
+      "封面图",
+      "你是领先的",
+      "OpenClaw 的安全",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202603/bg2026030503.webp",
+    "summary": "世界总人口现在是81亿，如果画成一个[方块图](https://www.reddit.com/r/vibecoding/comments/1rbqldk/youre_early/)，每个方块代表320万人。"
+  },
+  {
+    "id": 386,
+    "title": "科技爱好者周刊（第 386 期）：当外卖员接入 AI",
+    "categories": [
+      "封面图",
+      "当外卖员接入 AI",
+      "[本周软件] PinMe：去中心化托管服务",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202602/bg2026020702.webp",
+    "summary": "最近，美国有一条[无人驾驶的新闻](https://www.cnbc.com/2026/02/12/waymo-is-paying-doordash-gig-workers-to-close-its-robotaxi-doors.html)，引起很大反响。"
+  },
+  {
+    "id": 385,
+    "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
+    "categories": [
+      "封面图",
+      "马斯克害怕中国车企吗？",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202602/bg2026020701.webp",
+    "summary": "两周前，马斯克[宣布](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)，特斯拉公司将停产 Model S 和 Model X 两种车型。"
+  },
+  {
+    "id": 384,
+    "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
+    "categories": [
+      "封面图",
+      "为什么软件股下跌",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202602/bg2026020501.webp",
+    "summary": "大家知道，最近两三年，由于生成式 AI 的出现，美国股市大涨。"
+  },
+  {
+    "id": 383,
+    "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
+    "categories": [
+      "封面图",
+      "你是第几级 AI 编程",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202601/bg2026012103.webp",
+    "summary": "史蒂夫·耶格（Steve Yegge）是一个著名的美国程序员。"
+  },
+  {
+    "id": 382,
+    "title": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
+    "categories": [
+      "封面图",
+      "独立软件的黄昏",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202601/bg2026011611.webp",
+    "summary": "软件可以分成两种：一种是公司开发的，另一种是个人开发的。后者就称为“独立软件”（indie software）。"
+  },
+  {
+    "id": 381,
+    "title": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
+    "categories": [
+      "封面图",
+      "中国 AI 大模型领导者在想什么",
+      "一、唐杰的发言",
+      "二、林俊旸的发言",
+      "三、姚顺雨的发言",
+      "四、圆桌对话：中国 AI 的未来",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202601/bg2026011024.webp",
+    "summary": "上周六（1月10日），北京有一场“AGI-Next 前沿峰会”，由清华大学基础模型实验室主办。"
+  },
+  {
+    "id": 380,
+    "title": "科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”",
+    "categories": [
+      "封面图",
+      "为什么人们拥抱“不对称收益”",
+      "新人上手 Claude Code 的简单方案",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202512/bg2025121403.webp",
+    "summary": "前两周，我跟大家说，美国现在最流行“[预测市场](https://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html)”。我当时没有统计数字，现在有了。"
+  },
+  {
+    "id": 379,
+    "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
+    "categories": [
+      "封面图",
+      "《硅谷钢铁侠》摘录",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202512/bg2025122503.webp",
+    "summary": "最近，我读了一本十年前的马斯克传记[《硅谷钢铁侠》](https://book.douban.com/subject/26759508/)（中信出版社，2016）。"
+  },
+  {
+    "id": 378,
+    "title": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
+    "categories": [
+      "封面图",
+      "预测是新的互联网热点",
+      "国产 Nano Banana Pro 的图片幻灯片生成",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202512/bg2025121101.webp",
+    "summary": "大家大概想不到，美国互联网的热点，现在不是 AI 网站，而是一种全新的网站，叫做“[预测市场](https://en.wikipedia.org/wiki/Prediction_market)”（prediction market）。"
+  },
+  {
+    "id": 377,
+    "title": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
+    "categories": [
+      "封面图",
+      "14万美元的贫困线",
+      "任正非最新谈话",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202512/bg2025120701.webp",
+    "summary": "一个人需要多少钱，才能摆脱贫困？"
+  },
+  {
+    "id": 376,
+    "title": "科技爱好者周刊（第 376 期）：太空数据中心的争议",
+    "categories": [
+      "封面图",
+      "太空数据中心的争议",
+      "[本周软件] 七牛云的大模型接入服务",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202512/bg2025120304.webp",
+    "summary": "AI 大发展，数据中心不够用了，建造和运营成本飞涨。"
+  },
+  {
+    "id": 375,
+    "title": "科技爱好者周刊（第 375 期）：一扇门的 Bug",
+    "categories": [
+      "封面图",
+      "一扇门的 Bug",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202511/bg2025112516.webp",
+    "summary": "最离奇的软件 Bug，你听说过哪些？"
+  },
+  {
+    "id": 374,
+    "title": "科技爱好者周刊（第 374 期）：6GHz 的问题",
+    "categories": [
+      "封面图",
+      "6GHz 的问题",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202511/bg2025111209.webp",
+    "summary": "本周的[新闻](https://www.lightreading.com/wifi/mobile-operators-beat-wi-fi-for-upper-6ghz-in-europe)，欧洲做出决定，6GHz 怎么分配。"
+  },
+  {
+    "id": 373,
+    "title": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
+    "categories": [
+      "封面图",
+      "数据模型是新产品的核心",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202511/bg2025111108.webp",
+    "summary": "（1）"
+  },
+  {
+    "id": 372,
+    "title": "科技爱好者周刊（第 372 期）：软件界面如何设计",
+    "categories": [
+      "封面图",
+      "软件界面如何设计",
+      "[本周软件] NocoBase",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202511/bg2025110503.webp",
+    "summary": "（1）"
+  },
+  {
+    "id": 371,
+    "title": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
+    "categories": [
+      "封面图",
+      "一个乐观主义者的专访",
+      "AI 驱动的开源知识库 PandaWiki",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202510/bg2025103001.webp",
+    "summary": "（1）"
+  },
+  {
+    "id": 370,
+    "title": "科技爱好者周刊（第 370 期）：正确的代码高亮",
+    "categories": [
+      "封面图",
+      "正确的代码高亮",
+      "大模型 API 怎么买",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202510/bg2025102301.webp",
+    "summary": "程序员一般都使用代码高亮，就是代码有不同的颜色（下图），方便阅读。"
+  },
+  {
+    "id": 369,
+    "title": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
+    "categories": [
+      "封面图",
+      "Tim 与罗永浩的对谈",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202510/bg2025101607.webp",
+    "summary": "10月10日，罗永浩的新节目《罗永浩的十字路口》，邀请了嘉宾“影视飓风”创始人 Tim（[潘天鸿](https://baike.baidu.com/item/%E6%BD%98%E5%A4%A9%E9%B8%BF/59401766)）。"
+  },
+  {
+    "id": 368,
+    "title": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
+    "categories": [
+      "封面图",
+      "不要这样管理软件团队",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202510/bg2025100401.webp",
+    "summary": "我读到[一篇文章](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)，讨论软件团队怎么管理，写得很好。"
+  },
+  {
+    "id": 367,
+    "title": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
+    "categories": [
+      "封面图",
+      "Nano Banana 的几个妙用",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202509/bg2025092501.webp",
+    "summary": "上个月，谷歌发布了图像模型 Gemini 2.5 Flash Image（项目名 [Nano Banana](https://aistudio.google.com/models/gemini-2-5-flash-image)）。"
+  },
+  {
+    "id": 366,
+    "title": "科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告",
+    "categories": [
+      "封面图",
+      "旧金山疯狂的 AI 广告",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202509/bg2025091801.webp",
+    "summary": "上期周刊提到，旧金山有一个广告牌，上面是一个谜语，指向某个 AI 公司的网址。"
+  },
+  {
+    "id": 365,
+    "title": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
+    "categories": [
+      "封面图",
+      "流量变现正在崩塌",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202509/bg2025091001.webp",
+    "summary": "上周，Cloudflare 创始人兼 CEO 马修·普林斯（Matthew Prince）接受了[访谈](https://stratechery.com/2025/an-interview-with-cloudflare-founder-and-ceo-matthew-prince-about-in..."
+  },
+  {
+    "id": 364,
+    "title": "科技爱好者周刊（第 364 期）：最难还原的魔方",
+    "categories": [
+      "封面图",
+      "最难还原的魔方",
+      "[本周软件] GeeLark：跨境营销的 AI 助理",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202508/bg2025083002.webp",
+    "summary": "说来奇怪，我认识的很多程序员，平时看上去没有共同点，但是一问，他们都喜欢魔方。"
+  },
+  {
+    "id": 363,
+    "title": "科技爱好者周刊（第 363 期）：最好懂的神经网络解释",
+    "categories": [
+      "封面图",
+      "最好懂的神经网络解释",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202508/bg2025082708.webp",
+    "summary": "神经网络是 AI 的算法基础。"
+  },
+  {
+    "id": 362,
+    "title": "科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计",
+    "categories": [
+      "封面图",
+      "GitHub 工程师谈系统设计",
+      "谷歌的两个 AI 新产品",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202506/bg2025082101.webp",
+    "summary": "上周，我读到一篇文章，作者是 GitHub 的高级工程师[肖恩·戈德克](https://www.seangoedecke.com/)（sean goedecke）。"
+  },
+  {
+    "id": 361,
+    "title": "科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？",
+    "categories": [
+      "封面图",
+      "暗网 Tor 安全吗？",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202508/bg2025081404.webp",
+    "summary": "1、"
+  },
+  {
+    "id": 360,
+    "title": "科技爱好者周刊（第 360 期）：Dan Wang 的新书",
+    "categories": [
+      "封面图",
+      "Dan Wang 的新书",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "大模型的比较",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202508/bg2025080704.webp",
+    "summary": "Dan Wang（我不知道他的中文名），7岁随家人移民北美，现在是知名的经济分析师，在斯坦福大学胡佛研究所任研究员。"
+  },
+  {
+    "id": 359,
+    "title": "科技爱好者周刊（第 359 期）：Palantir 值得关注",
+    "categories": [
+      "封面图",
+      "Palantir 值得关注",
+      "AI 编程助手缺什么",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202507/bg2025073011.webp",
+    "summary": "Palantir（中译帕兰提尔，或者帕兰泰尔）是一家美国的高科技公司。"
+  },
+  {
+    "id": 358,
+    "title": "科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司",
+    "categories": [
+      "封面图",
+      "如何拯救一家濒临倒闭的创业公司",
+      "IP 地址池 Netnut",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202507/bg2025072406.webp",
+    "summary": "上周，[Medium.com](https://medium.com) 的 CEO 发表了[一篇长文](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f)，透露2022年曾经濒临倒闭。"
+  },
+  {
+    "id": 357,
+    "title": "科技爱好者周刊（第 357 期）：稳定币的博弈",
+    "categories": [
+      "封面图",
+      "稳定币的博弈",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202507/bg2025071601.webp",
+    "summary": "稳定币（stable coin）是最近的热点，新闻媒体不断提及。"
+  },
+  {
+    "id": 356,
+    "title": "科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办",
+    "categories": [
+      "封面图",
+      "公司强推 AI 编程，我该怎么办",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202507/bg2025070311.webp",
+    "summary": "前两天，“黑客新闻”论坛有一个[求助帖](https://news.ycombinator.com/item?id=44468375)。"
+  },
+  {
+    "id": 355,
+    "title": "科技爱好者周刊（第 355 期）：两本《芯片战争》",
+    "categories": [
+      "封面图",
+      "两本《芯片战争》",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202507/bg2025070201.webp",
+    "summary": "前些日子，我想找芯片知识的书籍，想起有一本很有名的畅销书，叫做《芯片战争》。"
+  },
+  {
+    "id": 354,
+    "title": "科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？",
+    "categories": [
+      "封面图",
+      "8000mAh 手机电池，说明了什么？",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202506/bg2025061805.webp",
+    "summary": "大家发现了吗，手机的电池正在越变越大。"
+  },
+  {
+    "id": 353,
+    "title": "科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR",
+    "categories": [
+      "封面图",
+      "苹果的“液态玻璃”是为了 AR",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202506/bg2025061804.webp",
+    "summary": "上周，苹果公司发布了新的设计风格“液态玻璃”（liquid glass）。"
+  },
+  {
+    "id": 352,
+    "title": "科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子",
+    "categories": [
+      "封面图",
+      "Bug 追踪系统的正确样子",
+      "[本周软件] 开源知识库 PandaWiki",
+      "任正非专访",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202506/bg2025060801.webp",
+    "summary": "上周的话题是 [GitHub Issues](https://github.com/features/issues)，把它当作笔记工具，很强悍。"
+  },
+  {
+    "id": 351,
+    "title": "科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用",
+    "categories": [
+      "封面图",
+      "GitHub Issues（几乎）是最好的笔记应用",
+      "[活动] 稀土掘金“夏日寻宝”",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202506/bg2025060101.webp",
+    "summary": "[Issues](https://github.com/features/issues) 是 GitHub 的 Bug 管理工具，所有代码仓库都默认启用。"
+  },
+  {
+    "id": 350,
+    "title": "科技爱好者周刊（第 350 期）：Java 三十周年",
+    "categories": [
+      "封面图",
+      "Java 三十周年",
+      "高斯林口述历史",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "Computex 的奇特 PC",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202505/bg2025052506.webp",
+    "summary": "上周是 Java 语言诞生三十周年。1995年5月23日，Sun 公司正式发布了这种语言。"
+  },
+  {
+    "id": 349,
+    "title": "科技爱好者周刊（第 349 期）：神经网络算法的发明者",
+    "categories": [
+      "封面图",
+      "神经网络算法的发明者",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202505/bg2025052105.webp",
+    "summary": "上周的[《李飞飞自传》读后感](https://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html)，还有后续。"
+  },
+  {
+    "id": 348,
+    "title": "科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星",
+    "categories": [
+      "封面图",
+      "李飞飞，从移民到 AI 明星",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202505/bg2025051203.webp",
+    "summary": "大家知道[李飞飞](https://baike.baidu.com/item/%E6%9D%8E%E9%A3%9E%E9%A3%9E/7448630)吧，AI 的明星教授。"
+  },
+  {
+    "id": 347,
+    "title": "科技爱好者周刊（第 347 期）：冷启动的破解之道",
+    "categories": [
+      "封面图",
+      "冷启动的破解之道",
+      "万「友」引力计划：7天倒计时",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202505/bg2025050702.webp",
+    "summary": "新软件有一个超级难题，就是**发布的时候，没有用户**。"
+  },
+  {
+    "id": 346,
+    "title": "科技爱好者周刊（第 346 期）：未来就是永恒感的丧失",
+    "categories": [
+      "封面图",
+      "未来就是永恒感的丧失",
+      "Trae 的 万「友」引力计划",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "日本木匠大会",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202504/bg2025042102.webp",
+    "summary": "有一类人叫做未来学家（Futurists），专门研究未来。"
+  },
+  {
+    "id": 345,
+    "title": "科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了",
+    "categories": [
+      "封面图",
+      "HDMI 2.2 影音可能到头了",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "生成随机数的波浪机",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202504/bg2025041104.webp",
+    "summary": "今年一月，有一个消息，大家可能没关注，那就是 HDMI 接口发布了[2.2版](https://finance.sina.com.cn/tech/roll/2025-01-07/doc-ineeeanv7947700.shtml)。"
+  },
+  {
+    "id": 344,
+    "title": "科技爱好者周刊（第 344 期）：制造业正在“零工化”",
+    "categories": [
+      "封面图",
+      "制造业正在“零工化”",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "GPT-4o 惊人的作图功能",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202504/bg2025040904.webp",
+    "summary": "本周分享一篇北京大学[张丹丹](https://www.nsd.pku.edu.cn/szdw/qzjs/z/262201.htm)老师的[文章](https://mp.weixin.qq.com/s/Td3LiMgqR36PPpd36rjBAg)。"
+  },
+  {
+    "id": 343,
+    "title": "科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫",
+    "categories": [
+      "封面图",
+      "如何阻止 AI 爬虫",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202503/bg2025032602.webp",
+    "summary": "AI 大模型公司，正在疯狂收集训练数据。"
+  },
+  {
+    "id": 342,
+    "title": "科技爱好者周刊（第 342 期）：面试的 AI 作弊——用数字人去面试",
+    "categories": [
+      "封面图",
+      "面试的 AI 作弊：用数字人去面试",
+      "AI 编程创意挑战赛",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202503/bg2025032010.webp",
+    "summary": "大家肯定想到了，AI 的能力现在这么强，一定有人用来作弊。"
+  },
+  {
+    "id": 341,
+    "title": "科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功",
+    "categories": [
+      "封面图",
+      "低代码编程，恐怕不会成功",
+      "小程序容器 FinClip",
+      "[活动] AI 创意挑战赛，开始投票了",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202503/bg2025031213.webp",
+    "summary": "这十几年，一批批程序员前仆后继，去搞低代码编程（包括无代码编程）。光在我身边，就有三四批。"
+  },
+  {
+    "id": 340,
+    "title": "科技爱好者周刊（第 340 期）：技术炒作三十年",
+    "categories": [
+      "封面图",
+      "技术炒作三十年",
+      "[活动] AI FOR CODE 创意挑战赛",
+      "修复壁画的新方法",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202503/bg2025030508.webp",
+    "summary": "大家有没有发现，每隔一段时间，媒体就会大肆炒作一种新技术，宣扬它将对人类产生巨大影响，全社会都在关注，人人都在谈论。"
+  },
+  {
+    "id": 339,
+    "title": "科技爱好者周刊（第 339 期）：代币是什么",
+    "categories": [
+      "封面图",
+      "代币是什么",
+      "GeeLark 云手机",
+      "[活动] AI FOR CODE 创意挑战赛",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202502/bg2025022708.webp",
+    "summary": "现在，媒体经常出现一个词“代币”（token），今天就来谈谈这是什么？"
+  },
+  {
+    "id": 338,
+    "title": "科技爱好者周刊（第 338 期）：重新思考 6G",
+    "categories": [
+      "图片",
+      "重新思考 6G",
+      "AI 动态（两则）",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 工具",
+      "资源",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "",
+    "summary": "上周，国际电气电子工程师学会（IEEE）的网络杂志《科技纵览》（IEEE Spectrum），发表了一篇文章[《重新思考 6G》](https://spectrum.ieee.org/5g-bandwidth)。"
+  },
+  {
+    "id": 337,
+    "title": "科技爱好者周刊（第 337 期）：互联网创业几乎没了",
+    "categories": [
+      "封面图",
+      "互联网创业几乎没了",
+      "火山引擎 DeepSeek API 介绍",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202501/bg2025012502.webp",
+    "summary": "上周我写了，[AI 削弱互联网](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)，网站行业前景黯淡。"
+  },
+  {
+    "id": 336,
+    "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
+    "categories": [
+      "封面图",
+      "面对 AI，互联网正在衰落",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202501/bg2025013001.webp",
+    "summary": "这一段日子，新闻焦点全是 DeepSeek，其他重要事件就不显眼了。"
+  },
+  {
+    "id": 335,
+    "title": "科技爱好者周刊（第 335 期）：年底的未来已来",
+    "categories": [
+      "封面图",
+      "年底的未来已来",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202501/bg2025011515.webp",
+    "summary": "大概两周前，我就在想，龙年的最后一期周刊，要写什么？"
+  },
+  {
+    "id": 334,
+    "title": "科技爱好者周刊（第 334 期）：年终笔记四则",
+    "categories": [
+      "封面图",
+      "年终笔记四则",
+      "[本周软件] Midscene.js：浏览器自动化利器",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202501/bg2025011608.webp",
+    "summary": "下面是过去的笔记，我读到有意思的文章时，记录下来的感想，每一则都不长。"
+  },
+  {
+    "id": 333,
+    "title": "科技爱好者周刊（第 333 期）：一切都要支付两次",
+    "categories": [
+      "封面图",
+      "一切都要支付两次",
+      "语义防火墙：雷池 WAF 升级",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202501/bg2025010604.webp",
+    "summary": "有一句古语“[书非借不能读也](https://baike.baidu.com/item/黄生借书说/11002602)”，大家可能都听过。"
+  },
+  {
+    "id": 332,
+    "title": "科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈",
+    "categories": [
+      "封面图",
+      "西蒙·威利森的年终总结，梁文锋的访谈",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202501/bg2025010104.webp",
+    "summary": "英国程序员西蒙·威利森（Simon Willison）最近两年非常出名，[他的个人网站](https://simonwillison.net)有很多文章，介绍 AI 的最新进展。"
+  },
+  {
+    "id": 331,
+    "title": "科技爱好者周刊（第 331 期）：你可能是一个 NPC",
+    "categories": [
+      "封面图",
+      "你可能是一个 NPC",
+      "AI 编程挑战赛，即将报名截止",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202412/bg2024122501.webp",
+    "summary": "最近，美国发生了一起轰动的大案，一家医疗保险公司的 CEO 当街[被人击杀](https://finance.sina.com.cn/stock/usstock/c/2024-12-11/doc-inczawih7483083.shtml)。"
+  },
+  {
+    "id": 330,
+    "title": "科技爱好者周刊（第 330 期）：李开复梳理人工智能",
+    "categories": [
+      "封面图",
+      "李开复梳理人工智能",
+      "豆包 MarsCode 动手实验室（杭州站）",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202412/bg2024121703.webp",
+    "summary": "前些日子，我读了李开复老师的两本书：《AI·未来》（浙江人民出版社，2018）和《AI·未来进行式》（浙江人民出版社，2022）。"
+  },
+  {
+    "id": 329,
+    "title": "科技爱好者周刊（第 329 期）：示意图利器 D2",
+    "categories": [
+      "封面图",
+      "示意图利器 D2",
+      "[活动] AI 编程挑战赛",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202412/bg2024121117.webp",
+    "summary": "制作示意图的工具有很多。"
+  },
+  {
+    "id": 328,
+    "title": "科技爱好者周刊（第 328 期）：AI 模型不是一门好生意",
+    "categories": [
+      "封面图",
+      "AI 模型不是一门好生意",
+      "豆包 MarsCode 系列活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202412/bg2024120405.webp",
+    "summary": "微软的 [Microsoft 365](https://finance.sina.com.cn/tech/digi/2024-11-05/doc-incuzhax4326302.shtml) 最近涨价了，涨幅最高的地区为41%。"
+  },
+  {
+    "id": 327,
+    "title": "科技爱好者周刊（第 327 期）：没有链接的互联网",
+    "categories": [
+      "封面图",
+      "没有链接的互联网",
+      "[本周软件] 扣子 Project IDE",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202411/bg2024112802.webp",
+    "summary": "你能想象吗，没有链接的互联网是什么样？"
+  },
+  {
+    "id": 326,
+    "title": "科技爱好者周刊（第 326 期）：世界没有那么多财富",
+    "categories": [
+      "封面图",
+      "世界没有那么多财富",
+      "[本周软件] Rspack 工具栈",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202411/bg2024111911.webp",
+    "summary": "维基百科有一个页面“[人均财富排名](https://en.wikipedia.org/wiki/List_of_countries_by_wealth_per_adult)”。"
+  },
+  {
+    "id": 325,
+    "title": "科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？",
+    "categories": [
+      "封面图",
+      "VS Code 编辑器的下一站是 Zed？",
+      "［本周软件］302.AI",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202411/bg2024110513.webp",
+    "summary": "程序员离不开编辑器，眼下最流行的代码编辑器肯定是 VS Code。"
+  },
+  {
+    "id": 324,
+    "title": "科技爱好者周刊（第 324 期）：人类已知的最大质数",
+    "categories": [
+      "封面图",
+      "人类已知的最大质数",
+      "活动",
+      "豆包 MarsCode 校园发布会",
+      "[竞赛] 扣子 AI 挑战赛",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202411/bg2024110209.webp",
+    "summary": "上个月，有一个不太引人注目的科学发现：[人类已知的最大质数](https://www.163.com/dy/article/JF9HFDUG0514B52J.html)诞生了。"
+  },
+  {
+    "id": 323,
+    "title": "科技爱好者周刊（第 323 期）：技术公司的口号比拼",
+    "categories": [
+      "封面图",
+      "技术公司的口号比拼",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202410/bg2024101905.webp",
+    "summary": "技术公司一般有一个口号（slogan），用来介绍自己。"
+  },
+  {
+    "id": 322,
+    "title": "科技爱好者周刊（第 322 期）：内容行业的内幕",
+    "categories": [
+      "封面图",
+      "内容行业的内幕",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202410/bg2024100806.webp",
+    "summary": "有一个行业，这些年蒸蒸日上，快速增长，加入的人越来越多。"
+  },
+  {
+    "id": 321,
+    "title": "科技爱好者周刊（第 321 期）：傅盛回忆录",
+    "categories": [
+      "封面图",
+      "傅盛回忆录",
+      "[活动] 码上奇妙夜",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202410/bg2024101507.webp",
+    "summary": "傅盛是谁？[百度百科](https://money.163.com/baike/fusheng/)是这样写的。"
+  },
+  {
+    "id": 320,
+    "title": "科技爱好者周刊（第 320 期）：乒乓仓",
+    "categories": [
+      "封面图",
+      "乒乓仓",
+      "[活动] 叠纸技术周",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202410/bg2024100805.webp",
+    "summary": "如果有人给你一笔钱，让你准备一个商业计划，你会选择什么项目？"
+  },
+  {
+    "id": 319,
+    "title": "科技爱好者周刊（第 319 期）：如何拍出爆款视频",
+    "categories": [
+      "封面图",
+      "如何拍出爆款视频",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202409/bg2024092603.webp",
+    "summary": "MrBeast 是美国第一网红，可能也是世界第一网红。他是 Youtube 订阅者最多的频道，2024年9月拥有3.17亿粉丝。"
+  },
+  {
+    "id": 318,
+    "title": "科技爱好者周刊（第 318 期）：创业咖啡馆的记忆",
+    "categories": [
+      "封面图",
+      "创业咖啡馆的记忆",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202409/bg2024091402.webp",
+    "summary": "上周末，媒体在[谈论](https://finance.sina.com.cn/wm/2024-09-14/doc-incpcuqh8269932.shtml)中国风险投资的现状。我不禁想起，它曾经多么火爆。"
+  },
+  {
+    "id": 317,
+    "title": "科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言",
+    "categories": [
+      "封面图",
+      "驴子、老虎和狮子的寓言",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202409/bg2024091222.webp",
+    "summary": "本周看到一个很有趣的[寓言](https://philosophicsblog.wordpress.com/2022/06/30/lions-and-tigers-and-a-jackass/)，分享给大家。"
+  },
+  {
+    "id": 316,
+    "title": "科技爱好者周刊（第 316 期）：你一生的故事",
+    "categories": [
+      "封面图",
+      "你一生的故事",
+      "[数码荔枝活动] JetBrains 全家福折扣",
+      "科技动态",
+      "文章",
+      "工具",
+      "照片管理软件",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202408/bg2024082216.webp",
+    "summary": "几年前，我读过一篇科幻小说，名字叫做《你一生的故事》（Story of your Life），有中译本。"
+  },
+  {
+    "id": 315,
+    "title": "科技爱好者周刊（第 315 期）：一份谷歌离职报告",
+    "categories": [
+      "封面图",
+      "一份谷歌离职报告",
+      "微软工程师的薪资",
+      "[活动通知] 动手练习 AI 编程",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202408/bg2024082605.webp",
+    "summary": "上周，我看到一篇[有趣的文章](https://tinystruggles.com/posts/google_postmortem/)。一位谷歌 SRE 工程师离职了。"
+  },
+  {
+    "id": 314,
+    "title": "科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？",
+    "categories": [
+      "封面图",
+      "《黑神话：悟空》可以产业化吗？",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202408/bg2024082215.webp",
+    "summary": "本周最瞩目的大事，无疑是《黑神话：悟空》的发布。"
+  },
+  {
+    "id": 313,
+    "title": "科技爱好者周刊（第 313 期）：如果新加坡没有空调",
+    "categories": [
+      "封面图",
+      "如果新加坡没有空调",
+      "[活动] ACL 2024 论文分享会",
+      "科技动态",
+      "IP 地址池 Proxy302",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202408/bg2024081417.webp",
+    "summary": "最近半个月，上海的天气是地狱模式。"
+  },
+  {
+    "id": 312,
+    "title": "科技爱好者周刊（第 312 期）：从英特尔看“美国制造”",
+    "categories": [
+      "封面图",
+      "从英特尔看“美国制造”",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202408/bg2024080702.webp",
+    "summary": "上周，英特尔的股价，一天之内[下跌了26%](https://finance.eastmoney.com/a/202408033147242767.html)，是这家公司50年来最糟糕的一天。"
+  },
+  {
+    "id": 311,
+    "title": "科技爱好者周刊（第 311 期）：低利率与长期项目",
+    "categories": [
+      "封面图",
+      "低利率与长期项目",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202407/bg2024072615.webp",
+    "summary": "先说一个经济新闻。"
+  },
+  {
+    "id": 310,
+    "title": "科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术",
+    "categories": [
+      "封面图",
+      "内容农场的 AI 赚钱术",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202407/bg2024072110.webp",
+    "summary": "内容农场指的是，通过炮制大量文章，以骗取点击、赚取流量的网站。"
+  },
+  {
+    "id": 309,
+    "title": "科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃",
+    "categories": [
+      "封面图",
+      "无人驾驶出租车的双面刃",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202407/bg2024071817.webp",
+    "summary": "[武汉的无人驾驶出租车](https://finance.sina.cn/chanjing/gdxw/2024-07-08/detail-inccpaqm8845132.d.html)，是最近的热点新闻。"
+  },
+  {
+    "id": 308,
+    "title": "科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？",
+    "categories": [
+      "封面图",
+      "工作找不到，博士能读吗？",
+      "[本周精选] AI 超市 302.AI",
+      "科技动态",
+      "文章",
+      "工具",
+      "关于 AI",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202407/bg2024071107.jpg",
+    "summary": "最近几年，我国的博士招生数量急剧增长。"
+  },
+  {
+    "id": 307,
+    "title": "科技爱好者周刊（第 307 期）：不要看重 Product Hunt",
+    "categories": [
+      "封面图",
+      "不要看重 Product Hunt",
+      "上周末，稀土开发者大会",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202407/bg2024070203.webp",
+    "summary": "[Product Hunt](https://www.producthunt.com/) 是一个美国网站，专门分享新产品。"
+  },
+  {
+    "id": 306,
+    "title": "科技爱好者周刊（第 306 期）：信息就像糖一样上瘾",
+    "categories": [
+      "封面图",
+      "信息就像糖一样上瘾",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202406/bg2024062704.webp",
+    "summary": "工业革命有一个很少人提到的后果，就是人类可以大量生产糖了。"
+  },
+  {
+    "id": 305,
+    "title": "科技爱好者周刊（第 305 期）：随机数，这是一个问题",
+    "categories": [
+      "封面图",
+      "随机数，这是一个问题",
+      "下周五，稀土开发者大会",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202406/bg2024061403.webp",
+    "summary": "今天谈谈，怎么生成真正的随机数。"
+  },
+  {
+    "id": 304,
+    "title": "科技爱好者周刊（第 304 期）：最受欢迎的颜色",
+    "categories": [
+      "封面图",
+      "最受欢迎的颜色",
+      "如何配置家庭资产",
+      "科技动态",
+      "文章",
+      "AI 相关",
+      "[活动] 线下 AI 游园会",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202406/bg2024061025.jpg",
+    "summary": "人类作为一个群体，有没有最受欢迎的颜色？"
+  },
+  {
+    "id": 303,
+    "title": "科技爱好者周刊（第 303 期）：技术封建主义",
+    "categories": [
+      "封面图",
+      "技术封建主义",
+      "稀土开发者大会：分论坛和 AI 免费票",
+      "科技动态",
+      "文章",
+      "AI 相关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202406/bg2024060301.webp",
+    "summary": "今天，介绍一本2024年的新书，在国外非常走红，因为提出了一个全新观点。"
+  },
+  {
+    "id": 302,
+    "title": "科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了",
+    "categories": [
+      "封面图",
+      "创业虽然好，不敢推荐了",
+      "[活动] 稀土开发者大会2024",
+      "科技动态",
+      "雷池：网站防护软件",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202405/bg2024053001.webp",
+    "summary": "保罗·格拉汉姆（Paul Graham）是美国著名的“创业导师”，孵化过很多大名鼎鼎的互联网公司，比如 Airbnb、Reddit、Dropbox 等等。"
+  },
+  {
+    "id": 301,
+    "title": "科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位",
+    "categories": [
+      "封面图",
+      "OpenAI 的图书馆工位",
+      "2024稀土开发者大会",
+      "科技动态",
+      "AI 相关",
+      "AI 体验营",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202405/bg2024052207.webp",
+    "summary": "OpenAI 是眼下最炙手可热、排名第一的 AI 公司。"
+  },
+  {
+    "id": 300,
+    "title": "科技爱好者周刊（第 300 期）：三十年，解决人生三大问题",
+    "categories": [
+      "封面图",
+      "三十年，解决人生三大问题",
+      "活动",
+      "科技动态",
+      "文章",
+      "AI 相关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202405/bg2024051501.webp",
+    "summary": "我最近看到[一篇文章](https://huyenchip.com/2024/04/17/personal-growth.html)，很有意思，分享给大家。"
+  },
+  {
+    "id": 299,
+    "title": "科技爱好者周刊（第 299 期）：AI 的关键是语料",
+    "categories": [
+      "封面图",
+      "AI 的关键是语料",
+      "稀土开发者大会：征集议题和早鸟票",
+      "科技动态",
+      "文章",
+      "AI 相关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202404/bg2024042401.webp",
+    "summary": "大家有没有发现，现在打开新闻，都是 AI 模型的消息。"
+  },
+  {
+    "id": 298,
+    "title": "科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了",
+    "categories": [
+      "封面图",
+      "轮到硬件工程师吃香了",
+      "科技动态",
+      "文章",
+      "AI 相关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202404/bg2024041903.webp",
+    "summary": "这一周，我看到一个[美国的招聘数据](https://twitter.com/aznweng/status/1780594562597081362)，跟大家分享一下。"
+  },
+  {
+    "id": 297,
+    "title": "科技爱好者周刊（第 297 期）：饮水鸟玩具",
+    "categories": [
+      "封面图",
+      "饮水鸟玩具",
+      "掘金动手实验室：HarmonyOS 活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "AI 相关",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202404/bg2024041107.webp",
+    "summary": "前几天，我看到有人介绍“饮水鸟”玩具，心痒痒，就从网上买了一个。"
+  },
+  {
+    "id": 296,
+    "title": "科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？",
+    "categories": [
+      "封面图",
+      "xz 后门的作者 Jia Tan 是谁？",
+      "科技动态",
+      "文章",
+      "AI 相关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202404/bg2024040706.webp",
+    "summary": "互联网行业最近的重大事件，莫过于 [xz 软件的后门](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)。"
+  },
+  {
+    "id": 295,
+    "title": "科技爱好者周刊（第 295 期）：巧妙的灯泡钟",
+    "categories": [
+      "封面图",
+      "巧妙的灯泡钟",
+      "HarmonyOS NEXT 的开发方案",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202403/bg2024031801.webp",
+    "summary": "本周，分享一个构思很巧妙的[灯泡钟](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)。"
+  },
+  {
+    "id": 294,
+    "title": "科技爱好者周刊（第 294 期）：崖门海战的感想",
+    "categories": [
+      "封面图",
+      "崖门海战的感想",
+      "小红书实习生招聘",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202403/bg2024031918.webp",
+    "summary": "前一段日子，我在广东旅行，路过江门市。"
+  },
+  {
+    "id": 293,
+    "title": "科技爱好者周刊（第 293 期）：一周是一年的2%",
+    "categories": [
+      "封面图",
+      "一周是一年的2%",
+      "[维苏威古卷](https://scrollprize.org/grandprize)",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202403/bg2024031203.webp",
+    "summary": "纳特·弗里德曼（Nat Friedman）曾经是 GitHub 的 CEO，现在是一名风险投资家。"
+  },
+  {
+    "id": 292,
+    "title": "科技爱好者周刊（第 292 期）：所有代码都是技术债",
+    "categories": [
+      "封面图",
+      "所有代码都是技术债",
+      "葫芦 AI",
+      "科技动态",
+      "文章",
+      "工具",
+      "掘金动手实验室",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202403/bg2024030705.webp",
+    "summary": "代码是公司的资产，公司总是鼓励大家多写代码。但是，很多人（尤其是管理层）没有意识到，**代码也是负债**。"
+  },
+  {
+    "id": 291,
+    "title": "科技爱好者周刊（第 291 期）：AI 没有护城河",
+    "categories": [
+      "封面图",
+      "AI 没有护城河",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202402/bg2024022901.webp",
+    "summary": "上周，魅族手机[突然宣布](https://www.antutu.com/doc/131018.htm)，停止传统的智能手机新项目，All in AI。"
+  },
+  {
+    "id": 290,
+    "title": "科技爱好者周刊（第 290 期）：苹果头盔的最大问题",
+    "categories": [
+      "封面图",
+      "苹果头盔的最大问题",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202402/bg2024020902.webp",
+    "summary": "春节前，苹果公司的 Apple Vision Pro 上架销售了。"
+  },
+  {
+    "id": 289,
+    "title": "科技爱好者周刊（第 289 期）：宽容从何而来",
+    "categories": [
+      "封面图",
+      "宽容从何而来",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202401/bg2024013101.webp",
+    "summary": "今天，我想分享一个[有趣的研究](https://www.psypost.org/2023/02/contrary-to-popular-opinion-people-with-higher-education-level-and-cognitive-ability-are-not-more-tol..."
+  },
+  {
+    "id": 288,
+    "title": "科技爱好者周刊（第 288 期）：技术写作的首要诀窍",
+    "categories": [
+      "封面图",
+      "技术写作的首要诀窍",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202401/bg2024011602.webp",
+    "summary": "技术写作非常重要，产品的开发、推广、维护都需要它。"
+  },
+  {
+    "id": 287,
+    "title": "科技爱好者周刊（第 287 期）：禄丰恐龙谷记行",
+    "categories": [
+      "封面图",
+      "禄丰恐龙谷记行",
+      "掘金年度技术演讲",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202401/bg2024011103.webp",
+    "summary": "前些天，我在云南旅行，去了一次禄丰恐龙谷。"
+  },
+  {
+    "id": 286,
+    "title": "科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案",
+    "categories": [
+      "封面图",
+      "蓝色指示灯的解决方案",
+      "[详细日程] 掘金年度技术演讲",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202401/bg2024010607.webp",
+    "summary": "你注意过吗，电子设备的指示灯是什么颜色？"
+  },
+  {
+    "id": 285,
+    "title": "科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录",
+    "categories": [
+      "封面图",
+      "为什么 PPT 不如备忘录",
+      "掘金年度技术演讲",
+      "[活动消息] 抖音基础技术分享会",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202401/bg2024010316.webp",
+    "summary": "莱克斯·弗里德曼（Lex Fridman）是一个非常有名的美国主持人，他的播客节目影响很大，很多名人都愿意上他的节目，接受专访。"
+  },
+  {
+    "id": 284,
+    "title": "科技爱好者周刊（第 284 期）：YouTube 有多少个视频？",
+    "categories": [
+      "封面图",
+      "YouTube 有多少个视频？",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202312/bg2023122614.webp",
+    "summary": "YouTube 是世界最大视频网站，全世界的人都在上传视频。"
+  },
+  {
+    "id": 283,
+    "title": "科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走",
+    "categories": [
+      "封面图",
+      "[年终感想] 没有目的地，向前走",
+      "[活动] 掘金年度技术演讲",
+      "2023年的冷知识",
+      "Google Gemini",
+      "文章",
+      "工具",
+      "iPhone 应用",
+      "资源",
+      "新年创意礼物",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202312/bg2023120512.webp",
+    "summary": "又是年底，一年过去了。"
+  },
+  {
+    "id": 282,
+    "title": "科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电",
+    "categories": [
+      "封面图",
+      "电动皮卡 Cybertruck 的 48V 供电",
+      "[活动] 人工智能线下沙龙（深圳站）",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202312/bg2023120511.webp",
+    "summary": "这个月，特斯拉的 Cybertruck 开始在美国交付了。"
+  },
+  {
+    "id": 281,
+    "title": "科技爱好者周刊（第 281 期）：新基建的政策选择",
+    "categories": [
+      "封面图",
+      "新基建的政策选择",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202312/bg2023120510.webp",
+    "summary": "上周某一天，我看到百度的热搜榜，置顶是一条新闻[《加快新型基础设施建设》](https://baijiahao.baidu.com/s?id=1783679308884678310)。"
+  },
+  {
+    "id": 280,
+    "title": "科技爱好者周刊（第 280 期）：机器点餐与宅文化",
+    "categories": [
+      "封面图",
+      "机器点餐与宅文化",
+      "科技动态",
+      "文章",
+      "[本周软件] 集算器",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202311/bg2023112005.webp",
+    "summary": "现在的快餐店，都有点餐机。"
+  },
+  {
+    "id": 279,
+    "title": "科技爱好者周刊（第 279 期）：网络社区的悲剧",
+    "categories": [
+      "封面图",
+      "网络社区的悲剧",
+      "科技动态",
+      "文章",
+      "翻译软件",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202311/bg2023112007.webp",
+    "summary": "今年上半年，国内知名的[“天涯社区”宣布关闭](https://finance.sina.com.cn/tech/roll/2023-04-26/doc-imyrswtm4170903.shtml)。"
+  },
+  {
+    "id": 278,
+    "title": "科技爱好者周刊（第 278 期）：棘手的 AI 版权",
+    "categories": [
+      "封面图",
+      "棘手的 AI 版权",
+      "[本周软件] TGFX：强大易用的 2D 图形库",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202311/bg2023111405.webp",
+    "summary": "AI 是一个新事物，带来了很多前所未有的问题。"
+  },
+  {
+    "id": 277,
+    "title": "科技爱好者周刊（第 277 期）：工作台副屏的最佳选择",
+    "categories": [
+      "封面图",
+      "工作台副屏的最佳选择",
+      "科技动态",
+      "文章",
+      "[本周软件] Authing 应用网关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202311/bg2023110515.webp",
+    "summary": "以前，我有一个习惯。在电脑旁边，放一个平板，作为副屏。"
+  },
+  {
+    "id": 276,
+    "title": "科技爱好者周刊（第 276 期）：内容行业的衰落",
+    "categories": [
+      "封面图",
+      "内容行业的衰落",
+      "科技动态",
+      "文章",
+      "[本周软件] 雷池：国产免费 Web 安全网关",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202310/bg2023102901.webp",
+    "summary": "现在的 AI 技术，每天都在进化。我有一种感觉，普通人大概没意识到，它**马上**就要改变人类社会了。"
+  },
+  {
+    "id": 275,
+    "title": "科技爱好者周刊（第 275 期）：彼得·蒂尔的实验",
+    "categories": [
+      "封面图",
+      "彼得·蒂尔的实验",
+      "[周末活动] 稀土掘金创新论坛",
+      "科技动态",
+      "机房的中间人攻击",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202310/bg2023102101.webp",
+    "summary": "彼得·蒂尔（Peter Thiel，1967-）是美国著名的风险投资家。"
+  },
+  {
+    "id": 274,
+    "title": "科技爱好者周刊（第 274 期）：加密通信的最后一块拼图",
+    "categories": [
+      "封面图",
+      "加密通信的最后一块拼图",
+      "[活动] 稀土掘金创新论坛",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202310/bg2023101507.webp",
+    "summary": "十一期间，世界最大的 CDN 服务商 Cloudflare 发了[一篇博客文章](https://blog.cloudflare.com/announcing-encrypted-client-hello/)，宣称解决了“加密通信的最后一块拼图”。"
+  },
+  {
+    "id": 273,
+    "title": "科技爱好者周刊（第 273 期）：任正非的三篇最新谈话",
+    "categories": [
+      "封面图",
+      "任正非的三篇最新谈话",
+      "[活动] AI 时代下的管理变革",
+      "科技动态",
+      "SPL vs SQL 比较",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202310/bg2023100514.webp",
+    "summary": "上个月，华为连续放出了任正非的三篇最新谈话。"
+  },
+  {
+    "id": 272,
+    "title": "科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影",
+    "categories": [
+      "封面图",
+      "Unity 的安装费，游戏业的缩影",
+      "科技动态",
+      "文章",
+      "工具",
+      "IP 地域归属查询",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202309/bg2023091706.webp",
+    "summary": "[Unity](https://unity.com) 是一个顶级的游戏引擎，很多著名的手机游戏和网页游戏都用它开发，比如《王者荣耀》和《原神》。"
+  },
+  {
+    "id": 271,
+    "title": "科技爱好者周刊（第 271 期）：非线性的世界，线性的你",
+    "categories": [
+      "封面图",
+      "非线性的世界，线性的你",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202309/bg2023091205.webp",
+    "summary": "纳瓦尔（Naval Ravikant）是一位美国风险投资家，写过一组系列文章《如何致富》（How to get rich），非常出名。"
+  },
+  {
+    "id": 270,
+    "title": "科技爱好者周刊（第 270 期）：“精益开发”的精益是什么？",
+    "categories": [
+      "封面图",
+      "“精益开发”的精益是什么？",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "往年回顾"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202309/bg2023090607.webp",
+    "summary": "最流行的软件开发模式，现在是“敏捷开发”（agile development）。"
+  },
+  {
+    "id": 269,
+    "title": "科技爱好者周刊（第 269 期）：为什么英雄不使用炸药",
+    "categories": [
+      "封面图",
+      "为什么英雄不使用炸药",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202308/bg2023082610.webp",
+    "summary": "经典奇幻电影《指环王》，大家都看过吧？"
+  },
+  {
+    "id": 268,
+    "title": "科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人",
+    "categories": [
+      "封面图",
+      "生产力是形容机器，不是形容人",
+      "云原生深圳沙龙",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202308/bg2023081801.webp",
+    "summary": "程序员创业以后，还喜欢写书，真是绝无仅有。我只知道一个例子。"
+  },
+  {
+    "id": 267,
+    "title": "科技爱好者周刊（第 267 期）：5G 的春天要来了",
+    "categories": [
+      "封面图",
+      "5G 的春天要来了",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202308/bg2023081702.webp",
+    "summary": "本月初，国家广电总局的官网发了[一条消息](http://www.nrta.gov.cn/art/2023/8/3/art_114_65077.html)，外界几乎没注意到。"
+  },
+  {
+    "id": 266,
+    "title": "科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书",
+    "categories": [
+      "封面图",
+      "自己做双语 EPUB 电子书",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202308/bg2023081010.webp",
+    "summary": "周刊的《工具》部分，每周都有一些很有用的软件，有些对我的帮助也很大。"
+  },
+  {
+    "id": 265,
+    "title": "科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi",
+    "categories": [
+      "封面图",
+      "WiFi 的后面是 LiFi",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202308/bg2023080303.webp",
+    "summary": "今年6月，IEEE（电气和电子工程师协会）通过了 [802.11bb 标准](https://www.ednchina.com/news/a11769.html)。"
+  },
+  {
+    "id": 264,
+    "title": "科技爱好者周刊（第 264 期）：Elasticsearch 的启示",
+    "categories": [
+      "封面图",
+      "Elasticsearch 的启示",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202307/bg2023072501.webp",
+    "summary": "上月的“红帽事件”，说明开源软件的“客服模式”行不通，我在[上一期](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)已经写了自己的看法。"
+  },
+  {
+    "id": 263,
+    "title": "科技爱好者周刊（第 263 期）：开源软件如何赚钱？",
+    "categories": [
+      "封面图",
+      "开源软件如何赚钱？",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202307/bg2023072012.webp",
+    "summary": "众所周知，开源软件很难赚钱，尤其是 GPL 许可证的代码。"
+  },
+  {
+    "id": 262,
+    "title": "科技爱好者周刊（第 262 期）：告别密码",
+    "categories": [
+      "封面图",
+      "告别密码",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "赞助商广告位"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202307/bg2023071309.webp",
+    "summary": "上网体验最差的环节，肯定是密码。"
+  },
+  {
+    "id": 261,
+    "title": "科技爱好者周刊（第 261 期）：黑客马拉松的正确方式",
+    "categories": [
+      "封面图",
+      "黑客马拉松的正确方式",
+      "指纹浏览器 AdsPower",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202307/bg2023070601.webp",
+    "summary": "你参加过黑客马拉松（hackathon）吗？"
+  },
+  {
+    "id": 260,
+    "title": "科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1",
+    "categories": [
+      "封面图",
+      "你的旅程不会停在 Day 1",
+      "稀土开发者大会",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202306/bg2023062901.webp",
+    "summary": "我最近读到[一篇文章](https://pratik.is/writing/essays/neverending-hustle)，关于一张海报。"
+  },
+  {
+    "id": 259,
+    "title": "科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT",
+    "categories": [
+      "封面图",
+      "如何免费使用 ChatGPT",
+      "稀土开发者大会",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202306/bg2023061302.webp",
+    "summary": "国内媒体每天大量报道 ChatGPT，但是只字不提，它不对中国大陆用户开放。"
+  },
+  {
+    "id": 258,
+    "title": "科技爱好者周刊（第 258 期）：卡马克的猫",
+    "categories": [
+      "封面图",
+      "卡马克的猫",
+      "活动消息",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202306/bg2023060502.webp",
+    "summary": "推荐一本书[《DOOM 启世录》](https://book.douban.com/subject/1152971/)（Masters of Doom），电子游戏名著，2003年在美国出版，第二年就出了中译本。"
+  },
+  {
+    "id": 257,
+    "title": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
+    "categories": [
+      "封面图",
+      "黄仁勋的 Nvidia 故事",
+      "活动消息",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202305/bg2023053105.webp",
+    "summary": "黄仁勋大概是硅谷最有影响力的华人。"
+  },
+  {
+    "id": 256,
+    "title": "科技爱好者周刊（第 256 期）：最酷的乐高作品",
+    "categories": [
+      "封面图",
+      "最酷的乐高作品",
+      "腾讯 PAG",
+      "科技动态",
+      "文章",
+      "数据仓库 ByConity 开源 + 招聘",
+      "工具",
+      "稀土开发者大会",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202305/bg2023052522.webp",
+    "summary": "乐高，大家都知道吧，一家世界著名的玩具公司，主要生产塑料积木。"
+  },
+  {
+    "id": 255,
+    "title": "科技爱好者周刊（第 255 期）：对待 AI 的正确态度",
+    "categories": [
+      "封面图",
+      "本周话题：对待 AI 的正确态度",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202305/bg2023051818.webp",
+    "summary": "这些天，总有人问我，对于“[前端已死](https://www.baidu.com/s?wd=%E5%89%8D%E7%AB%AF%E5%B7%B2%E6%AD%BB)”这个话题怎么看。"
+  },
+  {
+    "id": 254,
+    "title": "科技爱好者周刊（第 254 期）：人生是一个长板问题",
+    "categories": [
+      "封面图",
+      "本周话题：人生是一个长板问题",
+      "亮数据",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片与视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202305/bg2023051012.jpg",
+    "summary": "大家可能听说过“[水桶原理](https://baike.baidu.com/item/%E6%B0%B4%E6%A1%B6%E6%95%88%E5%BA%94/10942611)”：水桶的容量由最短的那块木板决定。"
+  },
+  {
+    "id": 253,
+    "title": "科技爱好者周刊（第 253 期）：训练材料用完之日",
+    "categories": [
+      "封面图",
+      "本周话题：训练材料用完之日",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202305/bg2023050201.webp",
+    "summary": "现在的新闻报道，天天有 AI 的新闻，里面会提到很多模型。"
+  },
+  {
+    "id": 252,
+    "title": "科技爱好者周刊（第 252 期）：互联网创业变难了",
+    "categories": [
+      "封面图",
+      "本周话题：互联网创业变难了",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202304/bg2023042503.webp",
+    "summary": "一个老外发现，2010年以后，美国没有出现过新的大型互联网公司。"
+  },
+  {
+    "id": 251,
+    "title": "科技爱好者周刊（第 251 期）：国产单板机值得推荐",
+    "categories": [
+      "封面图",
+      "本周话题：国产单板机值得推荐",
+      "如何提高抗风险能力",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202304/bg2023041803.webp",
+    "summary": "前些天，添置设备的时候，我偶然瞅了一眼树莓派，被价格吓到了。"
+  },
+  {
+    "id": 250,
+    "title": "科技爱好者周刊（第 250 期）：新技术的最大风险",
+    "categories": [
+      "封面图",
+      "本周话题：新技术的最大风险",
+      "暑期实习申请",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202304/bg2023041207.webp",
+    "summary": "这几天，我读到三篇文章，全部是**工程师后悔使用了新技术。**"
+  },
+  {
+    "id": 249,
+    "title": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
+    "categories": [
+      "封面图",
+      "本周话题：最成功的软件企业家",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202304/bg2023040622.webp",
+    "summary": "谁是全世界最成功的软件企业家？"
+  },
+  {
+    "id": 248,
+    "title": "科技爱好者周刊（第 248 期）：不要夸大 ChatGPT",
+    "categories": [
+      "封面图",
+      "本周话题：不要夸大 ChatGPT",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202303/bg2023032108.webp",
+    "summary": "ChatGPT 问世只有几个月，大家有没有发现，舆论的调门越来越高。"
+  },
+  {
+    "id": 247,
+    "title": "科技爱好者周刊（第 247 期）：扎克伯格的裁员信",
+    "categories": [
+      "封面图",
+      "本周话题：扎克伯格的裁员信",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202303/bg2023032107.webp",
+    "summary": "去年11月，Meta 公司宣布大裁员，解雇13%的员工，大约11,000人。"
+  },
+  {
+    "id": 246,
+    "title": "科技爱好者周刊（第 246 期）：永不丢失的网络身份",
+    "categories": [
+      "封面图",
+      "本周话题：永不丢失的网络身份",
+      "科技动态",
+      "文章",
+      "AI 相关软件",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202303/bg2023031406.webp",
+    "summary": "1、"
+  },
+  {
+    "id": 245,
+    "title": "科技爱好者周刊（第 245 期）：摩天大楼是反人类的",
+    "categories": [
+      "封面图",
+      "本周话题：摩天大楼是反人类的",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "免费音乐搜索引擎",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202303/bg2023030709.jpeg",
+    "summary": "上周四（3月2日）晚上，香港尖沙咀一座42层摩天大楼[起火](https://finance.sina.com.cn/wm/2023-03-03/doc-imyiqnky4817370.shtml)，宛如一根火柱。火势凶猛，所幸大楼正在改建，没有人员伤亡。"
+  },
+  {
+    "id": 244,
+    "title": "科技爱好者周刊（第 244 期）：大数据已死",
+    "categories": [
+      "封面图",
+      "本周话题：大数据已死",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202302/bg2023022804.webp",
+    "summary": "“大数据”这个词，大家想必耳熟能详。这是最大众化的 IT 词汇之一，全社会曾经都热衷于它。"
+  },
+  {
+    "id": 243,
+    "title": "科技爱好者周刊（第 243 期）：与孔子 AI 聊天",
+    "categories": [
+      "封面图",
+      "本周话题：与孔子 AI 聊天",
+      "科技动态",
+      "文章",
+      "AI 相关软件",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202302/bg2023022201.webp",
+    "summary": "今年以来，最轰动的 IT 产品，非 [ChatGPT](https://openai.com/blog/chatgpt/) 莫属。"
+  },
+  {
+    "id": 242,
+    "title": "科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑",
+    "categories": [
+      "封面图",
+      "本周话题：一次尴尬的服务器被黑",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202302/bg2023021201.webp",
+    "summary": "本周一凌晨（2月13日），我的个人网站服务器被黑了。"
+  },
+  {
+    "id": 241,
+    "title": "科技爱好者周刊（第 241 期）：中国的增长动力在内陆",
+    "categories": [
+      "封面图",
+      "本周话题：中国的增长动力在内陆",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202302/bg2023020201.webp",
+    "summary": "今年春节，我在度假，长沙、昆明和大理。"
+  },
+  {
+    "id": 240,
+    "title": "科技爱好者周刊（第 240 期）：教育年限可以缩短吗？",
+    "categories": [
+      "封面图",
+      "本周话题：教育年限可以缩短吗？",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202301/bg2023013001.webp",
+    "summary": "春节前有一条大新闻，六十多年来第一次，国家统计局宣布[中国人口下降了](https://finance.sina.com.cn/tech/roll/2023-01-17/doc-imyanfvs5748585.shtml)，比上年末减少了85万人。"
+  },
+  {
+    "id": 239,
+    "title": "科技爱好者周刊（第 239 期）：未来两种人会增加",
+    "categories": [
+      "封面图",
+      "本周话题：未来两种人会增加",
+      "CES 2023",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202301/bg2023011201.webp",
+    "summary": "我最近读了一篇美国专家的文章，谈[怎么规划未来的城市](https://noahpinion.substack.com/p/the-us-city-of-the-future)。"
+  },
+  {
+    "id": 238,
+    "title": "科技爱好者周刊（第 238 期）：停止寻找的最佳时间",
+    "categories": [
+      "封面图",
+      "本周话题：停止寻找的最佳时间",
+      "科技动态",
+      "文章",
+      "工具",
+      "JSON 可视化",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202301/bg2023010507.webp",
+    "summary": "最近，我读了一本算法书，作者是美国科普作家[布赖恩·克里斯蒂安](https://brianchristian.org/)（Brian Christian）。"
+  },
+  {
+    "id": 237,
+    "title": "科技爱好者周刊（第 237 期）：真实方位是如何暴露的？",
+    "categories": [
+      "封面图",
+      "本周话题：真实方位是如何暴露的？",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202212/bg2022122705.jpg",
+    "summary": "很多时候，开发者需要知道用户的地理方位。"
+  },
+  {
+    "id": 236,
+    "title": "科技爱好者周刊（第 236 期）：中国的阳光地带",
+    "categories": [
+      "封面图",
+      "本周话题：中国的阳光地带",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202212/bg2022121606.webp",
+    "summary": "入冬以后，上海都是冷飕飕的阴沉天气。偶尔有几天，太阳露一下脸。"
+  },
+  {
+    "id": 235,
+    "title": "科技爱好者周刊（第 235 期）：青年失业率与选择创业",
+    "categories": [
+      "封面图",
+      "本周话题：青年失业率与选择创业",
+      "科技动态",
+      "文章",
+      "工具",
+      "JavaScript 全栈框架",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202212/bg2022121414.webp",
+    "summary": "现在的青年失业率非常高。[官方统计](http://finance.people.com.cn/n1/2022/0815/c1004-32502731.html)，今年7月份的16岁～24岁青年失业率达到了19.9%。"
+  },
+  {
+    "id": 234,
+    "title": "科技爱好者周刊（第 234 期）：AI 聊天有多强？",
+    "categories": [
+      "封面图",
+      "本周话题：AI 聊天有多强？",
+      "ChatGPT 应用",
+      "双十二小册活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202212/bg2022120702.webp",
+    "summary": "上周最大的技术新闻是，OpenAI 公司[发布](https://openai.com/blog/chatgpt/)了一款 AI 聊天软件 [ChatGPT](https://chat.openai.com/)。"
+  },
+  {
+    "id": 233,
+    "title": "科技爱好者周刊（第 233 期）：生活就像一个鱼缸",
+    "categories": [
+      "封面图",
+      "本周话题：生活就像一个鱼缸",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "码上掘金编程挑战赛",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202211/bg2022113002.webp",
+    "summary": "国际知名度最高的中国建筑事务所，大概是北京的 [MAD 建筑事务所](http://www.i-mad.com/zh-hans/)。 "
+  },
+  {
+    "id": 232,
+    "title": "科技爱好者周刊（第 232 期）：好用的平面设计软件",
+    "categories": [
+      "封面图",
+      "本周话题：好用的平面设计软件",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片与视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202211/bg2022112303.webp",
+    "summary": "我不是设计师，但是经常有一些设计需求。"
+  },
+  {
+    "id": 231,
+    "title": "科技爱好者周刊（第 231 期）：互联网公司需要多少员工？",
+    "categories": [
+      "封面图",
+      "本周话题：互联网公司需要多少员工？",
+      "Vite 和 React 开发实战",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202211/bg2022111601.webp",
+    "summary": "马斯克收购推特之前，[放话](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AE%A1%E5%88%92%E6%94%B6%E8%B4%ADtwitter%E5%90%8E%E8%A3%81..."
+  },
+  {
+    "id": 230,
+    "title": "科技爱好者周刊（第 230 期）：电子产品的用电量",
+    "categories": [
+      "封面图",
+      "本周话题：电子产品的用电量",
+      "小程序容器 FinClip",
+      "科技动态",
+      "文章",
+      "工具",
+      "掘金双十一活动",
+      "资源",
+      "图片和视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202211/bg2022110906.webp",
+    "summary": "[上周](https://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)提到，手机充电器的功率已经超过 200W 了。"
+  },
+  {
+    "id": 229,
+    "title": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
+    "categories": [
+      "封面图",
+      "本周话题：手机充电问题的解决",
+      "抖音 iOS 客户端揭秘",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202211/bg2022110203.webp",
+    "summary": "手机充电，大家每天要花多少时间，会不会觉得很烦人？"
+  },
+  {
+    "id": 228,
+    "title": "科技爱好者周刊（第 228 期）：人类和人生的意义",
+    "categories": [
+      "封面图",
+      "本周话题：人类和人生的意义",
+      "10.24 程序员节活动",
+      "科技动态",
+      "文章与视频",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "说明",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202210/bg2022102605.webp",
+    "summary": "这几天睡觉前，我在读《季羡林文集》。"
+  },
+  {
+    "id": 227,
+    "title": "科技爱好者周刊（第 227 期）：脸书的公司入职教育",
+    "categories": [
+      "封面图",
+      "本周话题：脸书的公司入职教育",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202210/bg2022101906.webp",
+    "summary": "互联网大厂都有入职教育。新人进厂以后，先培训几天，熟悉企业文化和制度。"
+  },
+  {
+    "id": 226,
+    "title": "科技爱好者周刊（第 226 期）：谷歌出了什么问题？",
+    "categories": [
+      "封面图",
+      "本周话题：谷歌出了什么问题？",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "2022年诺贝尔生理医学奖",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202209/bg2022093002.webp",
+    "summary": "上个月的最后一天（9月30日），谷歌无预警地宣布，关闭自家的游戏平台 Stadia。"
+  },
+  {
+    "id": 225,
+    "title": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
+    "categories": [
+      "封面图",
+      "本周话题：NPC 演员也是一种职业",
+      "科技动态",
+      "文章",
+      "活动",
+      "工具",
+      "资源",
+      "图片和视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202209/bg2022092009.webp",
+    "summary": "一位国外玩家提出[一个设想](https://decrypt.co/109203/nft-game-consultant-says-poor-people-could-be-npcs)：**游戏 NPC 应该由真人扮演**。"
+  },
+  {
+    "id": 224,
+    "title": "科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch",
+    "categories": [
+      "封面图",
+      "本周话题：Figma 为什么赢了 Sketch",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202208/bg2022081107.webp",
+    "summary": "上周，Adobe 公司[宣布](https://36kr.com/p/1917326805803014)，200亿美元收购设计软件 Figma。"
+  },
+  {
+    "id": 223,
+    "title": "科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？",
+    "categories": [
+      "封面图",
+      "本周话题：程序员需要担心裁员吗？",
+      "字节内部课",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "金斯伯格法官模型",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202209/bg2022091507.webp",
+    "summary": "Hacker News 论坛上面，[一个欧洲程序员](https://news.ycombinator.com/item?id=32798377)问大家：欧洲经济不景气，公司可能把他裁掉，他应该怎么办？"
+  },
+  {
+    "id": 222,
+    "title": "科技爱好者周刊（第 222 期）：四十年编程感想",
+    "categories": [
+      "封面图",
+      "本周话题：四十年编程感想",
+      "科技动态",
+      "文章",
+      "工具",
+      "扑克牌扫码器",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202209/bg2022090809.webp",
+    "summary": "上周，国外程序员论坛 Hacker News 有一篇热门文章[《四十年编程感想》](https://codefol.io/posts/the-forty-year-programmer/)。"
+  },
+  {
+    "id": 221,
+    "title": "科技爱好者周刊（第 221 期）：全世界最繁荣的行业",
+    "categories": [
+      "封面图",
+      "本周话题：全世界最繁荣的行业",
+      "Apipost 7 发布",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202209/bg2022090103.webp",
+    "summary": "前不久，我读到一篇[老外的文章](https://medium.com/javarevisited/develop-a-live-video-streaming-app-key-highlights-of-its-features-costs-and-teck-stack-cda1f8ea9c02)..."
+  },
+  {
+    "id": 220,
+    "title": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
+    "categories": [
+      "封面图",
+      "本周话题：人工智能的机会在哪里",
+      "稀土开发者大会资料",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202208/bg2022082517.webp",
+    "summary": "[OpenAI 公司](https://openai.com/blog/dall-e-now-available-in-beta/)的人工智能模型 [DALL·E 2](https://openai.com/dall-e-2/)，最近向社会公众开放。"
+  },
+  {
+    "id": 219,
+    "title": "科技爱好者周刊（第 219 期）：如何防止帐号被黑",
+    "categories": [
+      "封面图",
+      "本周话题：如何防止帐号被黑",
+      "微服务框架 CloudWeGo",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "纽约托马斯街33号",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202208/bg2022081706.webp",
+    "summary": "上周有一起安全事件。两家著名的美国互联网公司——[Twillo](https://www.twilio.com/blog/august-2022-social-engineering-attack) 和 [Cloudflare](https://blog.cloudflare.com/2022-07..."
+  },
+  {
+    "id": 218,
+    "title": "科技爱好者周刊（第 218 期）：葡萄酒，樱花，全球变暖",
+    "categories": [
+      "封面图",
+      "本周话题：葡萄酒，樱花，全球变暖",
+      "科技动态",
+      "文章",
+      "新兴搜索引擎",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202208/bg2022080705.webp",
+    "summary": "今年夏天，气温[创了历史纪录](http://www.xhby.net/index/202207/t20220717_7618836.shtml)，很多地方超过40度。"
+  },
+  {
+    "id": 217,
+    "title": "科技爱好者周刊（第 217 期）：沙特的新未来城",
+    "categories": [
+      "封面图",
+      "本周话题：沙特的新未来城",
+      "科技动态",
+      "文章",
+      "工具",
+      "Emoji 厨房",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202208/bg2022080408.webp",
+    "summary": "2017年，沙特宣布要在红海边上的沙漠里面，新建一座前所未有的城市，叫做“新未来城”（Neom）。"
+  },
+  {
+    "id": 216,
+    "title": "科技爱好者周刊（第 216 期）：极简主义的胜利",
+    "categories": [
+      "封面图",
+      "本周话题：极简主义的胜利",
+      "科技动态",
+      "视频",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202207/bg2022072501.webp",
+    "summary": "你可能听说过，[极简主义](https://baike.baidu.com/item/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89/6588186)（minimalism）这个词。"
+  },
+  {
+    "id": 215,
+    "title": "科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式",
+    "categories": [
+      "封面图",
+      "本周话题：互联网最喜欢的行为模式",
+      "平价学习平台 ApeClass",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202207/bg2022070112.webp",
+    "summary": "巴菲特说，他考察候选人，就看[三个“i”](https://www.inc.com/marcel-schwantes/warren-buffett-hiring-top-talent-characteristics.html)。"
+  },
+  {
+    "id": 214,
+    "title": "科技爱好者周刊（第 214 期）：你的地图是错的",
+    "categories": [
+      "封面图",
+      "本周话题：你的地图是错的",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202207/bg2022070401.webp",
+    "summary": "2010年，美国旧金山举行 [Web 2.0 峰会](https://p2p.ai/2022/06/27/your-map-is-wrong/)。"
+  },
+  {
+    "id": 213,
+    "title": "科技爱好者周刊（第 213 期）：知识孤岛，知识软件",
+    "categories": [
+      "封面图",
+      "本周话题：知识孤岛，知识软件",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "鸣谢"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202207/bg2022070501.webp",
+    "summary": "（一）"
+  },
+  {
+    "id": 212,
+    "title": "科技爱好者周刊（第 212 期）：人生不短",
+    "categories": [
+      "封面图",
+      "本周话题：人生不短",
+      "活动",
+      "科技动态",
+      "文章",
+      "工具",
+      "电脑启动盘制作工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "赞助商"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202206/bg2022063027.webp",
+    "summary": "本周，我读到一篇文章[《人生不短》](https://dkb.show/post/life-is-not-short)，写得很好。它的核心内容，就是下面的几句话。"
+  },
+  {
+    "id": 211,
+    "title": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
+    "categories": [
+      "封面图",
+      "本周话题：虚拟商品可以拉动 GDP",
+      "Go 语言学习资料包",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202206/bg2022062216.webp",
+    "summary": "本周，脸书宣布[推出](https://finance.sina.com.cn/roll/2022-06-22/doc-imizirau9930686.shtml)线上的虚拟服装商店，里面有很多名牌服装（比如 Prada），用户买来在虚拟世界穿。"
+  },
+  {
+    "id": 210,
+    "title": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
+    "categories": [
+      "封面图",
+      "本周话题：为什么软件变得复杂",
+      "前端高频面试题（2022版）",
+      "科技动态",
+      "文章",
+      "工具",
+      "Deno 框架",
+      "可视化作品",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202206/bg2022061615.webp",
+    "summary": "我一直认为，软件开发的最大关注点，就是避免复杂性。软件设计越简单越好，太多的程序员以构建复杂的解决方案为荣。"
+  },
+  {
+    "id": 209,
+    "title": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
+    "categories": [
+      "封面图",
+      "本周话题：程序员是怎样的人",
+      "个人如何提高抗风险能力",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202206/bg2022060910.webp",
+    "summary": "我最近看到一个令人深思的心理学实验，叫做“[斯坦福监狱实验](https://moxie.org/2013/01/07/career-advice.html)”（Stanford Prison Experiment），跟大家分享一下。"
+  },
+  {
+    "id": 208,
+    "title": "科技爱好者周刊（第 208 期）：晋升制度的问题",
+    "categories": [
+      "封面图",
+      "本周话题：晋升制度的问题",
+      "工具软件 FlowUs 体验报告",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202205/bg2022050920.webp",
+    "summary": "我最近读到[一篇文章](https://www.warp.dev/blog/problems-with-promotion-oriented-cultures)，作者是谷歌表格（Google Sheets）的前主管 Zach Lloyd，现在已经离职创业了。他说自己烦透了谷歌的晋升制度。"
+  },
+  {
+    "id": 207,
+    "title": "科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了",
+    "categories": [
+      "封面图",
+      "本周话题：汽车行业的顶峰可能过去了",
+      "非全日制计算机硕士",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202205/bg2022051601.webp",
+    "summary": "4月份的时候，小鹏汽车的董事长[何小鹏](https://finance.sina.cn/2022-04-14/detail-imcwipii4318205.d.html)说，如果上海和周边的供应链企业一直无法复工，五月份可能中国所有的整车厂都要停工停产了。"
+  },
+  {
+    "id": 206,
+    "title": "科技爱好者周刊（第 206 期）：如何走出失望和怀疑",
+    "categories": [
+      "封面图",
+      "本周话题：如何走出失望和怀疑",
+      "阿里云认证考试",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202205/bg2022050903.webp",
+    "summary": "前些天，我收到私信。网友说，阮老师，请教你一个问题。"
+  },
+  {
+    "id": 205,
+    "title": "科技爱好者周刊（第 205 期）：互联网风口过去了吗？",
+    "categories": [
+      "封面图",
+      "本周话题：互联网风口过去了吗？",
+      "计算机双翼能力专场讲座",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "KK 70 岁感言",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202205/bg2022050410.webp",
+    "summary": "疫情前，有人[问](https://news.iresearch.cn/content/201901/281567.shtml)马云，怎么看待互联网风口。马云说，风口来了猪都会飞，但风过去后摔死的一定都是猪。"
+  },
+  {
+    "id": 204,
+    "title": "科技爱好者周刊（第 204 期）：如何度过疫情、裁员、还有战争",
+    "categories": [
+      "封面图",
+      "本周话题：如何度过疫情、裁员、还有战争",
+      "计算机硕士考研训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/220204/bg2022041701.webp",
+    "summary": "最近的坏消息比较多，疫情、裁员、还有战争。一打开群组和朋友圈，转发的都是这些事情，很多人的心情受到影响。今天谈谈我的想法。"
+  },
+  {
+    "id": 203,
+    "title": "科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育",
+    "categories": [
+      "封面图",
+      "本周话题：英国的名校签证，伯克利的计算机教育",
+      "研发协同工具 Apipost",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202203/bg2022031706.webp",
+    "summary": "（一）"
+  },
+  {
+    "id": 202,
+    "title": "科技爱好者周刊（第 202 期）：三个有启发的学习方法",
+    "categories": [
+      "封面图",
+      "本周话题：三个有启发的学习方法",
+      "阿里云的专业技术证书",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/220204/bg2022040401.webp",
+    "summary": "最近看到一些学习方法相关的内容，跟大家分享。"
+  },
+  {
+    "id": 201,
+    "title": "科技爱好者周刊（第 201 期）：中国需要成立半导体部",
+    "categories": [
+      "封面图",
+      "本周话题：中国需要成立半导体部",
+      "Authing 永久免费版",
+      "科技动态",
+      "文章",
+      "工具",
+      "活动",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202203/bg2022033001.webp",
+    "summary": "上个月，国家统计局公布了[《中国2021年统计公报》]("
+  },
+  {
+    "id": 200,
+    "title": "科技爱好者周刊（第 200 期）：低期望，多尝试",
+    "categories": [
+      "封面图",
+      "本周话题：低期望，多尝试",
+      "双翼能力提升训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202203/bg2022031705.webp",
+    "summary": "（一）"
+  },
+  {
+    "id": 199,
+    "title": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
+    "categories": [
+      "封面图",
+      "本周话题：俄罗斯的 HTTPS 证书问题",
+      "计算机考研基础课训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202203/bg2022031406.webp",
+    "summary": "上周，国外网友[发现](https://twitter.com/Scott_Helme/status/1502204103132393472)，一家西方的证书机构拒绝为俄罗斯域名颁发 HTTPS 证书，甚至还吊销已经颁发的有效证书。\r"
+  },
+  {
+    "id": 198,
+    "title": "科技爱好者周刊（第 198 期）：美国制造是否可能",
+    "categories": [
+      "封面图",
+      "本周话题：美国制造是否可能",
+      "计算机双翼能力专场讲座",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202203/bg2022030808.webp",
+    "summary": "上周，美国总统拜登对国会发表[《国情咨文》](https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6180080.d.html)，提到了美国制造。他这样说："
+  },
+  {
+    "id": 197,
+    "title": "科技爱好者周刊（第 197 期）：如果这个世界有快乐机",
+    "categories": [
+      "封面图",
+      "本周话题：如果这个世界有快乐机",
+      "自动驾驶概述公开课",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202202/bg2022022702.webp",
+    "summary": "上个世纪70年代，哈佛大学的哲学教授诺齐克（Robert Nozick）提出一个问题， **如何证明享乐主义（追求快乐和满足）是人类的行为目的？**"
+  },
+  {
+    "id": 196,
+    "title": "科技爱好者周刊（第 196 期）：掌机的未来",
+    "categories": [
+      "封面图",
+      "本周话题：掌机的未来",
+      "计算机硕士考研集训营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202202/bg2022021916.webp",
+    "summary": "今天（2月25日），Valve 公司的掌上游戏机 Steam Deck 上市了。"
+  },
+  {
+    "id": 195,
+    "title": "科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？",
+    "categories": [
+      "封面图",
+      "本周话题：你做过不在乎结果的项目吗？",
+      "FinClip：通用小程序容器",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "本周课程",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202202/bg2022021507.jpg",
+    "summary": "上个星期，美国的黑客新闻社区有一个热门帖子 **《你做过不在乎结果的项目吗？》**（[第一部分](https://news.ycombinator.com/item?id=25992782)，[第二部分](https://news.ycombinator.com/item?id=30283264)）..."
+  },
+  {
+    "id": 194,
+    "title": "科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功",
+    "categories": [
+      "封面图",
+      "本周话题：悲观者正确，乐观者成功",
+      "LeetCode 算法训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202202/bg2022021008.webp",
+    "summary": "最近股市下跌，美国科技股大部分都是下图的走势。"
+  },
+  {
+    "id": 193,
+    "title": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？",
+    "categories": [
+      "封面图",
+      "本周话题：前端与后端，谁更难？",
+      "给孩子的财经小课",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片和视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202201/bg2022012012.webp",
+    "summary": "[“黑客新闻”](https://news.ycombinator.com/)（Hacker News）是美国最大的程序员社区，我每天都看，周刊的很多内容就来自那里。\r"
+  },
+  {
+    "id": 192,
+    "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术",
+    "categories": [
+      "封面图",
+      "本周话题：最大的机会来自新技术",
+      "计算机考研集训营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202201/bg2022011326.webp",
+    "summary": "上周六是 iPhone 诞生十五周年。\r"
+  },
+  {
+    "id": 191,
+    "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路",
+    "categories": [
+      "封面图",
+      "本周话题：一个程序员的财务独立之路",
+      "Go 语言高频面试题",
+      "2021年度最佳新产品",
+      "文章",
+      "工具",
+      "资源",
+      "图片和视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202201/bg2022010201.webp",
+    "summary": "本周，推荐一篇美国程序员的[文章](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)。\r"
+  },
+  {
+    "id": 190,
+    "title": "科技爱好者周刊（第 190 期）：产品化思维",
+    "categories": [
+      "封面图",
+      "本周话题：产品化思维",
+      "飞连",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202112/bg2021122913.webp",
+    "summary": "上周四，华为发布了一款[血压手表](https://consumer.huawei.com/cn/wearables/watch-d/)，戴在手腕上就能测血压。\r"
+  },
+  {
+    "id": 189,
+    "title": "科技爱好者周刊（第 189 期）：下一个内卷的行业",
+    "categories": [
+      "封面图",
+      "本周话题：下一个内卷的行业",
+      "Vue 3.0 框架实战视频教程",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202112/bg2021122211.webp",
+    "summary": "一年多以前，周刊[讨论过](https://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)，“内卷”这个词到底是什么意思？\r"
+  },
+  {
+    "id": 188,
+    "title": "科技爱好者周刊（第 188 期）：音乐是反社交",
+    "categories": [
+      "封面图",
+      "本周话题：音乐是反社交",
+      "Apifox 介绍",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202112/bg2021120911.webp",
+    "summary": "Spotify 的前产品经理有一天在[推特](https://twitter.com/jherskowitz/status/1466078600822677513)发言，总结自己这些年在音乐行业的心得。\r"
+  },
+  {
+    "id": 187,
+    "title": "科技爱好者周刊（第 187 期）：元宇宙会成功吗",
+    "categories": [
+      "封面图",
+      "本周话题：元宇宙会成功吗",
+      "前端组件从0到1",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202111/bg2021113005.webp",
+    "summary": "前不久，脸书的老板扎克伯格接受专访。\r"
+  },
+  {
+    "id": 186,
+    "title": "科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势",
+    "categories": [
+      "封面图",
+      "本周话题：低纬度，高海拔，气候优势",
+      "Go 语言面试题合集",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202112/bg2021120207.webp",
+    "summary": "上个月，我在四川旅行。离开成都以后，一路向南，就到了攀枝花。\r"
+  },
+  {
+    "id": 185,
+    "title": "科技爱好者周刊（第 185 期）：美国宪法拍卖，一个区块链案例",
+    "categories": [
+      "封面图",
+      "本周话题：美国宪法拍卖，一个区块链案例",
+      "大厂算法题模拟笔试",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202111/bg2021112501.jpg",
+    "summary": "上周四（11月18日），美国纽约有一场[拍卖会](https://www.sothebys.com/en/digital-catalogues/the-constitution-of-the-united-states)，拍卖第一版印刷的美国宪法。[这件事](https://www.sohu.com..."
+  },
+  {
+    "id": 184,
+    "title": "科技爱好者周刊（第 184 期）：政府的存储需求有多大？",
+    "categories": [
+      "封面图",
+      "本周话题：政府的存储需求有多大？",
+      "Vue 3.x 训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202111/bg2021111401.jpg",
+    "summary": "最近，有一条[新闻](https://www.theregister.com/2021/08/16/dallas_data_migration_8tb_deletion/)吸引了我的注意。\r"
+  },
+  {
+    "id": 183,
+    "title": "科技爱好者周刊（第 183 期）：腾讯的员工退休福利",
+    "categories": [
+      "封面图",
+      "本周话题：腾讯的员工退休福利",
+      "数据分析师训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202111/bg2021110305.jpg",
+    "summary": "本周，有一条程序员的大新闻：腾讯正式推出了[员工退休福利](https://finance.sina.cn/7x24/2021-11-05/detail-iktzqtyu5527461.d.html)。\r"
+  },
+  {
+    "id": 182,
+    "title": "科技爱好者周刊（第 182 期）：新人优惠的风险",
+    "categories": [
+      "封面图",
+      "本周话题：新人优惠的风险",
+      "P6 工程师必会的算法原理",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202111/bg2021110101.jpg",
+    "summary": "很多 App 都有“新人优惠”、“首单优惠”，提供很诱人的条件，吸引新用户。"
+  },
+  {
+    "id": 181,
+    "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？",
+    "categories": [
+      "封面图",
+      "本周话题：移动支付应该怎么设计？",
+      "KubeSphere 介绍",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202110/bg2021102402.jpg",
+    "summary": "支付宝和微信支付，垄断了中国的移动支付，两家合计的市场份额超过90%。"
+  },
+  {
+    "id": 180,
+    "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？",
+    "categories": [
+      "封面图",
+      "本周话题：你想住在中国哪里？",
+      "前端源码大练兵",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202110/bg2021101801.jpg",
+    "summary": "很多人不喜欢一线城市“北上广深”，觉得生活压力大，房价奇高，空间局促嘈杂，想要离开。"
+  },
+  {
+    "id": 179,
+    "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式",
+    "categories": [
+      "封面图",
+      "本周话题：AR 技术的正确打开方式",
+      "Go 语言基础学习",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202109/bg2021090604.jpg",
+    "summary": "前两天，我看到一条[新闻](https://www.nrw-forum.de/en/exhibitions/ar-biennale)，德国杜塞尔多夫开张了一家 AR 公园（增强现实公园）。"
+  },
+  {
+    "id": 178,
+    "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天",
+    "categories": [
+      "封面图",
+      "本周话题：家庭太阳能发电的春天",
+      "Vue 3.0 辅导视频",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202110/bg2021100601.jpg",
+    "summary": "最近，全国供电紧张，很多省的工业用电不够了。\r"
+  },
+  {
+    "id": 177,
+    "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途",
+    "categories": [
+      "封面图",
+      "本周话题：iPad 的真正用途",
+      "前端工程化实战",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202109/bg2021091801.jpg",
+    "summary": "大家的平板电脑，都用来干嘛？\r"
+  },
+  {
+    "id": 176,
+    "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？",
+    "categories": [
+      "封面图",
+      "本周话题：中国法院承认 GPL 吗？",
+      "使用 Node.js 开发一个 CLI 工具",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202109/bg2021091605.jpg",
+    "summary": "开源软件通常带有许可证。大家一直很想知道，如果国内用户不遵守许可证，可以去法院告他吗？"
+  },
+  {
+    "id": 175,
+    "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度",
+    "categories": [
+      "封面图",
+      "本周话题：知识广度 vs 知识深度",
+      "设计师零基础入门",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202109/bg2021090809.jpg",
+    "summary": "[上一期](https://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html)谈到，“特长程序员”比“全能程序员”吃香。"
+  },
+  {
+    "id": 174,
+    "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员",
+    "categories": [
+      "封面图",
+      "本周话题：全能程序员 vs 特长程序员",
+      "养老金咨询与规划",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202109/bg2021090117.jpg",
+    "summary": "我读过一些篮球报道，里面说 NBA 球队不喜欢“全能型球员”，更喜欢“特长型球员”。"
+  },
+  {
+    "id": 173,
+    "title": "科技爱好者周刊（第 173 期）：网络收音机的设计",
+    "categories": [
+      "封面图",
+      "本周话题：网络收音机的设计",
+      "《Vue、React 通用架构》公开课",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202108/bg2021082619.jpg",
+    "summary": "最近，我为家里的老人买了一台网络收音机。"
+  },
+  {
+    "id": 172,
+    "title": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？",
+    "categories": [
+      "封面图",
+      "本周话题：我们会死于气候灾难吗？",
+      "Vue 3.0 飞机大战游戏",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202108/bg2021080514.jpg",
+    "summary": "上周，联合国发布了一份[《气候问题评估报告》](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)，供各国政府参考。"
+  },
+  {
+    "id": 171,
+    "title": "科技爱好者周刊（第 171 期）：云服务流量有多贵？",
+    "categories": [
+      "封面图",
+      "本周话题：云服务流量有多贵？",
+      "前端“零代码”实践",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "乔布斯在京都",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202108/bg2021080213.jpg",
+    "summary": "上月，Cloudflare 的官网发表了一篇[罕见的文章](https://blog.cloudflare.com/aws-egregious-egress/)，它的 CEO 抨击亚马逊网络服务，流量收费太贵。"
+  },
+  {
+    "id": 170,
+    "title": "科技爱好者周刊（第 170 期）：软件订阅制的胜利",
+    "categories": [
+      "封面图",
+      "本周话题：软件订阅制的胜利",
+      "文档工具 ShowDoc",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202108/bg2021080408.jpg",
+    "summary": "上周，苹果公司最新一季的财报，披露了一个惊人的[数据](https://www.pymnts.com/earnings/2021/apple-paid-subscriptions-hit-700m-up-150m-since-last-year/)：它有 **7亿** 付费订阅用户。"
+  },
+  {
+    "id": 169,
+    "title": "科技爱好者周刊（第 169 期）：五菱汽车的产品设计",
+    "categories": [
+      "封面图",
+      "本周话题：五菱汽车的产品设计",
+      "Vue 3 和 React 17 的源码比较",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202107/bg2021072902.jpg",
+    "summary": "很多年前，我就知道五菱汽车。大学时，一个广西同学去了那里就业，从此我就记住了，柳州有一家汽车厂。"
+  },
+  {
+    "id": 168,
+    "title": "科技爱好者周刊（第 168 期）：游戏《底特律：变人》",
+    "categories": [
+      "封面图",
+      "本周话题：游戏《底特律：变人》",
+      "Webpack vs Vite 剖析",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202107/bg2021071802.jpg",
+    "summary": "本周谈谈游戏。去年双十一，我抱着巨大的期望，买了热门游戏《死亡搁浅》（Death Streading）。付款时，看见很多老游戏都是二折，随手又挑了一部《底特律：变人》（Detroit: Become Human）。"
+  },
+  {
+    "id": 167,
+    "title": "科技爱好者周刊（第 167 期）：广告拦截器太过分了",
+    "categories": [
+      "封面图",
+      "本周话题：广告拦截器太过分了",
+      "Node.js 入门课程",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202107/bg2021071518.jpg",
+    "summary": "上月的一期周刊，发生了怪事。我的个人网站有读者[留言](https://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html#comment-427536)：“怎么少了两段内容，你是不是遗漏了？”他的浏览器里，有两段文字消失了。"
+  },
+  {
+    "id": 166,
+    "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？",
+    "categories": [
+      "封面图",
+      "本周话题：视频学习胜过读书吗？",
+      "前端工程化实战",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202107/bg2021070816.jpg",
+    "summary": "现在，网上的课程视频和讲座视频，越来越多。同样的内容，可以读书学习，也可以视频学习，大家喜欢哪一种？"
+  },
+  {
+    "id": 165,
+    "title": "科技爱好者周刊（第 165 期）：全端 App 的时代",
+    "categories": [
+      "封面图",
+      "本周话题：全端 App 的时代",
+      "小程序原理实践课",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202106/bg2021062410.jpg",
+    "summary": "上周，微软发布了 Windows 11。最出人意料的是，它可以[运行安卓 App](https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store)！"
+  },
+  {
+    "id": 164,
+    "title": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较",
+    "categories": [
+      "封面图",
+      "本周话题：培训班 vs 大学，求职成功率比较",
+      "Vite.js 项目工程和原理剖析",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202106/bg2021062409.jpg",
+    "summary": "进入互联网大厂工作，是很多同学的愿望。"
+  },
+  {
+    "id": 163,
+    "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？",
+    "categories": [
+      "封面图",
+      "本周话题：你的城市有多少张病床？",
+      "数据分析实战",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202106/bg2021061101.jpg",
+    "summary": "上周，我在知乎看到一个帖子。作者有一句话，令人印象深刻，这周再去看，已经找不到了。"
+  },
+  {
+    "id": 162,
+    "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏",
+    "categories": [
+      "封面图",
+      "本周话题：生活就像《吃豆人》游戏",
+      "前端构建工具专题课",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片和视频",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202106/bg2021060914.jpg",
+    "summary": "有一个经典游戏，叫做[《吃豆人》](https://baike.baidu.com/item/%E5%90%83%E8%B1%86%E4%BA%BA/9119559)（Pac-Man）。1980年发布的，很多人现在还在玩。"
+  },
+  {
+    "id": 161,
+    "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士",
+    "categories": [
+      "封面图",
+      "本周话题：再见了，学术硕士",
+      "讲给前端工程师的 Serverless",
+      "科技动态",
+      "[第六根手指](https://www.daniclodedesign.com/thethirdthumb)",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202106/bg2021060320.jpg",
+    "summary": "最近有一条[新闻](https://www.163.com/dy/article/G9VTTL580511DC8A.html)，全国多所大学的重点专业（比如复旦的软件学院和经济学院）宣布， 从明年开始，不再招收学术型硕士了。"
+  },
+  {
+    "id": 160,
+    "title": "科技爱好者周刊（第 160 期）：中年码农的困境",
+    "categories": [
+      "封面图",
+      "本周话题：中年码农的困境",
+      "Authing 身份云",
+      "科技动态",
+      "[四种显示屏](https://hackaday.com/2021/05/09/artwork-spans-fifty-years-of-display-technology/)",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202105/bg2021052614.jpg",
+    "summary": "上周谈到了[游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)，我后来想到，曾经在 B 站看过一个[视频](https://www.bilibili.com/video/av838499481/)，也是讲这个..."
+  },
+  {
+    "id": 159,
+    "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪",
+    "categories": [
+      "封面图",
+      "本周话题：游戏开发者的年薪",
+      "深度剖析 React 源码",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202105/bg2021052012.jpg",
+    "summary": "最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 [#GameDevPaidMe](https://twitter.com/hashtag/gamedevpaidme) 这个标签就能看到，从中可以了解国外程序员的收入。"
+  },
+  {
+    "id": 158,
+    "title": "科技爱好者周刊（第 158 期）：内容渠道的贬值",
+    "categories": [
+      "封面图",
+      "本周话题：内容渠道的贬值",
+      "浏览器图形渲染入门",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202105/bg2021051305.jpg",
+    "summary": "上周，美国的 [Verizon 公司](https://www.cnbc.com/2021/05/03/verizon-sells-yahoo-and-aol-businesses-to-apollo-for-5-billion.html)宣布，将以前收购的两个网站—— AOL 和 Yahoo ——..."
+  },
+  {
+    "id": 157,
+    "title": "科技爱好者周刊（第 157 期）：KK 给年轻人的建议",
+    "categories": [
+      "封面图",
+      "本周话题：KK 给年轻人的建议",
+      "数据分析职业能力特训营",
+      "科技动态",
+      "[谷歌的新办公室设计](https://www.nytimes.com/2021/04/30/technology/google-back-to-office-workers.html)",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202104/bg2021041105.jpg",
+    "summary": "凯文·凯利（Kevin Kelly，网名 KK）是著名的科技评论家，曾经担任《连线》（Wired）杂志的第一任主编，他的著作《失控》在国内外都非常有名。"
+  },
+  {
+    "id": 156,
+    "title": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
+    "categories": [
+      "封面图",
+      "本周话题：显卡缺货与异业竞争",
+      "Vue3 原理剖析",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202104/bg2021042313.jpg",
+    "summary": "最近，我想再配一台电脑，结果发现买不到显卡。加密货币的价格暴涨，导致显卡早就被抢购一空。"
+  },
+  {
+    "id": 155,
+    "title": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
+    "categories": [
+      "封面图",
+      "本周话题：数字货币是打破美元霸权的武器吗？",
+      "家庭保险规划",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202104/bg2021041107.jpg",
+    "summary": "前些天，硅谷风险投资家[彼得·泰尔](https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable)（Pete..."
+  },
+  {
+    "id": 154,
+    "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
+    "categories": [
+      "封面图",
+      "本周话题：1982年的信息社会预言",
+      "数据分析培训",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202104/bg2021041108.jpg",
+    "summary": "美国未来学家约翰·奈斯比特（John Naisbitt）上周[去世](https://www.jiemian.com/article/5935782.html)了，享年92岁。"
+  },
+  {
+    "id": 153,
+    "title": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
+    "categories": [
+      "封面图",
+      "本周话题：机器翻译是对译者的侮辱吗？",
+      "Vite + TypeScript 深度实践",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202103/bg2021032508.jpg",
+    "summary": "上个月，豆瓣网有一条[新闻](https://www.sohu.com/a/458133742_260616)。北京语言大学的一个研究生，对乌拉圭小说《休战》的中译本打了差评。"
+  },
+  {
+    "id": 152,
+    "title": "科技爱好者周刊（第 152 期）：从北大到技校",
+    "categories": [
+      "封面图",
+      "本周话题：从北大到技校",
+      "算法面试必考100题",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202103/bg2021033008.jpg",
+    "summary": "最近，我看到一条[新闻](https://mp.weixin.qq.com/s/5ocKYYfHr1r4SC55ajkIWA)。十年前，有一个学生申请从北京大学转学去技校。十年过去了，他现在怎么样，媒体报道他的现状。"
+  },
+  {
+    "id": 151,
+    "title": "科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱",
+    "categories": [
+      "封面图",
+      "本周话题：NFT 是什么，听说能赚钱",
+      "Vue 3 原理解析",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202103/bg2021032509.jpg",
+    "summary": "最近，美国有一个东西非常火爆，叫做 NFT，价格飞涨到了离奇的地步。"
+  },
+  {
+    "id": 150,
+    "title": "科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候",
+    "categories": [
+      "封面图",
+      "本周话题：当音乐还是稀缺的时候",
+      "React 源码剖析",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202103/bg2021031604.jpg",
+    "summary": "上周，磁带的发明者、飞利浦公司的荷兰工程师 Lou Ottens [去世](https://www.npr.org/2021/03/10/975598869/lou-ottens-inventor-of-the-cassette-tape-has-died)了。"
+  },
+  {
+    "id": 149,
+    "title": "科技爱好者周刊（第 149 期）：新能源汽车，谁会是赢家？",
+    "categories": [
+      "封面图",
+      "本周话题：新能源汽车，谁会是赢家？",
+      "前端工程训练营",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202103/bg2021030804.jpg",
+    "summary": "过去的一年，新能源汽车突然成了明星，电动车公司的股价都上涨了许多倍。"
+  },
+  {
+    "id": 148,
+    "title": "科技爱好者周刊（第 148 期）：微增长时代",
+    "categories": [
+      "封面图",
+      "本周话题：微增长时代",
+      "Vue.js + Element UI 实战",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "历史上的本周",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202103/bg2021030103.jpg",
+    "summary": "中国经济高速增长了40年，我们每个人都受益。但是接下来，可能不会增长这么快了。"
+  },
+  {
+    "id": 147,
+    "title": "科技爱好者周刊（第 147 期）：寻找你愿意忍受的痛苦",
+    "categories": [
+      "封面图",
+      "本周话题：寻找你愿意忍受的痛苦",
+      "前端图形学",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202102/bg2021021705.jpg",
+    "summary": "[约翰·乌歇尔](https://en.wikipedia.org/wiki/John_Urschel)（John Urschel）是一个职业橄榄球运动员。"
+  },
+  {
+    "id": 146,
+    "title": "科技爱好者周刊（第 146 期）：网课应该怎么上？",
+    "categories": [
+      "封面图",
+      "本周话题：网课应该怎么上？",
+      "数据分析的技能秘籍",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202102/bg2021021403.jpg",
+    "summary": "2020年，在线教育行业大爆发，许多公司都获得了[巨额投资](https://finance.sina.com.cn/tech/2021-02-04/doc-ikftpnny4120146.shtml)。"
+  },
+  {
+    "id": 145,
+    "title": "科技爱好者周刊（第 145 期）：大家不出门，经济怎么办？",
+    "categories": [
+      "封面图",
+      "本周话题：大家不出门，经济怎么办？",
+      "Vue3.0 从实战到源码剖析",
+      "科技动态",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202102/bg2021020303.jpg",
+    "summary": "最近，我和一个朋友聊天。他说了一个观点，令我印象深刻。"
+  },
+  {
+    "id": 144,
+    "title": "科技爱好者周刊（第 144 期）：提高收入的根本途径",
+    "categories": [
+      "封面图",
+      "本周话题：提高收入的根本途径",
+      "Vue 3 PK React 17 特训营",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202101/bg2021011601.jpg",
+    "summary": "我看到[一个故事](https://erik-engheim.medium.com/stop-the-hard-work-obsession-america-6e5c29b1c07c)，很有启发，给大家讲一下。"
+  },
+  {
+    "id": 143,
+    "title": "科技爱好者周刊（第 143 期）：世界尽头与冷酷仙境",
+    "categories": [
+      "封面图",
+      "本周话题：世界尽头与冷酷仙境",
+      "家庭保障规划咨询",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202101/bg2021010706.jpg",
+    "summary": "[上一期周刊](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)谈到，2020年是科技发展辉煌的一年。但是， **对于普通人来说，今后的日子其实更不容易了，生存难度变大了。**"
+  },
+  {
+    "id": 142,
+    "title": "科技爱好者周刊（第 142 期）：2020年才是21世纪元年",
+    "categories": [
+      "封面图",
+      "本周话题：2020年才是21世纪元年",
+      "TypeScript 学习资料",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202012/bg2020123102.jpg",
+    "summary": "刚刚过去的2020年，无疑是人类历史上糟糕的一年。"
+  },
+  {
+    "id": 141,
+    "title": "科技爱好者周刊（第 141 期）：封闭系统的胜利",
+    "categories": [
+      "封面图",
+      "本周话题：封闭系统的胜利",
+      "程序员面试攻略",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202101/bg2021010101.jpg",
+    "summary": "去年的一件大事，苹果公司发布 M1 芯片。"
+  },
+  {
+    "id": 140,
+    "title": "科技爱好者周刊（第 140 期）：印度人的工资是多少？",
+    "categories": [
+      "封面图",
+      "本周话题：印度人的工资是多少？",
+      "Vue.js 常见面试题",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202012/bg2020123004.jpg",
+    "summary": "两周前有一条[新闻](https://finance.sina.com.cn/tech/2020-12-13/doc-iiznezxs6648424.shtml)。台湾科技企业纬创在印度的 iPhone 代工厂发生“暴动”事件，2000个印度工人大肆打砸公司用品，现场一片狼藉。"
+  },
+  {
+    "id": 139,
+    "title": "科技爱好者周刊（第 139 期）：生物学的可怕进展",
+    "categories": [
+      "封面图",
+      "本周话题：生物学的可怕进展",
+      "Web Component 组件开发资料",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202012/bg2020122303.jpg",
+    "summary": "上周，一家美国网站发表了一篇 mRNA 疫苗的[文章](https://www.aier.org/article/the-fdas-deadly-caution/)，我看了大吃一惊。"
+  },
+  {
+    "id": 138,
+    "title": "科技爱好者周刊（第 138 期）：失业难以避免，重构人生规划",
+    "categories": [
+      "封面图",
+      "本周话题：失业难以避免，重构人生规划",
+      "数据分析手册",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202012/bg2020121503.jpg",
+    "summary": "最近读到了[一段话](https://rishad.substack.com/p/the-future-of-work)，引起了我的思考。"
+  },
+  {
+    "id": 137,
+    "title": "科技爱好者周刊（第 137 期）：Slack 被收购，以及企业的技术选型",
+    "categories": [
+      "封面图",
+      "本周话题：Slack 被收购，以及企业的技术选型",
+      "《前端性能优化》视频课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202012/bg2020120908.jpg",
+    "summary": "Slack 是一个非常优秀的团队通信协作软件，如果你没用过，我很推荐试试看。"
+  },
+  {
+    "id": 136,
+    "title": "科技爱好者周刊（第 136 期）：利特伍德奇迹定律",
+    "categories": [
+      "封面图",
+      "本周话题：利特伍德奇迹定律",
+      "IT 工程师技能图谱",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202012/bg2020120303.jpg",
+    "summary": "这个星期，我读到[一篇文章](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)，谈怎么理财。"
+  },
+  {
+    "id": 135,
+    "title": "科技爱好者周刊（第 135 期）：什么行业适合创业？",
+    "categories": [
+      "封面图",
+      "本周话题：什么行业适合创业？",
+      "《前端与图形学》公开课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202011/bg2020112601.jpg",
+    "summary": "[一个美国风险投资家](https://acrowdedspace.com/post/116567620957/vertical-or-horizontal)解释他如何选择风投项目，我觉得很新奇。"
+  },
+  {
+    "id": 134,
+    "title": "科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍",
+    "categories": [
+      "封面图",
+      "本周话题：未来的游戏业比现在大100倍",
+      "数据分析全套讲解视频",
+      "资讯",
+      "Big Sur",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202011/bg2020111823.jpg",
+    "summary": "最近，我看到[一份资料](https://www.visualcapitalist.com/multi-billion-dollar-console-gaming-market/)，比较了各种娱乐方式的成本（美国的数据）。"
+  },
+  {
+    "id": 133,
+    "title": "科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？",
+    "categories": [
+      "封面图",
+      "本周话题：贵州变瑞士，有没有可能？",
+      "Vue 服务器渲染（SSR）视频教程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202011/bg2020111123.jpg",
+    "summary": "上个月，我第一次去贵州，玩了一周。这次旅行让我想起一篇大学里读过的文章。"
+  },
+  {
+    "id": 132,
+    "title": "科技爱好者周刊（第 132 期）：快能力和慢能力",
+    "categories": [
+      "封面图",
+      "本周话题：快能力和慢能力",
+      "极客时间 VIP 卡免费送",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202011/bg2020110415.jpg",
+    "summary": "美国著名投资家芒格（Charles Munger）是巴菲特的合伙人，以投资思想丰富而著称。"
+  },
+  {
+    "id": 131,
+    "title": "科技爱好者周刊（第 131 期）：你的头脑是二值逻辑，还是三值逻辑？",
+    "categories": [
+      "封面图",
+      "微信小程序入门教程",
+      "本周话题：你的头脑是二值逻辑，还是三值逻辑？",
+      "Web 前端大学生就业项目",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202010/bg2020102809.jpg",
+    "summary": "本周，我发布了[《微信小程序入门教程》](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)，分成四次连载，帮助初学者学会写微信小程序。"
+  },
+  {
+    "id": 130,
+    "title": "科技爱好者周刊（第 130 期）：低龄化的互联网",
+    "categories": [
+      "封面图",
+      "本周话题：低龄化的互联网",
+      "前端开发进阶手册",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202010/bg2020100715.jpg",
+    "summary": "现在，很多人拍视频为生。每天拍若干条，上传到门户网站，靠网站分红和商业合作赚钱。"
+  },
+  {
+    "id": 129,
+    "title": "科技爱好者周刊（第 129 期）：创业的凸函数和凹函数",
+    "categories": [
+      "封面图",
+      "本周话题：创业的凸函数和凹函数",
+      "身份云 Authing",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202010/bg2020100716.jpg",
+    "summary": "著名畅销书[《黑天鹅》](https://book.douban.com/subject/6854525/)的作者纳西姆·塔勒布（Nassim Taleb），以前是纽约大学的数学教授，后来从事数理金融和风险管理。他写了很多科普文章，使用数学概念去分析各种现象。"
+  },
+  {
+    "id": 128,
+    "title": "科技爱好者周刊（第 128 期）：这个社会是否正在变成“赛博朋克”？",
+    "categories": [
+      "封面图",
+      "本周话题：这个社会是否正在变成“赛博朋克”？",
+      "Vue 进阶攻略",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202010/bg2020100714.jpg",
+    "summary": "下个月，热门游戏[《赛博朋克2077》](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)就要上市了，发布了好多新闻和预告片。我突然觉得，“赛博朋克”这个词（Cyberpunk）很值得谈一下。"
+  },
+  {
+    "id": 127,
+    "title": "科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码",
+    "categories": [
+      "封面图",
+      "本周话题：未来人人开发软件，几乎没人编码",
+      "JavaScript 学习视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202009/bg2020092801.jpg",
+    "summary": "现在，少儿编程培训班很流行，一到周末，家长们就送孩子去学计算机。"
+  },
+  {
+    "id": 126,
+    "title": "科技爱好者周刊（第 126 期）：内卷化是什么？",
+    "categories": [
+      "封面图",
+      "本周话题：内卷化是什么？",
+      "小白财务理财课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202009/bg2020091402.jpg",
+    "summary": "最近，我经常看到“内卷化”这个词，不理解什么意思。"
+  },
+  {
+    "id": 125,
+    "title": "科技爱好者周刊（第 125 期）：数字人民币要取代谁",
+    "categories": [
+      "封面图",
+      "本周话题：数字人民币要取代谁",
+      "大数据分析实战课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202009/bg2020091705.jpg",
+    "summary": "数字人民币，已经传了很久了，但它到底是什么东西，媒体却不提。"
+  },
+  {
+    "id": 124,
+    "title": "科技爱好者周刊（第 124 期）：华为如何考核员工",
+    "categories": [
+      "封面图",
+      "本周话题：华为如何考核员工",
+      "Vue 进阶专题课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202009/bg2020090407.jpg",
+    "summary": "最近，华为的一份[内部文件](https://k.sina.cn/article_1410843462_5417c34602700ogw5.html)出现在网上。"
+  },
+  {
+    "id": 123,
+    "title": "科技爱好者周刊（第 123 期）：互联网公司与湘军的军制",
+    "categories": [
+      "封面图",
+      "本周话题：互联网公司与湘军的军制",
+      "React 教学视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202008/bg2020083102.jpg",
+    "summary": "大学里，我读过一本历史学著作，罗尔纲的[《湘军兵志》](https://baike.baidu.com/item/%E6%B9%98%E5%86%9B%E5%85%B5%E5%BF%97)。"
+  },
+  {
+    "id": 122,
+    "title": "科技爱好者周刊（第 122 期）：谈谈互联网公司的高估值",
+    "categories": [
+      "封面图",
+      "本周话题：谈谈互联网公司的高估值",
+      "前端面试攻略",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202008/bg2020081802.jpg",
+    "summary": "上周，[贝壳找房](https://finance.sina.com.cn/stock/s/2020-08-24/doc-iivhvpwy2782408.shtml)在美国上市，第一天的市值就超过了中国最大的房地产公司万科。"
+  },
+  {
+    "id": 121,
+    "title": "科技爱好者周刊（第 121 期）：为什么人类没有越来越闲？",
+    "categories": [
+      "封面图",
+      "本周话题：为什么人类没有越来越闲？",
+      "Webpack 免费教程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202008/bg2020081305.jpg",
+    "summary": "很多人相信，随着科技的发展，未来的人们会有很多空闲时间，因为机器会干活。"
+  },
+  {
+    "id": 120,
+    "title": "科技爱好者周刊（第 120 期）：只有开放才能打败封锁",
+    "categories": [
+      "封面图",
+      "本周话题：只有开放才能打败封锁",
+      "数据分析实战",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202008/bg2020080205.jpg",
+    "summary": "美国搞技术封锁，不允许中国企业使用美国技术。今天就来谈谈，应该怎么应对这种局面。"
+  },
+  {
+    "id": 119,
+    "title": "科技爱好者周刊（第 119 期）：降雨量和保险博弈",
+    "categories": [
+      "封面图",
+      "本周话题：降雨量和保险博弈",
+      "前端高频面试题 140 道",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202007/bg2020072903.jpg",
+    "summary": "前几天，我看到了一个很新奇的保险：[上下班降雨险](https://www.airiskeys.com/p/YAIC20170629001/index.html)。"
+  },
+  {
+    "id": 118,
+    "title": "科技爱好者周刊（第 118 期）：高考志愿怎么填",
+    "categories": [
+      "封面图",
+      "本周话题：高考志愿怎么填",
+      "前端图形学教程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202007/bg2020072417.jpg",
+    "summary": "前不久，亲戚朋友咨询我，高考志愿的填写建议。"
+  },
+  {
+    "id": 117,
+    "title": "科技爱好者周刊（第 117 期）：我不想让你记住我的脸",
+    "categories": [
+      "封面图",
+      "本周话题：我不想让你记住我的脸",
+      "TypeScript 视频教程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202007/bg2020071803.jpg",
+    "summary": "上海电视台最近报道：“本市徐汇区漕河泾街道的薛家宅小区，正在推行门禁系统的人脸识别。小区居民必须在指定时间，到社区办公区录入自己的脸。”"
+  },
+  {
+    "id": 116,
+    "title": "科技爱好者周刊（第 116 期）：世界的未来是一个火药桶",
+    "categories": [
+      "刊首图",
+      "本周话题：世界的未来是一个火药桶",
+      "数据分析学习资料",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片：幸存者公寓",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071304.jpg)"
+  },
+  {
+    "id": 115,
+    "title": "科技爱好者周刊（第 115 期）：保护你的 DNA，不要泄漏",
+    "categories": [
+      "封面图",
+      "本周话题：保护你的 DNA，不要泄漏",
+      "讲座：算法面试的必考知识点",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202007/bg2020070117.jpg",
+    "summary": "上周，美国佛罗里达州通过了[《DNA 隐私法》](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genet..."
+  },
+  {
+    "id": 114,
+    "title": "科技爱好者周刊（第 114 期）：U 盘化生存和 Uber-job",
+    "categories": [
+      "封面图",
+      "本周话题：U 盘化生存和 Uber-job",
+      "Vue.js 3.0 专题课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202006/bg2020062707.jpg",
+    "summary": "最近，我学到了几个新词，跟大家分享一下。"
+  },
+  {
+    "id": 113,
+    "title": "科技爱好者周刊（第 113 期）：暴力犯罪为什么越来越少？",
+    "categories": [
+      "封面图",
+      "本周话题：暴力犯罪为什么越来越少？",
+      "winter 前端进阶训练营",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202006/bg2020062203.jpg",
+    "summary": "一个[台湾网友](https://twitter.com/octw/status/1271994128851591169)在推特说，根据统计，台湾的暴力犯罪在过去20年惊人地下降，2019年已经比最高峰时减少了94.2%。"
+  },
+  {
+    "id": 112,
+    "title": "科技爱好者周刊（第 112 期）：如何培养领导力",
+    "categories": [
+      "封面",
+      "本周话题：如何培养领导力",
+      "前端开发进阶手册",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060512.jpg)"
+  },
+  {
+    "id": 111,
+    "title": "科技爱好者周刊（第 111 期）：智能电视的误区",
+    "categories": [
+      "封面图",
+      "本周话题：智能电视的误区",
+      "数据分析全套讲解",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202005/bg2020052902.jpg",
+    "summary": "国内的智能电视机，现在都自带系统，一打开就是各种菜单，有直播、影视、游戏、应用等等。"
+  },
+  {
+    "id": 110,
+    "title": "科技爱好者周刊（第 110 期）：如果不能去美国上市",
+    "categories": [
+      "封面图",
+      "本周话题：如果不能去美国上市",
+      "Vue 免费视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "本周故事：默奇森陨石",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202005/bg2020052905.jpg",
+    "summary": "中国的优秀技术公司，在国内上市的并不多，大部分在美国上市。如果以后美国不允许中国企业上市，那对国内会有什么影响？"
+  },
+  {
+    "id": 109,
+    "title": "科技爱好者周刊（第 109 期）：播客的价值",
+    "categories": [
+      "封面图",
+      "本周话题：播客的价值",
+      "前端开发进阶手册",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202005/bg2020052114.jpg",
+    "summary": "Spotify 最近购买了乔·罗根（Joe Rogan）播客节目的独家播放权，价格据说达到了[一亿美元](https://nymag.com/intelligencer/2020/05/why-did-spotify-pay-so-much-for-joe-rogans-podcast.html)。"
+  },
+  {
+    "id": 108,
+    "title": "科技爱好者周刊：第 108 期",
+    "categories": [
+      "封面图",
+      "本周话题：阵地战与奇袭战",
+      "免费理财课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202005/bg2020051711.jpg",
+    "summary": "本周向大家推荐一本书，我前一阵子读完的[《隆美尔战时文件》](https://book.douban.com/subject/1312942/)，觉得很好看。"
+  },
+  {
+    "id": 107,
+    "title": "科技爱好者周刊：第 107 期",
+    "categories": [
+      "封面图",
+      "本期话题：致富与杠杆",
+      "Vue 免费视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202005/bg2020051001.jpg",
+    "summary": "美国风险投资家 Naval Ravikant 有一个很有名的长推特，一共40条，题目叫做[《如何致富，不靠运气》](https://threadreaderapp.com/thread/1002103360646823936.html)，谈了他的商业观。"
+  },
+  {
+    "id": 106,
+    "title": "科技爱好者周刊：第 106 期",
+    "categories": [
+      "封面图",
+      "本期话题：数字游民",
+      "Gitee 的轻量级 PR",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202004/bg2020042905.jpg",
+    "summary": "今天，谈谈一个新的英语词汇 [\"digital nomad\"](https://en.wikipedia.org/wiki/Digital_nomad)，中文意思是\"数字游民\"。"
+  },
+  {
+    "id": 105,
+    "title": "科技爱好者周刊：第 105 期",
+    "categories": [
+      "封面图",
+      "本周话题：线上行业会赢",
+      "极客时间免费赠课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "https://cdn.beekka.com/blogimg/asset/202004/bg2020042703.jpg",
+    "summary": "最近，我了解了一下，周围朋友们的情况。"
+  },
+  {
+    "id": 104,
+    "title": "科技爱好者周刊：第 104 期",
+    "categories": [
+      "Intro",
+      "封面图片",
+      "本周话题：语音合成的用途",
+      "前端面试准备视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "[通知] 下周五是五一假期，周刊会提前一天在周四（4月30日）发布。"
+  },
+  {
+    "id": 103,
+    "title": "科技爱好者周刊：第 103 期",
+    "categories": [
+      "封面图片",
+      "本周话题：信息的半衰期",
+      "前端必备数据和算法结构",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202004/bg2020041604.jpg)"
+  },
+  {
+    "id": 102,
+    "title": "科技爱好者周刊：第 102 期",
+    "categories": [
+      "封面",
+      "本周观点：工作热情从何而来？",
+      "Webpack 免费视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202004/bg2020040505.jpg)"
+  },
+  {
+    "id": 101,
+    "title": "科技爱好者周刊：第 101 期",
+    "categories": [
+      "封面照片",
+      "本周观点：互联网不再稀缺",
+      "Vue3 快速深入全攻略",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202003/bg2020032702.jpg)"
+  },
+  {
+    "id": 100,
+    "title": "科技爱好者周刊：第 100 期",
+    "categories": [
+      "Intro",
+      "刊首语：零利率时代",
+      "前端培训课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202003/bg2020032205.jpg)"
+  },
+  {
+    "id": 99,
+    "title": "科技爱好者周刊：第 99 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "免费前端视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020707.jpg)"
+  },
+  {
+    "id": 98,
+    "title": "科技爱好者周刊：第 98 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "谱蓝财务保障咨询",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202002/bg2020020201.jpg)"
+  },
+  {
+    "id": 97,
+    "title": "科技爱好者周刊：第 97 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "免费前端视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011901.jpg)"
+  },
+  {
+    "id": 96,
+    "title": "科技爱好者周刊：第 96 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "前端面试专题课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/202001/bg2020011804.jpg)"
+  },
+  {
+    "id": 95,
+    "title": "科技爱好者周刊：第 95 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "免费前端视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201912/bg2019122902.jpg)"
+  },
+  {
+    "id": 94,
+    "title": "科技爱好者周刊：第 94 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "面试专题课《三步吃透浏览器原理》",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113001.jpg)"
+  },
+  {
+    "id": 93,
+    "title": "科技爱好者周刊：第 93 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "50 天进阶 Python 高手",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121509.jpg)"
+  },
+  {
+    "id": 92,
+    "title": "科技爱好者周刊：第 92 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121006.jpg)"
+  },
+  {
+    "id": 91,
+    "title": "科技爱好者周刊：第 91 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "前端免费教学视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "[通知] **下周五（1月24日）是除夕，周刊暂停一周，祝大家新年如意。**"
+  },
+  {
+    "id": 90,
+    "title": "科技爱好者周刊：第 90 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "验证码识别服务 2Captcha",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120604.jpg)"
+  },
+  {
+    "id": 89,
+    "title": "科技爱好者周刊：第 89 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "前端框架免费视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201912/bg2019120302.jpg)"
+  },
+  {
+    "id": 88,
+    "title": "科技爱好者周刊：第 88 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "Vue.js 免费课",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019113002.jpg)"
+  },
+  {
+    "id": 87,
+    "title": "科技爱好者周刊：第 87 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "彩云小译",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121703.jpg)"
+  },
+  {
+    "id": 86,
+    "title": "科技爱好者周刊：第 86 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "人工智能学习大礼包",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112713.jpg)"
+  },
+  {
+    "id": 85,
+    "title": "科技爱好者周刊：第 85 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "Vue 免费教学视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019112509.jpg)"
+  },
+  {
+    "id": 84,
+    "title": "科技爱好者周刊：第 84 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "前端学习资料免费领",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111702.jpg)"
+  },
+  {
+    "id": 83,
+    "title": "科技爱好者周刊：第 83 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "前端全栈精英班",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019111703.jpg)"
+  },
+  {
+    "id": 82,
+    "title": "科技爱好者周刊：第 82 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "前端架构师免费课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110813.jpg)"
+  },
+  {
+    "id": 81,
+    "title": "科技爱好者周刊：第 81 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "职坐标系列课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201911/bg2019110707.jpg)"
+  },
+  {
+    "id": 80,
+    "title": "科技爱好者周刊：第 80 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论与数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201910/bg2019103101.jpg)"
+  },
+  {
+    "id": 79,
+    "title": "科技爱好者周刊：第 79 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "算法训练营",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数字",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201910/bg2019102417.jpg)"
+  },
+  {
+    "id": 78,
+    "title": "科技爱好者周刊：第 78 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "优达学城，双十一优惠",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201910/bg2019101707.jpg)"
+  },
+  {
+    "id": 77,
+    "title": "科技爱好者周刊：第 77 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "谱蓝家庭保障顾问",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100907.jpg)"
+  },
+  {
+    "id": 76,
+    "title": "科技爱好者周刊：第 76 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201910/bg2019100301.jpg)"
+  },
+  {
+    "id": 75,
+    "title": "科技爱好者周刊：第 75 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "Udacity 免费课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092604.jpg)"
+  },
+  {
+    "id": 74,
+    "title": "科技爱好者周刊：第 74 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "60天攻克数据结构与算法",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数据",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091910.jpg)"
+  },
+  {
+    "id": 73,
+    "title": "科技爱好者周刊：第 73 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论和数字",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091206.jpg)"
+  },
+  {
+    "id": 72,
+    "title": "科技爱好者周刊：第 72 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "Web 全栈架构师课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090502.jpg)"
+  },
+  {
+    "id": 71,
+    "title": "科技爱好者周刊（第 71 期）",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082601.jpg)"
+  },
+  {
+    "id": 70,
+    "title": "科技爱好者周刊：第 70 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "Vue 源码解析",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082201.jpg)"
+  },
+  {
+    "id": 69,
+    "title": "科技爱好者周刊：第 69 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "家庭保障规划",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081403.jpg)"
+  },
+  {
+    "id": 68,
+    "title": "科技爱好者周刊：第 68 期",
+    "categories": [
+      "Intro",
+      "刊首语",
+      "Vue 源码解析视频",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080702.jpg)"
+  },
+  {
+    "id": 67,
+    "title": "科技爱好者周刊：第 67 期",
+    "categories": [
+      "Intro",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201908/bg2019080109.jpg)"
+  },
+  {
+    "id": 66,
+    "title": "科技爱好者周刊：第 66 期",
+    "categories": [
+      "Intro",
+      "前端面试知识图谱",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "招聘信息",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201907/bg2019072414.jpg)"
+  },
+  {
+    "id": 65,
+    "title": "科技爱好者周刊（第 65 期）：周刊开设\"谁在招人\"的招聘服务",
+    "categories": [
+      "Intro",
+      "本周话题：周刊开设\"谁在招人\"的招聘服务",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "招聘信息",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071806.jpg)"
+  },
+  {
+    "id": 64,
+    "title": "科技爱好者周刊：第 64 期",
+    "categories": [
+      "Intro",
+      "数据分析师课程",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201907/bg2019071101.jpg)"
+  },
+  {
+    "id": 63,
+    "title": "科技爱好者周刊：第 63 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070402.jpg)"
+  },
+  {
+    "id": 62,
+    "title": "科技爱好者周刊：第 62 期",
+    "categories": [
+      "Intro",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062801.jpg)"
+  },
+  {
+    "id": 61,
+    "title": "科技爱好者周刊：第61期",
+    "categories": [
+      "Intro",
+      "资讯",
+      "文章",
+      "工具",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062101.jpg)"
+  },
+  {
+    "id": 60,
+    "title": "每周分享第 60 期",
+    "categories": [
+      "Intro",
+      "家庭保障规划",
+      "资讯",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 59,
+    "title": "每周分享第 59 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 58,
+    "title": "每周分享第 58 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 57,
+    "title": "每周分享第 57 期",
+    "categories": [
+      "Intro",
+      "React 免费视频课程",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 56,
+    "title": "每周分享第 56 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 55,
+    "title": "每周分享第 55 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "保险公众号推荐",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 54,
+    "title": "每周分享第 54 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 53,
+    "title": "每周分享第 53 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "回顾",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 52,
+    "title": "每周分享第 52 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 51,
+    "title": "每周分享第 51 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "文摘",
+      "图片",
+      "言论",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 50,
+    "title": "每周分享第 50 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 49,
+    "title": "每周分享第 49 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "软件",
+      "资源",
+      "图片",
+      "文摘",
+      "言论",
+      "订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 48,
+    "title": "每周分享第 48 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 47,
+    "title": "每周分享第 47 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "文章",
+      "工具",
+      "资源",
+      "本周图片",
+      "新奇",
+      "文摘",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 46,
+    "title": "每周分享第 46 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 45,
+    "title": "每周分享第 45 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "关哥说险",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 44,
+    "title": "每周分享第 44 期（20190222）",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 43,
+    "title": "每周分享第 43 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 42,
+    "title": "每周分享第 42 期（20190201）",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 41,
+    "title": "每周分享第 41 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 40,
+    "title": "每周分享第 40 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 39,
+    "title": "每周分享第 39 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 38,
+    "title": "每周分享第 38 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 37,
+    "title": "每周分享第 37 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 36,
+    "title": "每周分享第 36 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 35,
+    "title": "每周分享第 35 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 34,
+    "title": "每周分享第 34 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "新奇",
+      "每周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 33,
+    "title": "每周分享第 33 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 32,
+    "title": "每周分享第 32 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 31,
+    "title": "每周分享第 31 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 30,
+    "title": "每周分享第 30 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 29,
+    "title": "每周分享第 29 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 28,
+    "title": "每周分享第 28 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 27,
+    "title": "每周分享第 27 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 26,
+    "title": "每周分享第 26 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 25,
+    "title": "每周分享第 25 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 24,
+    "title": "每周分享第 24 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "数据分析师课程",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 23,
+    "title": "每周分享第 23 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 22,
+    "title": "每周分享第 22 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 21,
+    "title": "每周分享第 21 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 20,
+    "title": "每周分享第 20 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 19,
+    "title": "每周分享第 19 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 18,
+    "title": "每周分享第 18 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 17,
+    "title": "每周分享第 17 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 16,
+    "title": "每周分享第 16 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 15,
+    "title": "每周分享第 15 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "互联网人才报告",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 14,
+    "title": "每周分享第 14 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 13,
+    "title": "每周分享（第 13 期）：周刊为什么只谈技术？",
+    "categories": [
+      "Intro",
+      "本周话题：周刊为什么只谈技术？",
+      "新闻",
+      "教程",
+      "工具",
+      "资源",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 12,
+    "title": "每周分享第 12 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 11,
+    "title": "每周分享第 11 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 10,
+    "title": "每周分享第 10 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 9,
+    "title": "每周分享第 9 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "免费 Python 课程",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "新奇",
+      "每周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 8,
+    "title": "每周分享第 8 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "资源",
+      "工具",
+      "文摘",
+      "每周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 7,
+    "title": "每周分享第 7 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "FrontJS",
+      "教程",
+      "工具",
+      "文摘",
+      "新奇",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 6,
+    "title": "每周分享第 6 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 5,
+    "title": "每周分享第 5 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "JavaScript 高级前端开发课程",
+      "教程",
+      "工具",
+      "文摘",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 4,
+    "title": "每周分享第 4 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "文摘",
+      "本周图片",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西，每周五发布。"
+  },
+  {
+    "id": 3,
+    "title": "每周分享第 3 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "文摘",
+      "电影",
+      "本周图片",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西。"
+  },
+  {
+    "id": 2,
+    "title": "每周分享第 2 期",
+    "categories": [
+      "Intro",
+      "新闻",
+      "教程",
+      "工具",
+      "文摘",
+      "电影",
+      "本周图片",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西。"
+  },
+  {
+    "id": 1,
+    "title": "每周分享第 1 期",
+    "categories": [
+      "Intro",
+      "语雀",
+      "新闻",
+      "教程",
+      "文摘",
+      "工具",
+      "新奇",
+      "本周金句",
+      "欢迎订阅"
+    ],
+    "coverImage": "",
+    "summary": "这里记录过去一周，我看到的值得分享的东西。"
+  }
+]

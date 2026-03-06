@@ -1,0 +1,12 @@
+{
+  "name": "AI 工具",
+  "slug": "a-i-gong-ju",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 338,
+      "issueTitle": "科技爱好者周刊（第 338 期）：重新思考 6G",
+      "content": "\n1、[DeepSRT](https://chromewebstore.google.com/detail/deepsrt-experience-the-fa/mdaaadlpcanoofcoeanghbmpbdbhladd)\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021503.webp)\n\n一个 Chrome 插件，观看 Youtube 视频时，在浏览器侧边栏展示视频总结和字幕。（[@tsungmin](https://github.com/ruanyf/weekly/issues/6108) 投稿）\n\n2、[Deep Research Web UI](https://github.com/AnotiaWang/deep-research-web-ui)\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021504.webp)\n\nAI 深度研究的前端 UI，可以接入各种大模型，结合搜索引擎和网页抓取，对各种主题进行迭代式深入研究。（[@AnotiaWang](https://github.com/ruanyf/weekly/issues/6110) 投稿）\n\n3、[AI 翻译助手](https://github.com/ItusiAI/AI-Translation-Assistant-Pro)\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021701.webp)\n\n开源的 AI 翻译网站。（[@321208008](https://github.com/ruanyf/weekly/issues/6121) 投稿）\n\n4、[GitSeek](https://gitseek.dev/)\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022001.webp)\n\n给定一个代码库，使用自然语言搜索需要的代码片段。（[@i-richardwang](https://github.com/ruanyf/weekly/issues/6132) 投稿）\n\n5、[AI 多人聊天室](https://github.com/maojindao55/botgroup.chat)\n\n![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022002.webp)\n\n一个开源的、基于 React和 Cloudflare Pages 的 AI 聊天室，跟多个 AI 模型同时聊天。（[@maojindao55](https://github.com/ruanyf/weekly/issues/6133) 投稿）\n"
+    }
+  ]
+}

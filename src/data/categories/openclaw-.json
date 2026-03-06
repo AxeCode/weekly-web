@@ -1,0 +1,12 @@
+{
+  "name": "OpenClaw 的安全",
+  "slug": "openclaw-",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 387,
+      "issueTitle": "科技爱好者周刊（第 387 期）：你是领先的",
+      "content": "\n眼下全世界最火爆的软件，一定属于个人 AI 助手 [OpenClaw](https://openclaw.ai/) 。\n\n![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030302.webp)\n\n火爆到什么程度？\n\n四个月的时间，它在 GitHub 得到了25万颗星星，超过了 React，成为有史以来[星星最多的软件项目](https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software)。\n\n要知道这些星星，React 用了13年，它只用4个月。\n\n![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030303.webp)\n\n上图中，垂直上升的红线就是 OpenClaw，太夸张了。\n\nOpenClaw 的作用，就是通过自然语言控制电脑，完成自动化操作。以前，你需要多种工具和专业技能，才能达到同样的效果。现在只要输入文字或者口述，这不仅有用，也很有趣。\n\n它基本上就是苹果智能助理 Siri 应该有的样子。对于普通用户，这才是与电脑交互的正确方式。可以预料，几年之内，这类工具将会普及到每个人的手机。\n\n但是，它有一个问题：不够安全。\n\nOpenClaw 有40多万行代码、53个配置文件、超过70项依赖，在短短几周内由 AI 生成，没有任何正规的审查流程。\n\n它需要使用你的个人密钥，而且权限极大，完全自主运行。有人把自己的 Apple ID、Gmail 邮箱都授权给它，不敢想象啊，万一出错，会是怎样的后果。\n\n它的防护措施很少，原始设计根本没有，一不小心，还可能暴露在公网上。\n\n![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030301.webp)\n\n有人做了一个 [OpenClaw 暴露看板](https://openclaw.allegro.earth/)（OpenClaw Exposure Watchboard），收集了所有暴露到公网的 OpenClaw 实例（上图）。你知道现在有多少台？截止到昨天是258305。\n\n你随便选一台机器点进去，就能看到 OpenClaw 控制面板（下图）。\n\n![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030304.webp)\n\n那个架设的人，以为正在自动化自己的电脑，哪里料到向全世界敞开了大门。\n\n如果你要用 OpenClaw，至少要安装在虚拟机或者专用的物理机，否则就自求多福吧。\n"
+    }
+  ]
+}

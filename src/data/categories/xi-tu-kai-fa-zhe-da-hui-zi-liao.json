@@ -1,0 +1,12 @@
+{
+  "name": "稀土开发者大会资料",
+  "slug": "xi-tu-kai-fa-zhe-da-hui-zi-liao",
+  "count": 1,
+  "items": [
+    {
+      "issueId": 220,
+      "issueTitle": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
+      "content": "\n上月底，[稀土掘金社区](https://juejin.cn/?utm_source=ryfzk)办了[第二届开发者大会](https://conf.juejin.cn/xdc2022/?utm_source=ryfzk)。\n\n周刊发过活动预告，希望大家报名看现场直播。因为他们这一次请了[很多人](https://conf.juejin.cn/xdc2022/#s8?utm_source=ryfzk)，两天排了18个技术专场，近百场演讲。\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081506.webp)\n\n那一天，我也上线看了。下面分享几个印象比较深的演讲，它们的视频和 PPT 现在都上网了。\n\n1、\n\n首先，开幕式的当天上午是 Vue.js 创始人尤雨溪的演讲。\n\n他主要讲了两点。第一点是 React Hooks 写法的一些缺点，其他框架（包括 Vue.js）如何克服。\n\n第二点比较有趣。他提到，**框架逐渐变成一个“中间层”。** \n\n框架的上层是一些全栈框架（比如 Next.js 和 Nuxt），将前后端打通。下层是一些二进制工具（下图），都不是用 JS 写的，主要用原生的编译语言实现。\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081407.webp)\n\n因此在未来，前端框架可能会向“中间层工具”发展。\n\n2、\n\n另一个不错的演讲，来自微软工程师、[Dapr](https://dapr.io/) 的维护者敖小剑。\n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081502.webp)\n\n他谈了一个 Java 开发者普遍关心的问题：**微服务 + 容器 + serverless 这些云工具，正在蚕食大型 Java 系统的市场**，那么 Java 和 Spring 框架应该怎样面对云原生的挑战？\n\n还有两个演讲也蛮有意思。（1）飞书的产品负责人陈满砚，介绍如何管理300人的团队，做出飞书这个产品。（2）中兴通讯的工程师陈旭，介绍可视化的多人实时编辑的算法实现。\n\n3、\n\n现在，[所有演讲视频](https://conf.juejin.cn/xdc2022/?utm_source=ryfzk)都上网了，就在稀土开发者大会的官网。\n\n这些演讲的 PPT 免费下载，一共78个文件，包括上面我提到的那几个。**官方把这些 PPT 做成了一本完整的掘金小册**，省得大家一个个下载了。 \n\n![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082406.webp)\n\n[点击这里](https://juejin.cn/book/7127092198096502822?utm_source=ryfzk)或者扫描二维码，就可以免费阅读这些 PPT 了，它需要一个掘金账号。另外官方还有不少礼品，阅读小册的朋友都有机会抽奖，详见[抽奖说明](https://mp.weixin.qq.com/s/EUWEcOjQKque61Jc_PqZKA)。\n\n我顺便提一下，[“掘金小册”](https://juejin.cn/course?utm_source=ryfzk)其实是一个不错的知识变现渠道。如果你有值得分享的知识，愿意写成一本系统性的小册子，就可以申请在他们的官网上架。你自己定价，如果写得不错，官方还会帮你推广，有兴趣的朋友可以试试看。\n"
+    }
+  ]
+}

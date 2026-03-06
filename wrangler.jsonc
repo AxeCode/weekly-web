@@ -1,0 +1,7 @@
+{
+  "name": "weekly-web",
+  "compatibility_date": "2026-03-06",
+  "assets": {
+    "directory": "./out" // 核心：指向静态输出目录
+  }
+}

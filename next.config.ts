@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  // 将 'export' 改为 'standalone'
+  output: 'standalone', 
   images: {
     unoptimized: true,
   },
